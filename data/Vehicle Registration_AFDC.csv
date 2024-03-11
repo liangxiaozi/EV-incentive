@@ -1,0 +1,4285 @@
+State,Year,Type,Count,Clean
+Alabama,2016,Electric (EV),500,1
+Alabama,2016,Plug-In Hybrid Electric (PHEV),900,1
+Alabama,2016,Hybrid Electric (HEV),29100,1
+Alabama,2016,Biodiesel,0,1
+Alabama,2016,Ethanol/Flex (E85),428300,1
+Alabama,2016,Compressed Natural Gas (CNG),20100,1
+Alabama,2016,Propane,0,1
+Alabama,2016,Hydrogen,0,1
+Alabama,2016,Methanol,0,1
+Alabama,2016,Gasoline,3777300,0
+Alabama,2016,Diesel,126500,0
+Alabama,2016,Unknown Fuel,53900,0
+Alaska,2016,Electric (EV),200,1
+Alaska,2016,Plug-In Hybrid Electric (PHEV),200,1
+Alaska,2016,Hybrid Electric (HEV),5000,1
+Alaska,2016,Biodiesel,0,1
+Alaska,2016,Ethanol/Flex (E85),55700,1
+Alaska,2016,Compressed Natural Gas (CNG),4900,1
+Alaska,2016,Propane,0,1
+Alaska,2016,Hydrogen,0,1
+Alaska,2016,Methanol,0,1
+Alaska,2016,Gasoline,525900,0
+Alaska,2016,Diesel,44800,0
+Alaska,2016,Unknown Fuel,19400,0
+Arizona,2016,Electric (EV),4700,1
+Arizona,2016,Plug-In Hybrid Electric (PHEV),4400,1
+Arizona,2016,Hybrid Electric (HEV),89600,1
+Arizona,2016,Biodiesel,0,1
+Arizona,2016,Ethanol/Flex (E85),427300,1
+Arizona,2016,Compressed Natural Gas (CNG),17500,1
+Arizona,2016,Propane,0,1
+Arizona,2016,Hydrogen,0,1
+Arizona,2016,Methanol,100,1
+Arizona,2016,Gasoline,4805000,0
+Arizona,2016,Diesel,179500,0
+Arizona,2016,Unknown Fuel,112800,0
+Arkansas,2016,Electric (EV),200,1
+Arkansas,2016,Plug-In Hybrid Electric (PHEV),500,1
+Arkansas,2016,Hybrid Electric (HEV),19100,1
+Arkansas,2016,Biodiesel,0,1
+Arkansas,2016,Ethanol/Flex (E85),320500,1
+Arkansas,2016,Compressed Natural Gas (CNG),12600,1
+Arkansas,2016,Propane,0,1
+Arkansas,2016,Hydrogen,0,1
+Arkansas,2016,Methanol,0,1
+Arkansas,2016,Gasoline,2097800,0
+Arkansas,2016,Diesel,96800,0
+Arkansas,2016,Unknown Fuel,22200,0
+California,2016,Electric (EV),141500,1
+California,2016,Plug-In Hybrid Electric (PHEV),116700,1
+California,2016,Hybrid Electric (HEV),966700,1
+California,2016,Biodiesel,0,1
+California,2016,Ethanol/Flex (E85),1322600,1
+California,2016,Compressed Natural Gas (CNG),80600,1
+California,2016,Propane,0,1
+California,2016,Hydrogen,1300,1
+California,2016,Methanol,400,1
+California,2016,Gasoline,27241000,0
+California,2016,Diesel,710400,0
+California,2016,Unknown Fuel,115500,0
+Colorado,2016,Electric (EV),5300,1
+Colorado,2016,Plug-In Hybrid Electric (PHEV),3800,1
+Colorado,2016,Hybrid Electric (HEV),74000,1
+Colorado,2016,Biodiesel,0,1
+Colorado,2016,Ethanol/Flex (E85),355500,1
+Colorado,2016,Compressed Natural Gas (CNG),15900,1
+Colorado,2016,Propane,0,1
+Colorado,2016,Hydrogen,0,1
+Colorado,2016,Methanol,0,1
+Colorado,2016,Gasoline,4180500,0
+Colorado,2016,Diesel,226800,0
+Colorado,2016,Unknown Fuel,89900,0
+Connecticut,2016,Electric (EV),2000,1
+Connecticut,2016,Plug-In Hybrid Electric (PHEV),2800,1
+Connecticut,2016,Hybrid Electric (HEV),43200,1
+Connecticut,2016,Biodiesel,0,1
+Connecticut,2016,Ethanol/Flex (E85),160800,1
+Connecticut,2016,Compressed Natural Gas (CNG),3200,1
+Connecticut,2016,Propane,0,1
+Connecticut,2016,Hydrogen,0,1
+Connecticut,2016,Methanol,0,1
+Connecticut,2016,Gasoline,2690900,0
+Connecticut,2016,Diesel,59700,0
+Connecticut,2016,Unknown Fuel,30200,0
+Delaware,2016,Electric (EV),300,1
+Delaware,2016,Plug-In Hybrid Electric (PHEV),700,1
+Delaware,2016,Hybrid Electric (HEV),11200,1
+Delaware,2016,Biodiesel,0,1
+Delaware,2016,Ethanol/Flex (E85),68300,1
+Delaware,2016,Compressed Natural Gas (CNG),1400,1
+Delaware,2016,Propane,0,1
+Delaware,2016,Hydrogen,0,1
+Delaware,2016,Methanol,0,1
+Delaware,2016,Gasoline,749800,0
+Delaware,2016,Diesel,17000,0
+Delaware,2016,Unknown Fuel,7200,0
+District of Columbia,2016,Electric (EV),600,1
+District of Columbia,2016,Plug-In Hybrid Electric (PHEV),500,1
+District of Columbia,2016,Hybrid Electric (HEV),11800,1
+District of Columbia,2016,Biodiesel,0,1
+District of Columbia,2016,Ethanol/Flex (E85),17600,1
+District of Columbia,2016,Compressed Natural Gas (CNG),300,1
+District of Columbia,2016,Propane,0,1
+District of Columbia,2016,Hydrogen,0,1
+District of Columbia,2016,Methanol,0,1
+District of Columbia,2016,Gasoline,277800,0
+District of Columbia,2016,Diesel,3200,0
+District of Columbia,2016,Unknown Fuel,1300,0
+Florida,2016,Electric (EV),11600,1
+Florida,2016,Plug-In Hybrid Electric (PHEV),10100,1
+Florida,2016,Hybrid Electric (HEV),207100,1
+Florida,2016,Biodiesel,0,1
+Florida,2016,Ethanol/Flex (E85),1168900,1
+Florida,2016,Compressed Natural Gas (CNG),18000,1
+Florida,2016,Propane,0,1
+Florida,2016,Hydrogen,0,1
+Florida,2016,Methanol,0,1
+Florida,2016,Gasoline,13929200,0
+Florida,2016,Diesel,353300,0
+Florida,2016,Unknown Fuel,133600,0
+Georgia,2016,Electric (EV),18000,1
+Georgia,2016,Plug-In Hybrid Electric (PHEV),4000,1
+Georgia,2016,Hybrid Electric (HEV),86400,1
+Georgia,2016,Biodiesel,0,1
+Georgia,2016,Ethanol/Flex (E85),710700,1
+Georgia,2016,Compressed Natural Gas (CNG),26900,1
+Georgia,2016,Propane,0,1
+Georgia,2016,Hydrogen,0,1
+Georgia,2016,Methanol,0,1
+Georgia,2016,Gasoline,7377700,0
+Georgia,2016,Diesel,206700,0
+Georgia,2016,Unknown Fuel,114800,0
+Hawaii,2016,Electric (EV),4200,1
+Hawaii,2016,Plug-In Hybrid Electric (PHEV),1200,1
+Hawaii,2016,Hybrid Electric (HEV),22600,1
+Hawaii,2016,Biodiesel,0,1
+Hawaii,2016,Ethanol/Flex (E85),43600,1
+Hawaii,2016,Compressed Natural Gas (CNG),1500,1
+Hawaii,2016,Propane,0,1
+Hawaii,2016,Hydrogen,0,1
+Hawaii,2016,Methanol,0,1
+Hawaii,2016,Gasoline,953300,0
+Hawaii,2016,Diesel,17800,0
+Hawaii,2016,Unknown Fuel,7400,0
+Idaho,2016,Electric (EV),400,1
+Idaho,2016,Plug-In Hybrid Electric (PHEV),600,1
+Idaho,2016,Hybrid Electric (HEV),16300,1
+Idaho,2016,Biodiesel,0,1
+Idaho,2016,Ethanol/Flex (E85),107100,1
+Idaho,2016,Compressed Natural Gas (CNG),12800,1
+Idaho,2016,Propane,0,1
+Idaho,2016,Hydrogen,0,1
+Idaho,2016,Methanol,0,1
+Idaho,2016,Gasoline,1354300,0
+Idaho,2016,Diesel,123000,0
+Idaho,2016,Unknown Fuel,56200,0
+Illinois,2016,Electric (EV),5800,1
+Illinois,2016,Plug-In Hybrid Electric (PHEV),6000,1
+Illinois,2016,Hybrid Electric (HEV),146500,1
+Illinois,2016,Biodiesel,0,1
+Illinois,2016,Ethanol/Flex (E85),968600,1
+Illinois,2016,Compressed Natural Gas (CNG),18500,1
+Illinois,2016,Propane,0,1
+Illinois,2016,Hydrogen,0,1
+Illinois,2016,Methanol,0,1
+Illinois,2016,Gasoline,8748600,0
+Illinois,2016,Diesel,200900,0
+Illinois,2016,Unknown Fuel,94500,0
+Indiana,2016,Electric (EV),1300,1
+Indiana,2016,Plug-In Hybrid Electric (PHEV),2400,1
+Indiana,2016,Hybrid Electric (HEV),54500,1
+Indiana,2016,Biodiesel,0,1
+Indiana,2016,Ethanol/Flex (E85),569300,1
+Indiana,2016,Compressed Natural Gas (CNG),19900,1
+Indiana,2016,Propane,0,1
+Indiana,2016,Hydrogen,0,1
+Indiana,2016,Methanol,0,1
+Indiana,2016,Gasoline,4855200,0
+Indiana,2016,Diesel,156800,0
+Indiana,2016,Unknown Fuel,82500,0
+Iowa,2016,Electric (EV),400,1
+Iowa,2016,Plug-In Hybrid Electric (PHEV),1200,1
+Iowa,2016,Hybrid Electric (HEV),26900,1
+Iowa,2016,Biodiesel,0,1
+Iowa,2016,Ethanol/Flex (E85),367400,1
+Iowa,2016,Compressed Natural Gas (CNG),13400,1
+Iowa,2016,Propane,0,1
+Iowa,2016,Hydrogen,0,1
+Iowa,2016,Methanol,0,1
+Iowa,2016,Gasoline,2418600,0
+Iowa,2016,Diesel,107600,0
+Iowa,2016,Unknown Fuel,80600,0
+Kansas,2016,Electric (EV),600,1
+Kansas,2016,Plug-In Hybrid Electric (PHEV),1000,1
+Kansas,2016,Hybrid Electric (HEV),26200,1
+Kansas,2016,Biodiesel,0,1
+Kansas,2016,Ethanol/Flex (E85),250600,1
+Kansas,2016,Compressed Natural Gas (CNG),14200,1
+Kansas,2016,Propane,0,1
+Kansas,2016,Hydrogen,0,1
+Kansas,2016,Methanol,0,1
+Kansas,2016,Gasoline,2095000,0
+Kansas,2016,Diesel,90000,0
+Kansas,2016,Unknown Fuel,42400,0
+Kentucky,2016,Electric (EV),500,1
+Kentucky,2016,Plug-In Hybrid Electric (PHEV),900,1
+Kentucky,2016,Hybrid Electric (HEV),30900,1
+Kentucky,2016,Biodiesel,0,1
+Kentucky,2016,Ethanol/Flex (E85),336000,1
+Kentucky,2016,Compressed Natural Gas (CNG),15600,1
+Kentucky,2016,Propane,0,1
+Kentucky,2016,Hydrogen,0,1
+Kentucky,2016,Methanol,0,1
+Kentucky,2016,Gasoline,3285300,0
+Kentucky,2016,Diesel,115200,0
+Kentucky,2016,Unknown Fuel,47500,0
+Louisiana,2016,Electric (EV),400,1
+Louisiana,2016,Plug-In Hybrid Electric (PHEV),500,1
+Louisiana,2016,Hybrid Electric (HEV),17700,1
+Louisiana,2016,Biodiesel,0,1
+Louisiana,2016,Ethanol/Flex (E85),469700,1
+Louisiana,2016,Compressed Natural Gas (CNG),11900,1
+Louisiana,2016,Propane,0,1
+Louisiana,2016,Hydrogen,0,1
+Louisiana,2016,Methanol,0,1
+Louisiana,2016,Gasoline,3047300,0
+Louisiana,2016,Diesel,152400,0
+Louisiana,2016,Unknown Fuel,36600,0
+Maine,2016,Electric (EV),300,1
+Maine,2016,Plug-In Hybrid Electric (PHEV),1000,1
+Maine,2016,Hybrid Electric (HEV),17900,1
+Maine,2016,Biodiesel,0,1
+Maine,2016,Ethanol/Flex (E85),104700,1
+Maine,2016,Compressed Natural Gas (CNG),1700,1
+Maine,2016,Propane,0,1
+Maine,2016,Hydrogen,0,1
+Maine,2016,Methanol,0,1
+Maine,2016,Gasoline,1011700,0
+Maine,2016,Diesel,31000,0
+Maine,2016,Unknown Fuel,12900,0
+Maryland,2016,Electric (EV),3200,1
+Maryland,2016,Plug-In Hybrid Electric (PHEV),5000,1
+Maryland,2016,Hybrid Electric (HEV),85900,1
+Maryland,2016,Biodiesel,0,1
+Maryland,2016,Ethanol/Flex (E85),327800,1
+Maryland,2016,Compressed Natural Gas (CNG),6100,1
+Maryland,2016,Propane,0,1
+Maryland,2016,Hydrogen,0,1
+Maryland,2016,Methanol,0,1
+Maryland,2016,Gasoline,4039100,0
+Maryland,2016,Diesel,105200,0
+Maryland,2016,Unknown Fuel,44500,0
+Massachusetts,2016,Electric (EV),3600,1
+Massachusetts,2016,Plug-In Hybrid Electric (PHEV),5200,1
+Massachusetts,2016,Hybrid Electric (HEV),98300,1
+Massachusetts,2016,Biodiesel,0,1
+Massachusetts,2016,Ethanol/Flex (E85),315600,1
+Massachusetts,2016,Compressed Natural Gas (CNG),3400,1
+Massachusetts,2016,Propane,0,1
+Massachusetts,2016,Hydrogen,0,1
+Massachusetts,2016,Methanol,0,1
+Massachusetts,2016,Gasoline,4623900,0
+Massachusetts,2016,Diesel,79000,0
+Massachusetts,2016,Unknown Fuel,38800,0
+Michigan,2016,Electric (EV),1600,1
+Michigan,2016,Plug-In Hybrid Electric (PHEV),11600,1
+Michigan,2016,Hybrid Electric (HEV),64900,1
+Michigan,2016,Biodiesel,0,1
+Michigan,2016,Ethanol/Flex (E85),1186000,1
+Michigan,2016,Compressed Natural Gas (CNG),19800,1
+Michigan,2016,Propane,0,1
+Michigan,2016,Hydrogen,0,1
+Michigan,2016,Methanol,0,1
+Michigan,2016,Gasoline,6902900,0
+Michigan,2016,Diesel,190800,0
+Michigan,2016,Unknown Fuel,81100,0
+Minnesota,2016,Electric (EV),1600,1
+Minnesota,2016,Plug-In Hybrid Electric (PHEV),2400,1
+Minnesota,2016,Hybrid Electric (HEV),58900,1
+Minnesota,2016,Biodiesel,0,1
+Minnesota,2016,Ethanol/Flex (E85),549600,1
+Minnesota,2016,Compressed Natural Gas (CNG),13600,1
+Minnesota,2016,Propane,0,1
+Minnesota,2016,Hydrogen,0,1
+Minnesota,2016,Methanol,0,1
+Minnesota,2016,Gasoline,3981400,0
+Minnesota,2016,Diesel,135100,0
+Minnesota,2016,Unknown Fuel,51900,0
+Mississippi,2016,Electric (EV),100,1
+Mississippi,2016,Plug-In Hybrid Electric (PHEV),200,1
+Mississippi,2016,Hybrid Electric (HEV),11800,1
+Mississippi,2016,Biodiesel,0,1
+Mississippi,2016,Ethanol/Flex (E85),279600,1
+Mississippi,2016,Compressed Natural Gas (CNG),9500,1
+Mississippi,2016,Propane,0,1
+Mississippi,2016,Hydrogen,0,1
+Mississippi,2016,Methanol,0,1
+Mississippi,2016,Gasoline,2106700,0
+Mississippi,2016,Diesel,78300,0
+Mississippi,2016,Unknown Fuel,16300,0
+Missouri,2016,Electric (EV),1400,1
+Missouri,2016,Plug-In Hybrid Electric (PHEV),2100,1
+Missouri,2016,Hybrid Electric (HEV),63800,1
+Missouri,2016,Biodiesel,0,1
+Missouri,2016,Ethanol/Flex (E85),589600,1
+Missouri,2016,Compressed Natural Gas (CNG),21800,1
+Missouri,2016,Propane,0,1
+Missouri,2016,Hydrogen,0,1
+Missouri,2016,Methanol,0,1
+Missouri,2016,Gasoline,4597300,0
+Missouri,2016,Diesel,194200,0
+Missouri,2016,Unknown Fuel,71300,0
+Montana,2016,Electric (EV),200,1
+Montana,2016,Plug-In Hybrid Electric (PHEV),200,1
+Montana,2016,Hybrid Electric (HEV),9800,1
+Montana,2016,Biodiesel,0,1
+Montana,2016,Ethanol/Flex (E85),111700,1
+Montana,2016,Compressed Natural Gas (CNG),5400,1
+Montana,2016,Propane,0,1
+Montana,2016,Hydrogen,0,1
+Montana,2016,Methanol,0,1
+Montana,2016,Gasoline,750600,0
+Montana,2016,Diesel,87600,0
+Montana,2016,Unknown Fuel,22600,0
+Nebraska,2016,Electric (EV),300,1
+Nebraska,2016,Plug-In Hybrid Electric (PHEV),600,1
+Nebraska,2016,Hybrid Electric (HEV),14500,1
+Nebraska,2016,Biodiesel,0,1
+Nebraska,2016,Ethanol/Flex (E85),208300,1
+Nebraska,2016,Compressed Natural Gas (CNG),9900,1
+Nebraska,2016,Propane,0,1
+Nebraska,2016,Hydrogen,0,1
+Nebraska,2016,Methanol,0,1
+Nebraska,2016,Gasoline,1468900,0
+Nebraska,2016,Diesel,79800,0
+Nebraska,2016,Unknown Fuel,38300,0
+Nevada,2016,Electric (EV),2000,1
+Nevada,2016,Plug-In Hybrid Electric (PHEV),1400,1
+Nevada,2016,Hybrid Electric (HEV),30700,1
+Nevada,2016,Biodiesel,0,1
+Nevada,2016,Ethanol/Flex (E85),138800,1
+Nevada,2016,Compressed Natural Gas (CNG),7100,1
+Nevada,2016,Propane,0,1
+Nevada,2016,Hydrogen,0,1
+Nevada,2016,Methanol,0,1
+Nevada,2016,Gasoline,1923600,0
+Nevada,2016,Diesel,83000,0
+Nevada,2016,Unknown Fuel,36000,0
+New Hampshire,2016,Electric (EV),400,1
+New Hampshire,2016,Plug-In Hybrid Electric (PHEV),1000,1
+New Hampshire,2016,Hybrid Electric (HEV),19200,1
+New Hampshire,2016,Biodiesel,0,1
+New Hampshire,2016,Ethanol/Flex (E85),100900,1
+New Hampshire,2016,Compressed Natural Gas (CNG),1800,1
+New Hampshire,2016,Propane,0,1
+New Hampshire,2016,Hydrogen,0,1
+New Hampshire,2016,Methanol,0,1
+New Hampshire,2016,Gasoline,1132600,0
+New Hampshire,2016,Diesel,34300,0
+New Hampshire,2016,Unknown Fuel,16900,0
+New Jersey,2016,Electric (EV),4200,1
+New Jersey,2016,Plug-In Hybrid Electric (PHEV),5500,1
+New Jersey,2016,Hybrid Electric (HEV),80900,1
+New Jersey,2016,Biodiesel,0,1
+New Jersey,2016,Ethanol/Flex (E85),470400,1
+New Jersey,2016,Compressed Natural Gas (CNG),4400,1
+New Jersey,2016,Propane,0,1
+New Jersey,2016,Hydrogen,0,1
+New Jersey,2016,Methanol,0,1
+New Jersey,2016,Gasoline,6001300,0
+New Jersey,2016,Diesel,111500,0
+New Jersey,2016,Unknown Fuel,51600,0
+New Mexico,2016,Electric (EV),500,1
+New Mexico,2016,Plug-In Hybrid Electric (PHEV),600,1
+New Mexico,2016,Hybrid Electric (HEV),20800,1
+New Mexico,2016,Biodiesel,0,1
+New Mexico,2016,Ethanol/Flex (E85),142300,1
+New Mexico,2016,Compressed Natural Gas (CNG),7800,1
+New Mexico,2016,Propane,0,1
+New Mexico,2016,Hydrogen,0,1
+New Mexico,2016,Methanol,0,1
+New Mexico,2016,Gasoline,1375900,0
+New Mexico,2016,Diesel,88400,0
+New Mexico,2016,Unknown Fuel,37200,0
+New York,2016,Electric (EV),6100,1
+New York,2016,Plug-In Hybrid Electric (PHEV),12100,1
+New York,2016,Hybrid Electric (HEV),166500,1
+New York,2016,Biodiesel,0,1
+New York,2016,Ethanol/Flex (E85),895500,1
+New York,2016,Compressed Natural Gas (CNG),10200,1
+New York,2016,Propane,0,1
+New York,2016,Hydrogen,0,1
+New York,2016,Methanol,0,1
+New York,2016,Gasoline,10013300,0
+New York,2016,Diesel,191300,0
+New York,2016,Unknown Fuel,112600,0
+North Carolina,2016,Electric (EV),2900,1
+North Carolina,2016,Plug-In Hybrid Electric (PHEV),3600,1
+North Carolina,2016,Hybrid Electric (HEV),107400,1
+North Carolina,2016,Biodiesel,0,1
+North Carolina,2016,Ethanol/Flex (E85),642800,1
+North Carolina,2016,Compressed Natural Gas (CNG),26100,1
+North Carolina,2016,Propane,0,1
+North Carolina,2016,Hydrogen,0,1
+North Carolina,2016,Methanol,0,1
+North Carolina,2016,Gasoline,7095700,0
+North Carolina,2016,Diesel,218900,0
+North Carolina,2016,Unknown Fuel,108900,0
+North Dakota,2016,Electric (EV),0,1
+North Dakota,2016,Plug-In Hybrid Electric (PHEV),100,1
+North Dakota,2016,Hybrid Electric (HEV),3400,1
+North Dakota,2016,Biodiesel,0,1
+North Dakota,2016,Ethanol/Flex (E85),118500,1
+North Dakota,2016,Compressed Natural Gas (CNG),5100,1
+North Dakota,2016,Propane,0,1
+North Dakota,2016,Hydrogen,0,1
+North Dakota,2016,Methanol,0,1
+North Dakota,2016,Gasoline,566300,0
+North Dakota,2016,Diesel,51900,0
+North Dakota,2016,Unknown Fuel,20200,0
+Ohio,2016,Electric (EV),2600,1
+Ohio,2016,Plug-In Hybrid Electric (PHEV),4400,1
+Ohio,2016,Hybrid Electric (HEV),91900,1
+Ohio,2016,Biodiesel,0,1
+Ohio,2016,Ethanol/Flex (E85),909400,1
+Ohio,2016,Compressed Natural Gas (CNG),21600,1
+Ohio,2016,Propane,0,1
+Ohio,2016,Hydrogen,0,1
+Ohio,2016,Methanol,0,1
+Ohio,2016,Gasoline,8740000,0
+Ohio,2016,Diesel,209700,0
+Ohio,2016,Unknown Fuel,109200,0
+Oklahoma,2016,Electric (EV),600,1
+Oklahoma,2016,Plug-In Hybrid Electric (PHEV),700,1
+Oklahoma,2016,Hybrid Electric (HEV),24800,1
+Oklahoma,2016,Biodiesel,0,1
+Oklahoma,2016,Ethanol/Flex (E85),599800,1
+Oklahoma,2016,Compressed Natural Gas (CNG),20300,1
+Oklahoma,2016,Propane,0,1
+Oklahoma,2016,Hydrogen,0,1
+Oklahoma,2016,Methanol,0,1
+Oklahoma,2016,Gasoline,3277300,0
+Oklahoma,2016,Diesel,171700,0
+Oklahoma,2016,Unknown Fuel,73100,0
+Oregon,2016,Electric (EV),7700,1
+Oregon,2016,Plug-In Hybrid Electric (PHEV),4300,1
+Oregon,2016,Hybrid Electric (HEV),83300,1
+Oregon,2016,Biodiesel,0,1
+Oregon,2016,Ethanol/Flex (E85),168600,1
+Oregon,2016,Compressed Natural Gas (CNG),15500,1
+Oregon,2016,Propane,0,1
+Oregon,2016,Hydrogen,0,1
+Oregon,2016,Methanol,0,1
+Oregon,2016,Gasoline,3077900,0
+Oregon,2016,Diesel,220300,0
+Oregon,2016,Unknown Fuel,100900,0
+Pennsylvania,2016,Electric (EV),3200,1
+Pennsylvania,2016,Plug-In Hybrid Electric (PHEV),5400,1
+Pennsylvania,2016,Hybrid Electric (HEV),103200,1
+Pennsylvania,2016,Biodiesel,0,1
+Pennsylvania,2016,Ethanol/Flex (E85),776400,1
+Pennsylvania,2016,Compressed Natural Gas (CNG),15300,1
+Pennsylvania,2016,Propane,0,1
+Pennsylvania,2016,Hydrogen,0,1
+Pennsylvania,2016,Methanol,0,1
+Pennsylvania,2016,Gasoline,8767400,0
+Pennsylvania,2016,Diesel,223100,0
+Pennsylvania,2016,Unknown Fuel,90200,0
+Rhode Island,2016,Electric (EV),300,1
+Rhode Island,2016,Plug-In Hybrid Electric (PHEV),600,1
+Rhode Island,2016,Hybrid Electric (HEV),11000,1
+Rhode Island,2016,Biodiesel,0,1
+Rhode Island,2016,Ethanol/Flex (E85),44300,1
+Rhode Island,2016,Compressed Natural Gas (CNG),700,1
+Rhode Island,2016,Propane,0,1
+Rhode Island,2016,Hydrogen,0,1
+Rhode Island,2016,Methanol,0,1
+Rhode Island,2016,Gasoline,778200,0
+Rhode Island,2016,Diesel,14000,0
+Rhode Island,2016,Unknown Fuel,8500,0
+South Carolina,2016,Electric (EV),800,1
+South Carolina,2016,Plug-In Hybrid Electric (PHEV),1200,1
+South Carolina,2016,Hybrid Electric (HEV),39300,1
+South Carolina,2016,Biodiesel,0,1
+South Carolina,2016,Ethanol/Flex (E85),373900,1
+South Carolina,2016,Compressed Natural Gas (CNG),16100,1
+South Carolina,2016,Propane,0,1
+South Carolina,2016,Hydrogen,0,1
+South Carolina,2016,Methanol,0,1
+South Carolina,2016,Gasoline,3814700,0
+South Carolina,2016,Diesel,102900,0
+South Carolina,2016,Unknown Fuel,67900,0
+South Dakota,2016,Electric (EV),100,1
+South Dakota,2016,Plug-In Hybrid Electric (PHEV),200,1
+South Dakota,2016,Hybrid Electric (HEV),5300,1
+South Dakota,2016,Biodiesel,0,1
+South Dakota,2016,Ethanol/Flex (E85),113100,1
+South Dakota,2016,Compressed Natural Gas (CNG),5700,1
+South Dakota,2016,Propane,0,1
+South Dakota,2016,Hydrogen,0,1
+South Dakota,2016,Methanol,0,1
+South Dakota,2016,Gasoline,667200,0
+South Dakota,2016,Diesel,56200,0
+South Dakota,2016,Unknown Fuel,24200,0
+Tennessee,2016,Electric (EV),2600,1
+Tennessee,2016,Plug-In Hybrid Electric (PHEV),1700,1
+Tennessee,2016,Hybrid Electric (HEV),48400,1
+Tennessee,2016,Biodiesel,0,1
+Tennessee,2016,Ethanol/Flex (E85),442400,1
+Tennessee,2016,Compressed Natural Gas (CNG),21300,1
+Tennessee,2016,Propane,0,1
+Tennessee,2016,Hydrogen,0,1
+Tennessee,2016,Methanol,0,1
+Tennessee,2016,Gasoline,4772600,0
+Tennessee,2016,Diesel,137900,0
+Tennessee,2016,Unknown Fuel,59800,0
+Texas,2016,Electric (EV),11900,1
+Texas,2016,Plug-In Hybrid Electric (PHEV),8000,1
+Texas,2016,Hybrid Electric (HEV),205800,1
+Texas,2016,Biodiesel,0,1
+Texas,2016,Ethanol/Flex (E85),2596600,1
+Texas,2016,Compressed Natural Gas (CNG),64700,1
+Texas,2016,Propane,0,1
+Texas,2016,Hydrogen,0,1
+Texas,2016,Methanol,0,1
+Texas,2016,Gasoline,18245400,0
+Texas,2016,Diesel,961200,0
+Texas,2016,Unknown Fuel,213100,0
+Utah,2016,Electric (EV),2500,1
+Utah,2016,Plug-In Hybrid Electric (PHEV),1700,1
+Utah,2016,Hybrid Electric (HEV),32700,1
+Utah,2016,Biodiesel,0,1
+Utah,2016,Ethanol/Flex (E85),172900,1
+Utah,2016,Compressed Natural Gas (CNG),10800,1
+Utah,2016,Propane,0,1
+Utah,2016,Hydrogen,0,1
+Utah,2016,Methanol,0,1
+Utah,2016,Gasoline,2072100,0
+Utah,2016,Diesel,150800,0
+Utah,2016,Unknown Fuel,38700,0
+Vermont,2016,Electric (EV),300,1
+Vermont,2016,Plug-In Hybrid Electric (PHEV),1200,1
+Vermont,2016,Hybrid Electric (HEV),11600,1
+Vermont,2016,Biodiesel,0,1
+Vermont,2016,Ethanol/Flex (E85),49300,1
+Vermont,2016,Compressed Natural Gas (CNG),800,1
+Vermont,2016,Propane,0,1
+Vermont,2016,Hydrogen,0,1
+Vermont,2016,Methanol,0,1
+Vermont,2016,Gasoline,521600,0
+Vermont,2016,Diesel,20200,0
+Vermont,2016,Unknown Fuel,8400,0
+Virginia,2016,Electric (EV),3100,1
+Virginia,2016,Plug-In Hybrid Electric (PHEV),4200,1
+Virginia,2016,Hybrid Electric (HEV),126700,1
+Virginia,2016,Biodiesel,0,1
+Virginia,2016,Ethanol/Flex (E85),463300,1
+Virginia,2016,Compressed Natural Gas (CNG),17900,1
+Virginia,2016,Propane,0,1
+Virginia,2016,Hydrogen,0,1
+Virginia,2016,Methanol,0,1
+Virginia,2016,Gasoline,6554200,0
+Virginia,2016,Diesel,168900,0
+Virginia,2016,Unknown Fuel,64900,0
+Washington,2016,Electric (EV),14900,1
+Washington,2016,Plug-In Hybrid Electric (PHEV),6400,1
+Washington,2016,Hybrid Electric (HEV),143400,1
+Washington,2016,Biodiesel,0,1
+Washington,2016,Ethanol/Flex (E85),304100,1
+Washington,2016,Compressed Natural Gas (CNG),24400,1
+Washington,2016,Propane,0,1
+Washington,2016,Hydrogen,0,1
+Washington,2016,Methanol,0,1
+Washington,2016,Gasoline,5329200,0
+Washington,2016,Diesel,272100,0
+Washington,2016,Unknown Fuel,133900,0
+West Virginia,2016,Electric (EV),100,1
+West Virginia,2016,Plug-In Hybrid Electric (PHEV),300,1
+West Virginia,2016,Hybrid Electric (HEV),9200,1
+West Virginia,2016,Biodiesel,0,1
+West Virginia,2016,Ethanol/Flex (E85),150300,1
+West Virginia,2016,Compressed Natural Gas (CNG),4400,1
+West Virginia,2016,Propane,0,1
+West Virginia,2016,Hydrogen,0,1
+West Virginia,2016,Methanol,0,1
+West Virginia,2016,Gasoline,1286500,0
+West Virginia,2016,Diesel,52000,0
+West Virginia,2016,Unknown Fuel,21600,0
+Wisconsin,2016,Electric (EV),2600,1
+Wisconsin,2016,Plug-In Hybrid Electric (PHEV),2600,1
+Wisconsin,2016,Hybrid Electric (HEV),61700,1
+Wisconsin,2016,Biodiesel,0,1
+Wisconsin,2016,Ethanol/Flex (E85),579200,1
+Wisconsin,2016,Compressed Natural Gas (CNG),14400,1
+Wisconsin,2016,Propane,0,1
+Wisconsin,2016,Hydrogen,0,1
+Wisconsin,2016,Methanol,0,1
+Wisconsin,2016,Gasoline,4500500,0
+Wisconsin,2016,Diesel,154400,0
+Wisconsin,2016,Unknown Fuel,52900,0
+Wyoming,2016,Electric (EV),100,1
+Wyoming,2016,Plug-In Hybrid Electric (PHEV),100,1
+Wyoming,2016,Hybrid Electric (HEV),3800,1
+Wyoming,2016,Biodiesel,0,1
+Wyoming,2016,Ethanol/Flex (E85),64100,1
+Wyoming,2016,Compressed Natural Gas (CNG),4800,1
+Wyoming,2016,Propane,0,1
+Wyoming,2016,Hydrogen,0,1
+Wyoming,2016,Methanol,0,1
+Wyoming,2016,Gasoline,448600,0
+Wyoming,2016,Diesel,69900,0
+Wyoming,2016,Unknown Fuel,23700,0
+Alabama,2017,Electric (EV),800,1
+Alabama,2017,Plug-In Hybrid Electric (PHEV),1100,1
+Alabama,2017,Hybrid Electric (HEV),30600,1
+Alabama,2017,Biodiesel,0,1
+Alabama,2017,Ethanol/Flex (E85),476700,1
+Alabama,2017,Compressed Natural Gas (CNG),18500,1
+Alabama,2017,Propane,0,1
+Alabama,2017,Hydrogen,0,1
+Alabama,2017,Methanol,0,1
+Alabama,2017,Gasoline,3750700,0
+Alabama,2017,Diesel,131500,0
+Alabama,2017,Unknown Fuel,49000,0
+Alaska,2017,Electric (EV),400,1
+Alaska,2017,Plug-In Hybrid Electric (PHEV),300,1
+Alaska,2017,Hybrid Electric (HEV),5200,1
+Alaska,2017,Biodiesel,0,1
+Alaska,2017,Ethanol/Flex (E85),59400,1
+Alaska,2017,Compressed Natural Gas (CNG),4400,1
+Alaska,2017,Propane,0,1
+Alaska,2017,Hydrogen,0,1
+Alaska,2017,Methanol,0,1
+Alaska,2017,Gasoline,506800,0
+Alaska,2017,Diesel,43200,0
+Alaska,2017,Unknown Fuel,16400,0
+Arizona,2017,Electric (EV),7200,1
+Arizona,2017,Plug-In Hybrid Electric (PHEV),5800,1
+Arizona,2017,Hybrid Electric (HEV),96000,1
+Arizona,2017,Biodiesel,0,1
+Arizona,2017,Ethanol/Flex (E85),484600,1
+Arizona,2017,Compressed Natural Gas (CNG),16600,1
+Arizona,2017,Propane,0,1
+Arizona,2017,Hydrogen,0,1
+Arizona,2017,Methanol,100,1
+Arizona,2017,Gasoline,4940200,0
+Arizona,2017,Diesel,187500,0
+Arizona,2017,Unknown Fuel,108300,0
+Arkansas,2017,Electric (EV),300,1
+Arkansas,2017,Plug-In Hybrid Electric (PHEV),600,1
+Arkansas,2017,Hybrid Electric (HEV),20000,1
+Arkansas,2017,Biodiesel,0,1
+Arkansas,2017,Ethanol/Flex (E85),352700,1
+Arkansas,2017,Compressed Natural Gas (CNG),10800,1
+Arkansas,2017,Propane,0,1
+Arkansas,2017,Hydrogen,0,1
+Arkansas,2017,Methanol,0,1
+Arkansas,2017,Gasoline,2097400,0
+Arkansas,2017,Diesel,100100,0
+Arkansas,2017,Unknown Fuel,19800,0
+California,2017,Electric (EV),189700,1
+California,2017,Plug-In Hybrid Electric (PHEV),159600,1
+California,2017,Hybrid Electric (HEV),1039300,1
+California,2017,Biodiesel,0,1
+California,2017,Ethanol/Flex (E85),1495800,1
+California,2017,Compressed Natural Gas (CNG),79300,1
+California,2017,Propane,0,1
+California,2017,Hydrogen,3200,1
+California,2017,Methanol,400,1
+California,2017,Gasoline,28171500,0
+California,2017,Diesel,738600,0
+California,2017,Unknown Fuel,122200,0
+Colorado,2017,Electric (EV),8000,1
+Colorado,2017,Plug-In Hybrid Electric (PHEV),5200,1
+Colorado,2017,Hybrid Electric (HEV),79800,1
+Colorado,2017,Biodiesel,0,1
+Colorado,2017,Ethanol/Flex (E85),395500,1
+Colorado,2017,Compressed Natural Gas (CNG),14800,1
+Colorado,2017,Propane,0,1
+Colorado,2017,Hydrogen,0,1
+Colorado,2017,Methanol,0,1
+Colorado,2017,Gasoline,4256700,0
+Colorado,2017,Diesel,232400,0
+Colorado,2017,Unknown Fuel,83100,0
+Connecticut,2017,Electric (EV),3000,1
+Connecticut,2017,Plug-In Hybrid Electric (PHEV),3900,1
+Connecticut,2017,Hybrid Electric (HEV),45200,1
+Connecticut,2017,Biodiesel,0,1
+Connecticut,2017,Ethanol/Flex (E85),179800,1
+Connecticut,2017,Compressed Natural Gas (CNG),2900,1
+Connecticut,2017,Propane,0,1
+Connecticut,2017,Hydrogen,0,1
+Connecticut,2017,Methanol,0,1
+Connecticut,2017,Gasoline,2715700,0
+Connecticut,2017,Diesel,57200,0
+Connecticut,2017,Unknown Fuel,29600,0
+Delaware,2017,Electric (EV),400,1
+Delaware,2017,Plug-In Hybrid Electric (PHEV),900,1
+Delaware,2017,Hybrid Electric (HEV),11900,1
+Delaware,2017,Biodiesel,0,1
+Delaware,2017,Ethanol/Flex (E85),74900,1
+Delaware,2017,Compressed Natural Gas (CNG),1300,1
+Delaware,2017,Propane,0,1
+Delaware,2017,Hydrogen,0,1
+Delaware,2017,Methanol,0,1
+Delaware,2017,Gasoline,754200,0
+Delaware,2017,Diesel,16900,0
+Delaware,2017,Unknown Fuel,7000,0
+District of Columbia,2017,Electric (EV),800,1
+District of Columbia,2017,Plug-In Hybrid Electric (PHEV),700,1
+District of Columbia,2017,Hybrid Electric (HEV),13600,1
+District of Columbia,2017,Biodiesel,0,1
+District of Columbia,2017,Ethanol/Flex (E85),23000,1
+District of Columbia,2017,Compressed Natural Gas (CNG),300,1
+District of Columbia,2017,Propane,0,1
+District of Columbia,2017,Hydrogen,0,1
+District of Columbia,2017,Methanol,0,1
+District of Columbia,2017,Gasoline,287400,0
+District of Columbia,2017,Diesel,3000,0
+District of Columbia,2017,Unknown Fuel,1200,0
+Florida,2017,Electric (EV),15900,1
+Florida,2017,Plug-In Hybrid Electric (PHEV),13400,1
+Florida,2017,Hybrid Electric (HEV),219700,1
+Florida,2017,Biodiesel,0,1
+Florida,2017,Ethanol/Flex (E85),1318500,1
+Florida,2017,Compressed Natural Gas (CNG),16800,1
+Florida,2017,Propane,0,1
+Florida,2017,Hydrogen,0,1
+Florida,2017,Methanol,0,1
+Florida,2017,Gasoline,14267800,0
+Florida,2017,Diesel,369900,0
+Florida,2017,Unknown Fuel,131600,0
+Georgia,2017,Electric (EV),14400,1
+Georgia,2017,Plug-In Hybrid Electric (PHEV),5200,1
+Georgia,2017,Hybrid Electric (HEV),92200,1
+Georgia,2017,Biodiesel,0,1
+Georgia,2017,Ethanol/Flex (E85),793600,1
+Georgia,2017,Compressed Natural Gas (CNG),25100,1
+Georgia,2017,Propane,0,1
+Georgia,2017,Hydrogen,0,1
+Georgia,2017,Methanol,0,1
+Georgia,2017,Gasoline,7435300,0
+Georgia,2017,Diesel,218100,0
+Georgia,2017,Unknown Fuel,108000,0
+Hawaii,2017,Electric (EV),5400,1
+Hawaii,2017,Plug-In Hybrid Electric (PHEV),1700,1
+Hawaii,2017,Hybrid Electric (HEV),23700,1
+Hawaii,2017,Biodiesel,0,1
+Hawaii,2017,Ethanol/Flex (E85),48400,1
+Hawaii,2017,Compressed Natural Gas (CNG),1300,1
+Hawaii,2017,Propane,0,1
+Hawaii,2017,Hydrogen,0,1
+Hawaii,2017,Methanol,0,1
+Hawaii,2017,Gasoline,961200,0
+Hawaii,2017,Diesel,18100,0
+Hawaii,2017,Unknown Fuel,7000,0
+Idaho,2017,Electric (EV),700,1
+Idaho,2017,Plug-In Hybrid Electric (PHEV),800,1
+Idaho,2017,Hybrid Electric (HEV),17700,1
+Idaho,2017,Biodiesel,0,1
+Idaho,2017,Ethanol/Flex (E85),123600,1
+Idaho,2017,Compressed Natural Gas (CNG),12000,1
+Idaho,2017,Propane,0,1
+Idaho,2017,Hydrogen,0,1
+Idaho,2017,Methanol,0,1
+Idaho,2017,Gasoline,1387400,0
+Idaho,2017,Diesel,130600,0
+Idaho,2017,Unknown Fuel,34500,0
+Illinois,2017,Electric (EV),8300,1
+Illinois,2017,Plug-In Hybrid Electric (PHEV),7700,1
+Illinois,2017,Hybrid Electric (HEV),155800,1
+Illinois,2017,Biodiesel,0,1
+Illinois,2017,Ethanol/Flex (E85),1056300,1
+Illinois,2017,Compressed Natural Gas (CNG),16400,1
+Illinois,2017,Propane,0,1
+Illinois,2017,Hydrogen,0,1
+Illinois,2017,Methanol,0,1
+Illinois,2017,Gasoline,8689700,0
+Illinois,2017,Diesel,200300,0
+Illinois,2017,Unknown Fuel,89700,0
+Indiana,2017,Electric (EV),1900,1
+Indiana,2017,Plug-In Hybrid Electric (PHEV),3200,1
+Indiana,2017,Hybrid Electric (HEV),59700,1
+Indiana,2017,Biodiesel,0,1
+Indiana,2017,Ethanol/Flex (E85),645000,1
+Indiana,2017,Compressed Natural Gas (CNG),17900,1
+Indiana,2017,Propane,0,1
+Indiana,2017,Hydrogen,0,1
+Indiana,2017,Methanol,0,1
+Indiana,2017,Gasoline,4880700,0
+Indiana,2017,Diesel,161600,0
+Indiana,2017,Unknown Fuel,76900,0
+Iowa,2017,Electric (EV),600,1
+Iowa,2017,Plug-In Hybrid Electric (PHEV),1500,1
+Iowa,2017,Hybrid Electric (HEV),29000,1
+Iowa,2017,Biodiesel,0,1
+Iowa,2017,Ethanol/Flex (E85),405200,1
+Iowa,2017,Compressed Natural Gas (CNG),12300,1
+Iowa,2017,Propane,0,1
+Iowa,2017,Hydrogen,0,1
+Iowa,2017,Methanol,0,1
+Iowa,2017,Gasoline,2413800,0
+Iowa,2017,Diesel,112500,0
+Iowa,2017,Unknown Fuel,75400,0
+Kansas,2017,Electric (EV),1000,1
+Kansas,2017,Plug-In Hybrid Electric (PHEV),1300,1
+Kansas,2017,Hybrid Electric (HEV),28200,1
+Kansas,2017,Biodiesel,0,1
+Kansas,2017,Ethanol/Flex (E85),277900,1
+Kansas,2017,Compressed Natural Gas (CNG),13200,1
+Kansas,2017,Propane,0,1
+Kansas,2017,Hydrogen,0,1
+Kansas,2017,Methanol,0,1
+Kansas,2017,Gasoline,2099900,0
+Kansas,2017,Diesel,92600,0
+Kansas,2017,Unknown Fuel,35900,0
+Kentucky,2017,Electric (EV),700,1
+Kentucky,2017,Plug-In Hybrid Electric (PHEV),1200,1
+Kentucky,2017,Hybrid Electric (HEV),33900,1
+Kentucky,2017,Biodiesel,0,1
+Kentucky,2017,Ethanol/Flex (E85),381500,1
+Kentucky,2017,Compressed Natural Gas (CNG),14500,1
+Kentucky,2017,Propane,0,1
+Kentucky,2017,Hydrogen,0,1
+Kentucky,2017,Methanol,0,1
+Kentucky,2017,Gasoline,3319800,0
+Kentucky,2017,Diesel,120300,0
+Kentucky,2017,Unknown Fuel,44300,0
+Louisiana,2017,Electric (EV),600,1
+Louisiana,2017,Plug-In Hybrid Electric (PHEV),700,1
+Louisiana,2017,Hybrid Electric (HEV),18700,1
+Louisiana,2017,Biodiesel,0,1
+Louisiana,2017,Ethanol/Flex (E85),512300,1
+Louisiana,2017,Compressed Natural Gas (CNG),10500,1
+Louisiana,2017,Propane,0,1
+Louisiana,2017,Hydrogen,0,1
+Louisiana,2017,Methanol,0,1
+Louisiana,2017,Gasoline,3055100,0
+Louisiana,2017,Diesel,155900,0
+Louisiana,2017,Unknown Fuel,33900,0
+Maine,2017,Electric (EV),500,1
+Maine,2017,Plug-In Hybrid Electric (PHEV),1300,1
+Maine,2017,Hybrid Electric (HEV),18900,1
+Maine,2017,Biodiesel,0,1
+Maine,2017,Ethanol/Flex (E85),120700,1
+Maine,2017,Compressed Natural Gas (CNG),1600,1
+Maine,2017,Propane,0,1
+Maine,2017,Hydrogen,0,1
+Maine,2017,Methanol,0,1
+Maine,2017,Gasoline,1013200,0
+Maine,2017,Diesel,31200,0
+Maine,2017,Unknown Fuel,12300,0
+Maryland,2017,Electric (EV),4400,1
+Maryland,2017,Plug-In Hybrid Electric (PHEV),6500,1
+Maryland,2017,Hybrid Electric (HEV),91200,1
+Maryland,2017,Biodiesel,0,1
+Maryland,2017,Ethanol/Flex (E85),369400,1
+Maryland,2017,Compressed Natural Gas (CNG),5500,1
+Maryland,2017,Propane,0,1
+Maryland,2017,Hydrogen,0,1
+Maryland,2017,Methanol,0,1
+Maryland,2017,Gasoline,4056000,0
+Maryland,2017,Diesel,105500,0
+Maryland,2017,Unknown Fuel,42100,0
+Massachusetts,2017,Electric (EV),5600,1
+Massachusetts,2017,Plug-In Hybrid Electric (PHEV),7900,1
+Massachusetts,2017,Hybrid Electric (HEV),103600,1
+Massachusetts,2017,Biodiesel,0,1
+Massachusetts,2017,Ethanol/Flex (E85),356300,1
+Massachusetts,2017,Compressed Natural Gas (CNG),3000,1
+Massachusetts,2017,Propane,0,1
+Massachusetts,2017,Hydrogen,0,1
+Massachusetts,2017,Methanol,0,1
+Massachusetts,2017,Gasoline,4667100,0
+Massachusetts,2017,Diesel,76900,0
+Massachusetts,2017,Unknown Fuel,37800,0
+Michigan,2017,Electric (EV),2500,1
+Michigan,2017,Plug-In Hybrid Electric (PHEV),12000,1
+Michigan,2017,Hybrid Electric (HEV),72000,1
+Michigan,2017,Biodiesel,0,1
+Michigan,2017,Ethanol/Flex (E85),1300200,1
+Michigan,2017,Compressed Natural Gas (CNG),17400,1
+Michigan,2017,Propane,0,1
+Michigan,2017,Hydrogen,0,1
+Michigan,2017,Methanol,0,1
+Michigan,2017,Gasoline,6879500,0
+Michigan,2017,Diesel,342300,0
+Michigan,2017,Unknown Fuel,75100,0
+Minnesota,2017,Electric (EV),2300,1
+Minnesota,2017,Plug-In Hybrid Electric (PHEV),3100,1
+Minnesota,2017,Hybrid Electric (HEV),63300,1
+Minnesota,2017,Biodiesel,0,1
+Minnesota,2017,Ethanol/Flex (E85),595100,1
+Minnesota,2017,Compressed Natural Gas (CNG),12100,1
+Minnesota,2017,Propane,0,1
+Minnesota,2017,Hydrogen,0,1
+Minnesota,2017,Methanol,0,1
+Minnesota,2017,Gasoline,3960100,0
+Minnesota,2017,Diesel,137200,0
+Minnesota,2017,Unknown Fuel,47100,0
+Mississippi,2017,Electric (EV),200,1
+Mississippi,2017,Plug-In Hybrid Electric (PHEV),300,1
+Mississippi,2017,Hybrid Electric (HEV),12800,1
+Mississippi,2017,Biodiesel,0,1
+Mississippi,2017,Ethanol/Flex (E85),319400,1
+Mississippi,2017,Compressed Natural Gas (CNG),7700,1
+Mississippi,2017,Propane,0,1
+Mississippi,2017,Hydrogen,0,1
+Mississippi,2017,Methanol,0,1
+Mississippi,2017,Gasoline,2136700,0
+Mississippi,2017,Diesel,83400,0
+Mississippi,2017,Unknown Fuel,15100,0
+Missouri,2017,Electric (EV),2100,1
+Missouri,2017,Plug-In Hybrid Electric (PHEV),3300,1
+Missouri,2017,Hybrid Electric (HEV),88800,1
+Missouri,2017,Biodiesel,0,1
+Missouri,2017,Ethanol/Flex (E85),709800,1
+Missouri,2017,Compressed Natural Gas (CNG),19800,1
+Missouri,2017,Propane,0,1
+Missouri,2017,Hydrogen,0,1
+Missouri,2017,Methanol,0,1
+Missouri,2017,Gasoline,4645900,0
+Missouri,2017,Diesel,206100,0
+Missouri,2017,Unknown Fuel,64900,0
+Montana,2017,Electric (EV),300,1
+Montana,2017,Plug-In Hybrid Electric (PHEV),300,1
+Montana,2017,Hybrid Electric (HEV),10000,1
+Montana,2017,Biodiesel,0,1
+Montana,2017,Ethanol/Flex (E85),118100,1
+Montana,2017,Compressed Natural Gas (CNG),4900,1
+Montana,2017,Propane,0,1
+Montana,2017,Hydrogen,0,1
+Montana,2017,Methanol,0,1
+Montana,2017,Gasoline,737900,0
+Montana,2017,Diesel,89000,0
+Montana,2017,Unknown Fuel,19700,0
+Nebraska,2017,Electric (EV),500,1
+Nebraska,2017,Plug-In Hybrid Electric (PHEV),800,1
+Nebraska,2017,Hybrid Electric (HEV),15800,1
+Nebraska,2017,Biodiesel,0,1
+Nebraska,2017,Ethanol/Flex (E85),230800,1
+Nebraska,2017,Compressed Natural Gas (CNG),9100,1
+Nebraska,2017,Propane,0,1
+Nebraska,2017,Hydrogen,0,1
+Nebraska,2017,Methanol,0,1
+Nebraska,2017,Gasoline,1475100,0
+Nebraska,2017,Diesel,82400,0
+Nebraska,2017,Unknown Fuel,35700,0
+Nevada,2017,Electric (EV),3100,1
+Nevada,2017,Plug-In Hybrid Electric (PHEV),2000,1
+Nevada,2017,Hybrid Electric (HEV),34400,1
+Nevada,2017,Biodiesel,0,1
+Nevada,2017,Ethanol/Flex (E85),157000,1
+Nevada,2017,Compressed Natural Gas (CNG),6600,1
+Nevada,2017,Propane,0,1
+Nevada,2017,Hydrogen,0,1
+Nevada,2017,Methanol,0,1
+Nevada,2017,Gasoline,1965700,0
+Nevada,2017,Diesel,86900,0
+Nevada,2017,Unknown Fuel,33800,0
+New Hampshire,2017,Electric (EV),600,1
+New Hampshire,2017,Plug-In Hybrid Electric (PHEV),1500,1
+New Hampshire,2017,Hybrid Electric (HEV),20300,1
+New Hampshire,2017,Biodiesel,0,1
+New Hampshire,2017,Ethanol/Flex (E85),113100,1
+New Hampshire,2017,Compressed Natural Gas (CNG),1600,1
+New Hampshire,2017,Propane,0,1
+New Hampshire,2017,Hydrogen,0,1
+New Hampshire,2017,Methanol,0,1
+New Hampshire,2017,Gasoline,1138200,0
+New Hampshire,2017,Diesel,33600,0
+New Hampshire,2017,Unknown Fuel,16100,0
+New Jersey,2017,Electric (EV),6900,1
+New Jersey,2017,Plug-In Hybrid Electric (PHEV),8100,1
+New Jersey,2017,Hybrid Electric (HEV),84900,1
+New Jersey,2017,Biodiesel,0,1
+New Jersey,2017,Ethanol/Flex (E85),508700,1
+New Jersey,2017,Compressed Natural Gas (CNG),4100,1
+New Jersey,2017,Propane,0,1
+New Jersey,2017,Hydrogen,0,1
+New Jersey,2017,Methanol,0,1
+New Jersey,2017,Gasoline,6137800,0
+New Jersey,2017,Diesel,110500,0
+New Jersey,2017,Unknown Fuel,50300,0
+New Mexico,2017,Electric (EV),700,1
+New Mexico,2017,Plug-In Hybrid Electric (PHEV),1000,1
+New Mexico,2017,Hybrid Electric (HEV),23600,1
+New Mexico,2017,Biodiesel,0,1
+New Mexico,2017,Ethanol/Flex (E85),173100,1
+New Mexico,2017,Compressed Natural Gas (CNG),7600,1
+New Mexico,2017,Propane,0,1
+New Mexico,2017,Hydrogen,0,1
+New Mexico,2017,Methanol,0,1
+New Mexico,2017,Gasoline,1474900,0
+New Mexico,2017,Diesel,97600,0
+New Mexico,2017,Unknown Fuel,35600,0
+New York,2017,Electric (EV),9400,1
+New York,2017,Plug-In Hybrid Electric (PHEV),17100,1
+New York,2017,Hybrid Electric (HEV),171000,1
+New York,2017,Biodiesel,0,1
+New York,2017,Ethanol/Flex (E85),960800,1
+New York,2017,Compressed Natural Gas (CNG),8700,1
+New York,2017,Propane,0,1
+New York,2017,Hydrogen,0,1
+New York,2017,Methanol,0,1
+New York,2017,Gasoline,9995700,0
+New York,2017,Diesel,186700,0
+New York,2017,Unknown Fuel,108400,0
+North Carolina,2017,Electric (EV),4400,1
+North Carolina,2017,Plug-In Hybrid Electric (PHEV),4800,1
+North Carolina,2017,Hybrid Electric (HEV),114300,1
+North Carolina,2017,Biodiesel,0,1
+North Carolina,2017,Ethanol/Flex (E85),727600,1
+North Carolina,2017,Compressed Natural Gas (CNG),24100,1
+North Carolina,2017,Propane,0,1
+North Carolina,2017,Hydrogen,0,1
+North Carolina,2017,Methanol,0,1
+North Carolina,2017,Gasoline,7161700,0
+North Carolina,2017,Diesel,225500,0
+North Carolina,2017,Unknown Fuel,103900,0
+North Dakota,2017,Electric (EV),100,1
+North Dakota,2017,Plug-In Hybrid Electric (PHEV),200,1
+North Dakota,2017,Hybrid Electric (HEV),3700,1
+North Dakota,2017,Biodiesel,0,1
+North Dakota,2017,Ethanol/Flex (E85),128400,1
+North Dakota,2017,Compressed Natural Gas (CNG),4700,1
+North Dakota,2017,Propane,0,1
+North Dakota,2017,Hydrogen,0,1
+North Dakota,2017,Methanol,0,1
+North Dakota,2017,Gasoline,566800,0
+North Dakota,2017,Diesel,53500,0
+North Dakota,2017,Unknown Fuel,17700,0
+Ohio,2017,Electric (EV),3700,1
+Ohio,2017,Plug-In Hybrid Electric (PHEV),5600,1
+Ohio,2017,Hybrid Electric (HEV),98600,1
+Ohio,2017,Biodiesel,0,1
+Ohio,2017,Ethanol/Flex (E85),1010100,1
+Ohio,2017,Compressed Natural Gas (CNG),19500,1
+Ohio,2017,Propane,0,1
+Ohio,2017,Hydrogen,0,1
+Ohio,2017,Methanol,0,1
+Ohio,2017,Gasoline,8722000,0
+Ohio,2017,Diesel,215300,0
+Ohio,2017,Unknown Fuel,101200,0
+Oklahoma,2017,Electric (EV),1200,1
+Oklahoma,2017,Plug-In Hybrid Electric (PHEV),900,1
+Oklahoma,2017,Hybrid Electric (HEV),25900,1
+Oklahoma,2017,Biodiesel,0,1
+Oklahoma,2017,Ethanol/Flex (E85),624400,1
+Oklahoma,2017,Compressed Natural Gas (CNG),18800,1
+Oklahoma,2017,Propane,0,1
+Oklahoma,2017,Hydrogen,0,1
+Oklahoma,2017,Methanol,0,1
+Oklahoma,2017,Gasoline,3238300,0
+Oklahoma,2017,Diesel,175100,0
+Oklahoma,2017,Unknown Fuel,67200,0
+Oregon,2017,Electric (EV),10000,1
+Oregon,2017,Plug-In Hybrid Electric (PHEV),6000,1
+Oregon,2017,Hybrid Electric (HEV),90900,1
+Oregon,2017,Biodiesel,0,1
+Oregon,2017,Ethanol/Flex (E85),192900,1
+Oregon,2017,Compressed Natural Gas (CNG),14500,1
+Oregon,2017,Propane,0,1
+Oregon,2017,Hydrogen,0,1
+Oregon,2017,Methanol,0,1
+Oregon,2017,Gasoline,3130800,0
+Oregon,2017,Diesel,229000,0
+Oregon,2017,Unknown Fuel,91400,0
+Pennsylvania,2017,Electric (EV),4400,1
+Pennsylvania,2017,Plug-In Hybrid Electric (PHEV),7500,1
+Pennsylvania,2017,Hybrid Electric (HEV),110100,1
+Pennsylvania,2017,Biodiesel,0,1
+Pennsylvania,2017,Ethanol/Flex (E85),846200,1
+Pennsylvania,2017,Compressed Natural Gas (CNG),13400,1
+Pennsylvania,2017,Propane,0,1
+Pennsylvania,2017,Hydrogen,0,1
+Pennsylvania,2017,Methanol,0,1
+Pennsylvania,2017,Gasoline,8728400,0
+Pennsylvania,2017,Diesel,224600,0
+Pennsylvania,2017,Unknown Fuel,82400,0
+Rhode Island,2017,Electric (EV),400,1
+Rhode Island,2017,Plug-In Hybrid Electric (PHEV),800,1
+Rhode Island,2017,Hybrid Electric (HEV),11800,1
+Rhode Island,2017,Biodiesel,0,1
+Rhode Island,2017,Ethanol/Flex (E85),49600,1
+Rhode Island,2017,Compressed Natural Gas (CNG),600,1
+Rhode Island,2017,Propane,0,1
+Rhode Island,2017,Hydrogen,0,1
+Rhode Island,2017,Methanol,0,1
+Rhode Island,2017,Gasoline,776800,0
+Rhode Island,2017,Diesel,13300,0
+Rhode Island,2017,Unknown Fuel,7900,0
+South Carolina,2017,Electric (EV),1200,1
+South Carolina,2017,Plug-In Hybrid Electric (PHEV),1600,1
+South Carolina,2017,Hybrid Electric (HEV),41900,1
+South Carolina,2017,Biodiesel,0,1
+South Carolina,2017,Ethanol/Flex (E85),426200,1
+South Carolina,2017,Compressed Natural Gas (CNG),15000,1
+South Carolina,2017,Propane,0,1
+South Carolina,2017,Hydrogen,0,1
+South Carolina,2017,Methanol,0,1
+South Carolina,2017,Gasoline,3869600,0
+South Carolina,2017,Diesel,107800,0
+South Carolina,2017,Unknown Fuel,64600,0
+South Dakota,2017,Electric (EV),100,1
+South Dakota,2017,Plug-In Hybrid Electric (PHEV),200,1
+South Dakota,2017,Hybrid Electric (HEV),5900,1
+South Dakota,2017,Biodiesel,0,1
+South Dakota,2017,Ethanol/Flex (E85),125700,1
+South Dakota,2017,Compressed Natural Gas (CNG),5300,1
+South Dakota,2017,Propane,0,1
+South Dakota,2017,Hydrogen,0,1
+South Dakota,2017,Methanol,0,1
+South Dakota,2017,Gasoline,681900,0
+South Dakota,2017,Diesel,59700,0
+South Dakota,2017,Unknown Fuel,22600,0
+Tennessee,2017,Electric (EV),2900,1
+Tennessee,2017,Plug-In Hybrid Electric (PHEV),2100,1
+Tennessee,2017,Hybrid Electric (HEV),53400,1
+Tennessee,2017,Biodiesel,0,1
+Tennessee,2017,Ethanol/Flex (E85),500300,1
+Tennessee,2017,Compressed Natural Gas (CNG),19900,1
+Tennessee,2017,Propane,0,1
+Tennessee,2017,Hydrogen,0,1
+Tennessee,2017,Methanol,0,1
+Tennessee,2017,Gasoline,4834800,0
+Tennessee,2017,Diesel,144000,0
+Tennessee,2017,Unknown Fuel,55200,0
+Texas,2017,Electric (EV),16100,1
+Texas,2017,Plug-In Hybrid Electric (PHEV),10900,1
+Texas,2017,Hybrid Electric (HEV),217100,1
+Texas,2017,Biodiesel,0,1
+Texas,2017,Ethanol/Flex (E85),2813400,1
+Texas,2017,Compressed Natural Gas (CNG),56900,1
+Texas,2017,Propane,0,1
+Texas,2017,Hydrogen,0,1
+Texas,2017,Methanol,0,1
+Texas,2017,Gasoline,18252800,0
+Texas,2017,Diesel,982900,0
+Texas,2017,Unknown Fuel,194300,0
+Utah,2017,Electric (EV),3600,1
+Utah,2017,Plug-In Hybrid Electric (PHEV),2500,1
+Utah,2017,Hybrid Electric (HEV),36700,1
+Utah,2017,Biodiesel,0,1
+Utah,2017,Ethanol/Flex (E85),192600,1
+Utah,2017,Compressed Natural Gas (CNG),10100,1
+Utah,2017,Propane,0,1
+Utah,2017,Hydrogen,0,1
+Utah,2017,Methanol,0,1
+Utah,2017,Gasoline,2136000,0
+Utah,2017,Diesel,161000,0
+Utah,2017,Unknown Fuel,36200,0
+Vermont,2017,Electric (EV),700,1
+Vermont,2017,Plug-In Hybrid Electric (PHEV),1600,1
+Vermont,2017,Hybrid Electric (HEV),12200,1
+Vermont,2017,Biodiesel,0,1
+Vermont,2017,Ethanol/Flex (E85),54600,1
+Vermont,2017,Compressed Natural Gas (CNG),700,1
+Vermont,2017,Propane,0,1
+Vermont,2017,Hydrogen,0,1
+Vermont,2017,Methanol,0,1
+Vermont,2017,Gasoline,518700,0
+Vermont,2017,Diesel,19600,0
+Vermont,2017,Unknown Fuel,8000,0
+Virginia,2017,Electric (EV),5100,1
+Virginia,2017,Plug-In Hybrid Electric (PHEV),6100,1
+Virginia,2017,Hybrid Electric (HEV),136800,1
+Virginia,2017,Biodiesel,0,1
+Virginia,2017,Ethanol/Flex (E85),534100,1
+Virginia,2017,Compressed Natural Gas (CNG),16500,1
+Virginia,2017,Propane,0,1
+Virginia,2017,Hydrogen,0,1
+Virginia,2017,Methanol,0,1
+Virginia,2017,Gasoline,6707400,0
+Virginia,2017,Diesel,173300,0
+Virginia,2017,Unknown Fuel,60100,0
+Washington,2017,Electric (EV),21000,1
+Washington,2017,Plug-In Hybrid Electric (PHEV),9800,1
+Washington,2017,Hybrid Electric (HEV),165100,1
+Washington,2017,Biodiesel,0,1
+Washington,2017,Ethanol/Flex (E85),362100,1
+Washington,2017,Compressed Natural Gas (CNG),23000,1
+Washington,2017,Propane,0,1
+Washington,2017,Hydrogen,0,1
+Washington,2017,Methanol,0,1
+Washington,2017,Gasoline,5557300,0
+Washington,2017,Diesel,287500,0
+Washington,2017,Unknown Fuel,119700,0
+West Virginia,2017,Electric (EV),100,1
+West Virginia,2017,Plug-In Hybrid Electric (PHEV),400,1
+West Virginia,2017,Hybrid Electric (HEV),9700,1
+West Virginia,2017,Biodiesel,0,1
+West Virginia,2017,Ethanol/Flex (E85),164700,1
+West Virginia,2017,Compressed Natural Gas (CNG),4000,1
+West Virginia,2017,Propane,0,1
+West Virginia,2017,Hydrogen,0,1
+West Virginia,2017,Methanol,0,1
+West Virginia,2017,Gasoline,1278100,0
+West Virginia,2017,Diesel,53800,0
+West Virginia,2017,Unknown Fuel,18400,0
+Wisconsin,2017,Electric (EV),2800,1
+Wisconsin,2017,Plug-In Hybrid Electric (PHEV),3500,1
+Wisconsin,2017,Hybrid Electric (HEV),67100,1
+Wisconsin,2017,Biodiesel,0,1
+Wisconsin,2017,Ethanol/Flex (E85),648900,1
+Wisconsin,2017,Compressed Natural Gas (CNG),13000,1
+Wisconsin,2017,Propane,0,1
+Wisconsin,2017,Hydrogen,0,1
+Wisconsin,2017,Methanol,0,1
+Wisconsin,2017,Gasoline,4530600,0
+Wisconsin,2017,Diesel,159100,0
+Wisconsin,2017,Unknown Fuel,49500,0
+Wyoming,2017,Electric (EV),100,1
+Wyoming,2017,Plug-In Hybrid Electric (PHEV),100,1
+Wyoming,2017,Hybrid Electric (HEV),4000,1
+Wyoming,2017,Biodiesel,0,1
+Wyoming,2017,Ethanol/Flex (E85),68700,1
+Wyoming,2017,Compressed Natural Gas (CNG),4500,1
+Wyoming,2017,Propane,0,1
+Wyoming,2017,Hydrogen,0,1
+Wyoming,2017,Methanol,0,1
+Wyoming,2017,Gasoline,448600,0
+Wyoming,2017,Diesel,71200,0
+Wyoming,2017,Unknown Fuel,21700,0
+Alabama,2018,Electric (EV),1300,1
+Alabama,2018,Plug-In Hybrid Electric (PHEV),1500,1
+Alabama,2018,Hybrid Electric (HEV),31800,1
+Alabama,2018,Biodiesel,0,1
+Alabama,2018,Ethanol/Flex (E85),509500,1
+Alabama,2018,Compressed Natural Gas (CNG),17000,1
+Alabama,2018,Propane,0,1
+Alabama,2018,Hydrogen,0,1
+Alabama,2018,Methanol,0,1
+Alabama,2018,Gasoline,3733700,0
+Alabama,2018,Diesel,135900,0
+Alabama,2018,Unknown Fuel,46000,0
+Alaska,2018,Electric (EV),500,1
+Alaska,2018,Plug-In Hybrid Electric (PHEV),300,1
+Alaska,2018,Hybrid Electric (HEV),5400,1
+Alaska,2018,Biodiesel,0,1
+Alaska,2018,Ethanol/Flex (E85),62000,1
+Alaska,2018,Compressed Natural Gas (CNG),3700,1
+Alaska,2018,Propane,0,1
+Alaska,2018,Hydrogen,0,1
+Alaska,2018,Methanol,0,1
+Alaska,2018,Gasoline,484900,0
+Alaska,2018,Diesel,41000,0
+Alaska,2018,Unknown Fuel,16100,0
+Arizona,2018,Electric (EV),12600,1
+Arizona,2018,Plug-In Hybrid Electric (PHEV),7700,1
+Arizona,2018,Hybrid Electric (HEV),102000,1
+Arizona,2018,Biodiesel,0,1
+Arizona,2018,Ethanol/Flex (E85),533600,1
+Arizona,2018,Compressed Natural Gas (CNG),15500,1
+Arizona,2018,Propane,0,1
+Arizona,2018,Hydrogen,0,1
+Arizona,2018,Methanol,0,1
+Arizona,2018,Gasoline,5061900,0
+Arizona,2018,Diesel,196300,0
+Arizona,2018,Unknown Fuel,103700,0
+Arkansas,2018,Electric (EV),600,1
+Arkansas,2018,Plug-In Hybrid Electric (PHEV),800,1
+Arkansas,2018,Hybrid Electric (HEV),20300,1
+Arkansas,2018,Biodiesel,0,1
+Arkansas,2018,Ethanol/Flex (E85),370600,1
+Arkansas,2018,Compressed Natural Gas (CNG),9200,1
+Arkansas,2018,Propane,0,1
+Arkansas,2018,Hydrogen,0,1
+Arkansas,2018,Methanol,0,1
+Arkansas,2018,Gasoline,2070200,0
+Arkansas,2018,Diesel,101700,0
+Arkansas,2018,Unknown Fuel,18100,0
+California,2018,Electric (EV),273500,1
+California,2018,Plug-In Hybrid Electric (PHEV),215000,1
+California,2018,Hybrid Electric (HEV),1085300,1
+California,2018,Biodiesel,0,1
+California,2018,Ethanol/Flex (E85),1615200,1
+California,2018,Compressed Natural Gas (CNG),77700,1
+California,2018,Propane,0,1
+California,2018,Hydrogen,9400,1
+California,2018,Methanol,300,1
+California,2018,Gasoline,28646700,0
+California,2018,Diesel,761600,0
+California,2018,Unknown Fuel,129800,0
+Colorado,2018,Electric (EV),12500,1
+Colorado,2018,Plug-In Hybrid Electric (PHEV),7400,1
+Colorado,2018,Hybrid Electric (HEV),84700,1
+Colorado,2018,Biodiesel,0,1
+Colorado,2018,Ethanol/Flex (E85),420500,1
+Colorado,2018,Compressed Natural Gas (CNG),13500,1
+Colorado,2018,Propane,0,1
+Colorado,2018,Hydrogen,0,1
+Colorado,2018,Methanol,0,1
+Colorado,2018,Gasoline,4278900,0
+Colorado,2018,Diesel,236200,0
+Colorado,2018,Unknown Fuel,78200,0
+Connecticut,2018,Electric (EV),5000,1
+Connecticut,2018,Plug-In Hybrid Electric (PHEV),5200,1
+Connecticut,2018,Hybrid Electric (HEV),45100,1
+Connecticut,2018,Biodiesel,0,1
+Connecticut,2018,Ethanol/Flex (E85),188100,1
+Connecticut,2018,Compressed Natural Gas (CNG),2500,1
+Connecticut,2018,Propane,0,1
+Connecticut,2018,Hydrogen,0,1
+Connecticut,2018,Methanol,0,1
+Connecticut,2018,Gasoline,2643300,0
+Connecticut,2018,Diesel,54000,0
+Connecticut,2018,Unknown Fuel,28200,0
+Delaware,2018,Electric (EV),800,1
+Delaware,2018,Plug-In Hybrid Electric (PHEV),1200,1
+Delaware,2018,Hybrid Electric (HEV),12300,1
+Delaware,2018,Biodiesel,0,1
+Delaware,2018,Ethanol/Flex (E85),80700,1
+Delaware,2018,Compressed Natural Gas (CNG),1200,1
+Delaware,2018,Propane,0,1
+Delaware,2018,Hydrogen,0,1
+Delaware,2018,Methanol,0,1
+Delaware,2018,Gasoline,758500,0
+Delaware,2018,Diesel,17000,0
+Delaware,2018,Unknown Fuel,6900,0
+District of Columbia,2018,Electric (EV),1100,1
+District of Columbia,2018,Plug-In Hybrid Electric (PHEV),1000,1
+District of Columbia,2018,Hybrid Electric (HEV),13900,1
+District of Columbia,2018,Biodiesel,0,1
+District of Columbia,2018,Ethanol/Flex (E85),23500,1
+District of Columbia,2018,Compressed Natural Gas (CNG),200,1
+District of Columbia,2018,Propane,0,1
+District of Columbia,2018,Hydrogen,0,1
+District of Columbia,2018,Methanol,0,1
+District of Columbia,2018,Gasoline,291000,0
+District of Columbia,2018,Diesel,2600,0
+District of Columbia,2018,Unknown Fuel,1100,0
+Florida,2018,Electric (EV),27400,1
+Florida,2018,Plug-In Hybrid Electric (PHEV),17400,1
+Florida,2018,Hybrid Electric (HEV),226900,1
+Florida,2018,Biodiesel,0,1
+Florida,2018,Ethanol/Flex (E85),1423900,1
+Florida,2018,Compressed Natural Gas (CNG),15500,1
+Florida,2018,Propane,0,1
+Florida,2018,Hydrogen,0,1
+Florida,2018,Methanol,0,1
+Florida,2018,Gasoline,14541500,0
+Florida,2018,Diesel,386500,0
+Florida,2018,Unknown Fuel,135600,0
+Georgia,2018,Electric (EV),15900,1
+Georgia,2018,Plug-In Hybrid Electric (PHEV),7000,1
+Georgia,2018,Hybrid Electric (HEV),97100,1
+Georgia,2018,Biodiesel,0,1
+Georgia,2018,Ethanol/Flex (E85),852500,1
+Georgia,2018,Compressed Natural Gas (CNG),23400,1
+Georgia,2018,Propane,0,1
+Georgia,2018,Hydrogen,0,1
+Georgia,2018,Methanol,0,1
+Georgia,2018,Gasoline,7500000,0
+Georgia,2018,Diesel,230100,0
+Georgia,2018,Unknown Fuel,104100,0
+Hawaii,2018,Electric (EV),6600,1
+Hawaii,2018,Plug-In Hybrid Electric (PHEV),2400,1
+Hawaii,2018,Hybrid Electric (HEV),24800,1
+Hawaii,2018,Biodiesel,0,1
+Hawaii,2018,Ethanol/Flex (E85),52100,1
+Hawaii,2018,Compressed Natural Gas (CNG),1100,1
+Hawaii,2018,Propane,0,1
+Hawaii,2018,Hydrogen,0,1
+Hawaii,2018,Methanol,0,1
+Hawaii,2018,Gasoline,969000,0
+Hawaii,2018,Diesel,17800,0
+Hawaii,2018,Unknown Fuel,6900,0
+Idaho,2018,Electric (EV),1100,1
+Idaho,2018,Plug-In Hybrid Electric (PHEV),1100,1
+Idaho,2018,Hybrid Electric (HEV),19600,1
+Idaho,2018,Biodiesel,0,1
+Idaho,2018,Ethanol/Flex (E85),136900,1
+Idaho,2018,Compressed Natural Gas (CNG),11200,1
+Idaho,2018,Propane,0,1
+Idaho,2018,Hydrogen,0,1
+Idaho,2018,Methanol,0,1
+Idaho,2018,Gasoline,1426000,0
+Idaho,2018,Diesel,138400,0
+Idaho,2018,Unknown Fuel,26300,0
+Illinois,2018,Electric (EV),13600,1
+Illinois,2018,Plug-In Hybrid Electric (PHEV),9900,1
+Illinois,2018,Hybrid Electric (HEV),163800,1
+Illinois,2018,Biodiesel,0,1
+Illinois,2018,Ethanol/Flex (E85),1110700,1
+Illinois,2018,Compressed Natural Gas (CNG),14800,1
+Illinois,2018,Propane,0,1
+Illinois,2018,Hydrogen,0,1
+Illinois,2018,Methanol,0,1
+Illinois,2018,Gasoline,8631200,0
+Illinois,2018,Diesel,200800,0
+Illinois,2018,Unknown Fuel,89600,0
+Indiana,2018,Electric (EV),3400,1
+Indiana,2018,Plug-In Hybrid Electric (PHEV),4100,1
+Indiana,2018,Hybrid Electric (HEV),64000,1
+Indiana,2018,Biodiesel,0,1
+Indiana,2018,Ethanol/Flex (E85),698200,1
+Indiana,2018,Compressed Natural Gas (CNG),16100,1
+Indiana,2018,Propane,0,1
+Indiana,2018,Hydrogen,0,1
+Indiana,2018,Methanol,0,1
+Indiana,2018,Gasoline,4881200,0
+Indiana,2018,Diesel,168300,0
+Indiana,2018,Unknown Fuel,73400,0
+Iowa,2018,Electric (EV),1100,1
+Iowa,2018,Plug-In Hybrid Electric (PHEV),2000,1
+Iowa,2018,Hybrid Electric (HEV),30700,1
+Iowa,2018,Biodiesel,0,1
+Iowa,2018,Ethanol/Flex (E85),430600,1
+Iowa,2018,Compressed Natural Gas (CNG),11200,1
+Iowa,2018,Propane,0,1
+Iowa,2018,Hydrogen,0,1
+Iowa,2018,Methanol,0,1
+Iowa,2018,Gasoline,2397500,0
+Iowa,2018,Diesel,115300,0
+Iowa,2018,Unknown Fuel,72800,0
+Kansas,2018,Electric (EV),1700,1
+Kansas,2018,Plug-In Hybrid Electric (PHEV),1800,1
+Kansas,2018,Hybrid Electric (HEV),29600,1
+Kansas,2018,Biodiesel,0,1
+Kansas,2018,Ethanol/Flex (E85),295700,1
+Kansas,2018,Compressed Natural Gas (CNG),12100,1
+Kansas,2018,Propane,0,1
+Kansas,2018,Hydrogen,0,1
+Kansas,2018,Methanol,0,1
+Kansas,2018,Gasoline,2087000,0
+Kansas,2018,Diesel,94500,0
+Kansas,2018,Unknown Fuel,32400,0
+Kentucky,2018,Electric (EV),1200,1
+Kentucky,2018,Plug-In Hybrid Electric (PHEV),1500,1
+Kentucky,2018,Hybrid Electric (HEV),35800,1
+Kentucky,2018,Biodiesel,0,1
+Kentucky,2018,Ethanol/Flex (E85),414300,1
+Kentucky,2018,Compressed Natural Gas (CNG),13200,1
+Kentucky,2018,Propane,0,1
+Kentucky,2018,Hydrogen,0,1
+Kentucky,2018,Methanol,0,1
+Kentucky,2018,Gasoline,3308700,0
+Kentucky,2018,Diesel,123600,0
+Kentucky,2018,Unknown Fuel,41100,0
+Louisiana,2018,Electric (EV),900,1
+Louisiana,2018,Plug-In Hybrid Electric (PHEV),900,1
+Louisiana,2018,Hybrid Electric (HEV),19000,1
+Louisiana,2018,Biodiesel,0,1
+Louisiana,2018,Ethanol/Flex (E85),539200,1
+Louisiana,2018,Compressed Natural Gas (CNG),9500,1
+Louisiana,2018,Propane,0,1
+Louisiana,2018,Hydrogen,0,1
+Louisiana,2018,Methanol,0,1
+Louisiana,2018,Gasoline,3034700,0
+Louisiana,2018,Diesel,158400,0
+Louisiana,2018,Unknown Fuel,32200,0
+Maine,2018,Electric (EV),800,1
+Maine,2018,Plug-In Hybrid Electric (PHEV),1800,1
+Maine,2018,Hybrid Electric (HEV),19600,1
+Maine,2018,Biodiesel,0,1
+Maine,2018,Ethanol/Flex (E85),132700,1
+Maine,2018,Compressed Natural Gas (CNG),1400,1
+Maine,2018,Propane,0,1
+Maine,2018,Hydrogen,0,1
+Maine,2018,Methanol,0,1
+Maine,2018,Gasoline,1006500,0
+Maine,2018,Diesel,31100,0
+Maine,2018,Unknown Fuel,11700,0
+Maryland,2018,Electric (EV),8400,1
+Maryland,2018,Plug-In Hybrid Electric (PHEV),8400,1
+Maryland,2018,Hybrid Electric (HEV),95300,1
+Maryland,2018,Biodiesel,0,1
+Maryland,2018,Ethanol/Flex (E85),389100,1
+Maryland,2018,Compressed Natural Gas (CNG),4900,1
+Maryland,2018,Propane,0,1
+Maryland,2018,Hydrogen,0,1
+Maryland,2018,Methanol,0,1
+Maryland,2018,Gasoline,4075000,0
+Maryland,2018,Diesel,104600,0
+Maryland,2018,Unknown Fuel,40700,0
+Massachusetts,2018,Electric (EV),10300,1
+Massachusetts,2018,Plug-In Hybrid Electric (PHEV),11600,1
+Massachusetts,2018,Hybrid Electric (HEV),107000,1
+Massachusetts,2018,Biodiesel,0,1
+Massachusetts,2018,Ethanol/Flex (E85),387200,1
+Massachusetts,2018,Compressed Natural Gas (CNG),2600,1
+Massachusetts,2018,Propane,0,1
+Massachusetts,2018,Hydrogen,0,1
+Massachusetts,2018,Methanol,0,1
+Massachusetts,2018,Gasoline,4667700,0
+Massachusetts,2018,Diesel,74200,0
+Massachusetts,2018,Unknown Fuel,37500,0
+Michigan,2018,Electric (EV),4200,1
+Michigan,2018,Plug-In Hybrid Electric (PHEV),12300,1
+Michigan,2018,Hybrid Electric (HEV),79000,1
+Michigan,2018,Biodiesel,0,1
+Michigan,2018,Ethanol/Flex (E85),1351800,1
+Michigan,2018,Compressed Natural Gas (CNG),15300,1
+Michigan,2018,Propane,0,1
+Michigan,2018,Hydrogen,0,1
+Michigan,2018,Methanol,0,1
+Michigan,2018,Gasoline,6879900,0
+Michigan,2018,Diesel,285300,0
+Michigan,2018,Unknown Fuel,70300,0
+Minnesota,2018,Electric (EV),4900,1
+Minnesota,2018,Plug-In Hybrid Electric (PHEV),4800,1
+Minnesota,2018,Hybrid Electric (HEV),71000,1
+Minnesota,2018,Biodiesel,0,1
+Minnesota,2018,Ethanol/Flex (E85),660700,1
+Minnesota,2018,Compressed Natural Gas (CNG),10700,1
+Minnesota,2018,Propane,0,1
+Minnesota,2018,Hydrogen,0,1
+Minnesota,2018,Methanol,0,1
+Minnesota,2018,Gasoline,4078700,0
+Minnesota,2018,Diesel,138800,0
+Minnesota,2018,Unknown Fuel,42600,0
+Mississippi,2018,Electric (EV),300,1
+Mississippi,2018,Plug-In Hybrid Electric (PHEV),500,1
+Mississippi,2018,Hybrid Electric (HEV),13600,1
+Mississippi,2018,Biodiesel,0,1
+Mississippi,2018,Ethanol/Flex (E85),342300,1
+Mississippi,2018,Compressed Natural Gas (CNG),6300,1
+Mississippi,2018,Propane,0,1
+Mississippi,2018,Hydrogen,0,1
+Mississippi,2018,Methanol,0,1
+Mississippi,2018,Gasoline,2125900,0
+Mississippi,2018,Diesel,89700,0
+Mississippi,2018,Unknown Fuel,15000,0
+Missouri,2018,Electric (EV),3500,1
+Missouri,2018,Plug-In Hybrid Electric (PHEV),4200,1
+Missouri,2018,Hybrid Electric (HEV),98600,1
+Missouri,2018,Biodiesel,0,1
+Missouri,2018,Ethanol/Flex (E85),744500,1
+Missouri,2018,Compressed Natural Gas (CNG),17800,1
+Missouri,2018,Propane,0,1
+Missouri,2018,Hydrogen,0,1
+Missouri,2018,Methanol,0,1
+Missouri,2018,Gasoline,4638300,0
+Missouri,2018,Diesel,212900,0
+Missouri,2018,Unknown Fuel,60600,0
+Montana,2018,Electric (EV),500,1
+Montana,2018,Plug-In Hybrid Electric (PHEV),400,1
+Montana,2018,Hybrid Electric (HEV),10000,1
+Montana,2018,Biodiesel,0,1
+Montana,2018,Ethanol/Flex (E85),123700,1
+Montana,2018,Compressed Natural Gas (CNG),4400,1
+Montana,2018,Propane,0,1
+Montana,2018,Hydrogen,0,1
+Montana,2018,Methanol,0,1
+Montana,2018,Gasoline,729000,0
+Montana,2018,Diesel,89600,0
+Montana,2018,Unknown Fuel,18400,0
+Nebraska,2018,Electric (EV),900,1
+Nebraska,2018,Plug-In Hybrid Electric (PHEV),1000,1
+Nebraska,2018,Hybrid Electric (HEV),16800,1
+Nebraska,2018,Biodiesel,0,1
+Nebraska,2018,Ethanol/Flex (E85),246300,1
+Nebraska,2018,Compressed Natural Gas (CNG),8400,1
+Nebraska,2018,Propane,0,1
+Nebraska,2018,Hydrogen,0,1
+Nebraska,2018,Methanol,0,1
+Nebraska,2018,Gasoline,1474400,0
+Nebraska,2018,Diesel,84200,0
+Nebraska,2018,Unknown Fuel,34000,0
+Nevada,2018,Electric (EV),5100,1
+Nevada,2018,Plug-In Hybrid Electric (PHEV),2900,1
+Nevada,2018,Hybrid Electric (HEV),37300,1
+Nevada,2018,Biodiesel,0,1
+Nevada,2018,Ethanol/Flex (E85),171800,1
+Nevada,2018,Compressed Natural Gas (CNG),6200,1
+Nevada,2018,Propane,0,1
+Nevada,2018,Hydrogen,0,1
+Nevada,2018,Methanol,0,1
+Nevada,2018,Gasoline,2005700,0
+Nevada,2018,Diesel,90600,0
+Nevada,2018,Unknown Fuel,32800,0
+New Hampshire,2018,Electric (EV),1200,1
+New Hampshire,2018,Plug-In Hybrid Electric (PHEV),2000,1
+New Hampshire,2018,Hybrid Electric (HEV),20700,1
+New Hampshire,2018,Biodiesel,0,1
+New Hampshire,2018,Ethanol/Flex (E85),124700,1
+New Hampshire,2018,Compressed Natural Gas (CNG),1400,1
+New Hampshire,2018,Propane,0,1
+New Hampshire,2018,Hydrogen,0,1
+New Hampshire,2018,Methanol,0,1
+New Hampshire,2018,Gasoline,1145600,0
+New Hampshire,2018,Diesel,33600,0
+New Hampshire,2018,Unknown Fuel,15800,0
+New Jersey,2018,Electric (EV),13400,1
+New Jersey,2018,Plug-In Hybrid Electric (PHEV),10800,1
+New Jersey,2018,Hybrid Electric (HEV),89200,1
+New Jersey,2018,Biodiesel,0,1
+New Jersey,2018,Ethanol/Flex (E85),540100,1
+New Jersey,2018,Compressed Natural Gas (CNG),3800,1
+New Jersey,2018,Propane,0,1
+New Jersey,2018,Hydrogen,0,1
+New Jersey,2018,Methanol,0,1
+New Jersey,2018,Gasoline,6333400,0
+New Jersey,2018,Diesel,109700,0
+New Jersey,2018,Unknown Fuel,50700,0
+New Mexico,2018,Electric (EV),1300,1
+New Mexico,2018,Plug-In Hybrid Electric (PHEV),1300,1
+New Mexico,2018,Hybrid Electric (HEV),25000,1
+New Mexico,2018,Biodiesel,0,1
+New Mexico,2018,Ethanol/Flex (E85),183700,1
+New Mexico,2018,Compressed Natural Gas (CNG),6900,1
+New Mexico,2018,Propane,0,1
+New Mexico,2018,Hydrogen,0,1
+New Mexico,2018,Methanol,0,1
+New Mexico,2018,Gasoline,1478700,0
+New Mexico,2018,Diesel,100000,0
+New Mexico,2018,Unknown Fuel,33500,0
+New York,2018,Electric (EV),15500,1
+New York,2018,Plug-In Hybrid Electric (PHEV),24300,1
+New York,2018,Hybrid Electric (HEV),173200,1
+New York,2018,Biodiesel,0,1
+New York,2018,Ethanol/Flex (E85),1003900,1
+New York,2018,Compressed Natural Gas (CNG),7800,1
+New York,2018,Propane,0,1
+New York,2018,Hydrogen,0,1
+New York,2018,Methanol,0,1
+New York,2018,Gasoline,9967300,0
+New York,2018,Diesel,184600,0
+New York,2018,Unknown Fuel,107000,0
+North Carolina,2018,Electric (EV),7300,1
+North Carolina,2018,Plug-In Hybrid Electric (PHEV),6500,1
+North Carolina,2018,Hybrid Electric (HEV),119400,1
+North Carolina,2018,Biodiesel,0,1
+North Carolina,2018,Ethanol/Flex (E85),791100,1
+North Carolina,2018,Compressed Natural Gas (CNG),22300,1
+North Carolina,2018,Propane,0,1
+North Carolina,2018,Hydrogen,0,1
+North Carolina,2018,Methanol,0,1
+North Carolina,2018,Gasoline,7205800,0
+North Carolina,2018,Diesel,229300,0
+North Carolina,2018,Unknown Fuel,99200,0
+North Dakota,2018,Electric (EV),100,1
+North Dakota,2018,Plug-In Hybrid Electric (PHEV),200,1
+North Dakota,2018,Hybrid Electric (HEV),3700,1
+North Dakota,2018,Biodiesel,0,1
+North Dakota,2018,Ethanol/Flex (E85),133300,1
+North Dakota,2018,Compressed Natural Gas (CNG),4300,1
+North Dakota,2018,Propane,0,1
+North Dakota,2018,Hydrogen,0,1
+North Dakota,2018,Methanol,0,1
+North Dakota,2018,Gasoline,560300,0
+North Dakota,2018,Diesel,54700,0
+North Dakota,2018,Unknown Fuel,15900,0
+Ohio,2018,Electric (EV),6400,1
+Ohio,2018,Plug-In Hybrid Electric (PHEV),7200,1
+Ohio,2018,Hybrid Electric (HEV),104900,1
+Ohio,2018,Biodiesel,0,1
+Ohio,2018,Ethanol/Flex (E85),1075400,1
+Ohio,2018,Compressed Natural Gas (CNG),17600,1
+Ohio,2018,Propane,0,1
+Ohio,2018,Hydrogen,0,1
+Ohio,2018,Methanol,0,1
+Ohio,2018,Gasoline,8725900,0
+Ohio,2018,Diesel,220800,0
+Ohio,2018,Unknown Fuel,96000,0
+Oklahoma,2018,Electric (EV),3700,1
+Oklahoma,2018,Plug-In Hybrid Electric (PHEV),1300,1
+Oklahoma,2018,Hybrid Electric (HEV),27800,1
+Oklahoma,2018,Biodiesel,0,1
+Oklahoma,2018,Ethanol/Flex (E85),629100,1
+Oklahoma,2018,Compressed Natural Gas (CNG),17100,1
+Oklahoma,2018,Propane,0,1
+Oklahoma,2018,Hydrogen,0,1
+Oklahoma,2018,Methanol,0,1
+Oklahoma,2018,Gasoline,3204200,0
+Oklahoma,2018,Diesel,178300,0
+Oklahoma,2018,Unknown Fuel,64500,0
+Oregon,2018,Electric (EV),13800,1
+Oregon,2018,Plug-In Hybrid Electric (PHEV),8400,1
+Oregon,2018,Hybrid Electric (HEV),96300,1
+Oregon,2018,Biodiesel,0,1
+Oregon,2018,Ethanol/Flex (E85),210600,1
+Oregon,2018,Compressed Natural Gas (CNG),13500,1
+Oregon,2018,Propane,0,1
+Oregon,2018,Hydrogen,0,1
+Oregon,2018,Methanol,0,1
+Oregon,2018,Gasoline,3177400,0
+Oregon,2018,Diesel,238000,0
+Oregon,2018,Unknown Fuel,85700,0
+Pennsylvania,2018,Electric (EV),8000,1
+Pennsylvania,2018,Plug-In Hybrid Electric (PHEV),9500,1
+Pennsylvania,2018,Hybrid Electric (HEV),114800,1
+Pennsylvania,2018,Biodiesel,0,1
+Pennsylvania,2018,Ethanol/Flex (E85),893300,1
+Pennsylvania,2018,Compressed Natural Gas (CNG),11900,1
+Pennsylvania,2018,Propane,0,1
+Pennsylvania,2018,Hydrogen,0,1
+Pennsylvania,2018,Methanol,0,1
+Pennsylvania,2018,Gasoline,8661000,0
+Pennsylvania,2018,Diesel,227000,0
+Pennsylvania,2018,Unknown Fuel,77500,0
+Rhode Island,2018,Electric (EV),700,1
+Rhode Island,2018,Plug-In Hybrid Electric (PHEV),1200,1
+Rhode Island,2018,Hybrid Electric (HEV),12400,1
+Rhode Island,2018,Biodiesel,0,1
+Rhode Island,2018,Ethanol/Flex (E85),55500,1
+Rhode Island,2018,Compressed Natural Gas (CNG),600,1
+Rhode Island,2018,Propane,0,1
+Rhode Island,2018,Hydrogen,0,1
+Rhode Island,2018,Methanol,0,1
+Rhode Island,2018,Gasoline,792000,0
+Rhode Island,2018,Diesel,13200,0
+Rhode Island,2018,Unknown Fuel,7800,0
+South Carolina,2018,Electric (EV),2000,1
+South Carolina,2018,Plug-In Hybrid Electric (PHEV),2200,1
+South Carolina,2018,Hybrid Electric (HEV),43800,1
+South Carolina,2018,Biodiesel,0,1
+South Carolina,2018,Ethanol/Flex (E85),462200,1
+South Carolina,2018,Compressed Natural Gas (CNG),14100,1
+South Carolina,2018,Propane,0,1
+South Carolina,2018,Hydrogen,0,1
+South Carolina,2018,Methanol,0,1
+South Carolina,2018,Gasoline,3906000,0
+South Carolina,2018,Diesel,112500,0
+South Carolina,2018,Unknown Fuel,61700,0
+South Dakota,2018,Electric (EV),200,1
+South Dakota,2018,Plug-In Hybrid Electric (PHEV),300,1
+South Dakota,2018,Hybrid Electric (HEV),6300,1
+South Dakota,2018,Biodiesel,0,1
+South Dakota,2018,Ethanol/Flex (E85),135300,1
+South Dakota,2018,Compressed Natural Gas (CNG),5000,1
+South Dakota,2018,Propane,0,1
+South Dakota,2018,Hydrogen,0,1
+South Dakota,2018,Methanol,0,1
+South Dakota,2018,Gasoline,689100,0
+South Dakota,2018,Diesel,62000,0
+South Dakota,2018,Unknown Fuel,21600,0
+Tennessee,2018,Electric (EV),3900,1
+Tennessee,2018,Plug-In Hybrid Electric (PHEV),2900,1
+Tennessee,2018,Hybrid Electric (HEV),59200,1
+Tennessee,2018,Biodiesel,0,1
+Tennessee,2018,Ethanol/Flex (E85),567600,1
+Tennessee,2018,Compressed Natural Gas (CNG),19100,1
+Tennessee,2018,Propane,0,1
+Tennessee,2018,Hydrogen,0,1
+Tennessee,2018,Methanol,0,1
+Tennessee,2018,Gasoline,5059400,0
+Tennessee,2018,Diesel,164100,0
+Tennessee,2018,Unknown Fuel,55600,0
+Texas,2018,Electric (EV),24500,1
+Texas,2018,Plug-In Hybrid Electric (PHEV),14700,1
+Texas,2018,Hybrid Electric (HEV),227700,1
+Texas,2018,Biodiesel,0,1
+Texas,2018,Ethanol/Flex (E85),3005900,1
+Texas,2018,Compressed Natural Gas (CNG),51300,1
+Texas,2018,Propane,0,1
+Texas,2018,Hydrogen,0,1
+Texas,2018,Methanol,0,1
+Texas,2018,Gasoline,18453800,0
+Texas,2018,Diesel,1019300,0
+Texas,2018,Unknown Fuel,175300,0
+Utah,2018,Electric (EV),5600,1
+Utah,2018,Plug-In Hybrid Electric (PHEV),3400,1
+Utah,2018,Hybrid Electric (HEV),40900,1
+Utah,2018,Biodiesel,0,1
+Utah,2018,Ethanol/Flex (E85),214100,1
+Utah,2018,Compressed Natural Gas (CNG),9700,1
+Utah,2018,Propane,0,1
+Utah,2018,Hydrogen,0,1
+Utah,2018,Methanol,0,1
+Utah,2018,Gasoline,2221100,0
+Utah,2018,Diesel,173700,0
+Utah,2018,Unknown Fuel,36600,0
+Vermont,2018,Electric (EV),1100,1
+Vermont,2018,Plug-In Hybrid Electric (PHEV),2000,1
+Vermont,2018,Hybrid Electric (HEV),12600,1
+Vermont,2018,Biodiesel,0,1
+Vermont,2018,Ethanol/Flex (E85),57500,1
+Vermont,2018,Compressed Natural Gas (CNG),600,1
+Vermont,2018,Propane,0,1
+Vermont,2018,Hydrogen,0,1
+Vermont,2018,Methanol,0,1
+Vermont,2018,Gasoline,513600,0
+Vermont,2018,Diesel,19100,0
+Vermont,2018,Unknown Fuel,7700,0
+Virginia,2018,Electric (EV),9900,1
+Virginia,2018,Plug-In Hybrid Electric (PHEV),8100,1
+Virginia,2018,Hybrid Electric (HEV),141300,1
+Virginia,2018,Biodiesel,0,1
+Virginia,2018,Ethanol/Flex (E85),569100,1
+Virginia,2018,Compressed Natural Gas (CNG),15100,1
+Virginia,2018,Propane,0,1
+Virginia,2018,Hydrogen,0,1
+Virginia,2018,Methanol,0,1
+Virginia,2018,Gasoline,6721800,0
+Virginia,2018,Diesel,173400,0
+Virginia,2018,Unknown Fuel,55800,0
+Washington,2018,Electric (EV),30200,1
+Washington,2018,Plug-In Hybrid Electric (PHEV),13700,1
+Washington,2018,Hybrid Electric (HEV),177800,1
+Washington,2018,Biodiesel,0,1
+Washington,2018,Ethanol/Flex (E85),387400,1
+Washington,2018,Compressed Natural Gas (CNG),21400,1
+Washington,2018,Propane,0,1
+Washington,2018,Hydrogen,0,1
+Washington,2018,Methanol,0,1
+Washington,2018,Gasoline,5608000,0
+Washington,2018,Diesel,295400,0
+Washington,2018,Unknown Fuel,110600,0
+West Virginia,2018,Electric (EV),200,1
+West Virginia,2018,Plug-In Hybrid Electric (PHEV),500,1
+West Virginia,2018,Hybrid Electric (HEV),10100,1
+West Virginia,2018,Biodiesel,0,1
+West Virginia,2018,Ethanol/Flex (E85),172900,1
+West Virginia,2018,Compressed Natural Gas (CNG),3500,1
+West Virginia,2018,Propane,0,1
+West Virginia,2018,Hydrogen,0,1
+West Virginia,2018,Methanol,0,1
+West Virginia,2018,Gasoline,1256800,0
+West Virginia,2018,Diesel,54700,0
+West Virginia,2018,Unknown Fuel,16500,0
+Wisconsin,2018,Electric (EV),3700,1
+Wisconsin,2018,Plug-In Hybrid Electric (PHEV),4500,1
+Wisconsin,2018,Hybrid Electric (HEV),70900,1
+Wisconsin,2018,Biodiesel,0,1
+Wisconsin,2018,Ethanol/Flex (E85),696300,1
+Wisconsin,2018,Compressed Natural Gas (CNG),11400,1
+Wisconsin,2018,Propane,0,1
+Wisconsin,2018,Hydrogen,0,1
+Wisconsin,2018,Methanol,0,1
+Wisconsin,2018,Gasoline,4515800,0
+Wisconsin,2018,Diesel,162500,0
+Wisconsin,2018,Unknown Fuel,47100,0
+Wyoming,2018,Electric (EV),200,1
+Wyoming,2018,Plug-In Hybrid Electric (PHEV),200,1
+Wyoming,2018,Hybrid Electric (HEV),4100,1
+Wyoming,2018,Biodiesel,0,1
+Wyoming,2018,Ethanol/Flex (E85),71500,1
+Wyoming,2018,Compressed Natural Gas (CNG),4200,1
+Wyoming,2018,Propane,0,1
+Wyoming,2018,Hydrogen,0,1
+Wyoming,2018,Methanol,0,1
+Wyoming,2018,Gasoline,450100,0
+Wyoming,2018,Diesel,72900,0
+Wyoming,2018,Unknown Fuel,20400,0
+Alabama,2019,Electric (EV),2000,1
+Alabama,2019,Plug-In Hybrid Electric (PHEV),1800,1
+Alabama,2019,Hybrid Electric (HEV),33700,1
+Alabama,2019,Biodiesel,0,1
+Alabama,2019,Ethanol/Flex (E85),543900,1
+Alabama,2019,Compressed Natural Gas (CNG),15900,1
+Alabama,2019,Propane,0,1
+Alabama,2019,Hydrogen,0,1
+Alabama,2019,Methanol,0,1
+Alabama,2019,Gasoline,3806700,0
+Alabama,2019,Diesel,144900,0
+Alabama,2019,Unknown Fuel,44300,0
+Alaska,2019,Electric (EV),700,1
+Alaska,2019,Plug-In Hybrid Electric (PHEV),400,1
+Alaska,2019,Hybrid Electric (HEV),5800,1
+Alaska,2019,Biodiesel,0,1
+Alaska,2019,Ethanol/Flex (E85),64000,1
+Alaska,2019,Compressed Natural Gas (CNG),3200,1
+Alaska,2019,Propane,0,1
+Alaska,2019,Hydrogen,0,1
+Alaska,2019,Methanol,0,1
+Alaska,2019,Gasoline,473700,0
+Alaska,2019,Diesel,40100,0
+Alaska,2019,Unknown Fuel,14600,0
+Arizona,2019,Electric (EV),19500,1
+Arizona,2019,Plug-In Hybrid Electric (PHEV),9600,1
+Arizona,2019,Hybrid Electric (HEV),108100,1
+Arizona,2019,Biodiesel,0,1
+Arizona,2019,Ethanol/Flex (E85),571500,1
+Arizona,2019,Compressed Natural Gas (CNG),14300,1
+Arizona,2019,Propane,0,1
+Arizona,2019,Hydrogen,0,1
+Arizona,2019,Methanol,0,1
+Arizona,2019,Gasoline,5186900,0
+Arizona,2019,Diesel,208800,0
+Arizona,2019,Unknown Fuel,99000,0
+Arkansas,2019,Electric (EV),900,1
+Arkansas,2019,Plug-In Hybrid Electric (PHEV),1000,1
+Arkansas,2019,Hybrid Electric (HEV),21100,1
+Arkansas,2019,Biodiesel,0,1
+Arkansas,2019,Ethanol/Flex (E85),383000,1
+Arkansas,2019,Compressed Natural Gas (CNG),8000,1
+Arkansas,2019,Propane,0,1
+Arkansas,2019,Hydrogen,0,1
+Arkansas,2019,Methanol,0,1
+Arkansas,2019,Gasoline,2059000,0
+Arkansas,2019,Diesel,105200,0
+Arkansas,2019,Unknown Fuel,16700,0
+California,2019,Electric (EV),349700,1
+California,2019,Plug-In Hybrid Electric (PHEV),247300,1
+California,2019,Hybrid Electric (HEV),1154200,1
+California,2019,Biodiesel,0,1
+California,2019,Ethanol/Flex (E85),1698700,1
+California,2019,Compressed Natural Gas (CNG),76200,1
+California,2019,Propane,0,1
+California,2019,Hydrogen,12700,1
+California,2019,Methanol,300,1
+California,2019,Gasoline,29210100,0
+California,2019,Diesel,785800,0
+California,2019,Unknown Fuel,136900,0
+Colorado,2019,Electric (EV),19200,1
+Colorado,2019,Plug-In Hybrid Electric (PHEV),9300,1
+Colorado,2019,Hybrid Electric (HEV),92400,1
+Colorado,2019,Biodiesel,0,1
+Colorado,2019,Ethanol/Flex (E85),447700,1
+Colorado,2019,Compressed Natural Gas (CNG),12600,1
+Colorado,2019,Propane,0,1
+Colorado,2019,Hydrogen,0,1
+Colorado,2019,Methanol,0,1
+Colorado,2019,Gasoline,4347900,0
+Colorado,2019,Diesel,246700,0
+Colorado,2019,Unknown Fuel,73600,0
+Connecticut,2019,Electric (EV),6900,1
+Connecticut,2019,Plug-In Hybrid Electric (PHEV),5700,1
+Connecticut,2019,Hybrid Electric (HEV),47400,1
+Connecticut,2019,Biodiesel,0,1
+Connecticut,2019,Ethanol/Flex (E85),196800,1
+Connecticut,2019,Compressed Natural Gas (CNG),2300,1
+Connecticut,2019,Propane,0,1
+Connecticut,2019,Hydrogen,0,1
+Connecticut,2019,Methanol,0,1
+Connecticut,2019,Gasoline,2632800,0
+Connecticut,2019,Diesel,53100,0
+Connecticut,2019,Unknown Fuel,27700,0
+Delaware,2019,Electric (EV),1300,1
+Delaware,2019,Plug-In Hybrid Electric (PHEV),1300,1
+Delaware,2019,Hybrid Electric (HEV),13200,1
+Delaware,2019,Biodiesel,0,1
+Delaware,2019,Ethanol/Flex (E85),85500,1
+Delaware,2019,Compressed Natural Gas (CNG),1000,1
+Delaware,2019,Propane,0,1
+Delaware,2019,Hydrogen,0,1
+Delaware,2019,Methanol,0,1
+Delaware,2019,Gasoline,768600,0
+Delaware,2019,Diesel,17200,0
+Delaware,2019,Unknown Fuel,6800,0
+District of Columbia,2019,Electric (EV),1800,1
+District of Columbia,2019,Plug-In Hybrid Electric (PHEV),1300,1
+District of Columbia,2019,Hybrid Electric (HEV),13700,1
+District of Columbia,2019,Biodiesel,0,1
+District of Columbia,2019,Ethanol/Flex (E85),22500,1
+District of Columbia,2019,Compressed Natural Gas (CNG),200,1
+District of Columbia,2019,Propane,0,1
+District of Columbia,2019,Hydrogen,0,1
+District of Columbia,2019,Methanol,0,1
+District of Columbia,2019,Gasoline,286300,0
+District of Columbia,2019,Diesel,2400,0
+District of Columbia,2019,Unknown Fuel,1100,0
+Florida,2019,Electric (EV),40300,1
+Florida,2019,Plug-In Hybrid Electric (PHEV),20400,1
+Florida,2019,Hybrid Electric (HEV),235300,1
+Florida,2019,Biodiesel,0,1
+Florida,2019,Ethanol/Flex (E85),1486600,1
+Florida,2019,Compressed Natural Gas (CNG),14200,1
+Florida,2019,Propane,0,1
+Florida,2019,Hydrogen,0,1
+Florida,2019,Methanol,0,1
+Florida,2019,Gasoline,14726700,0
+Florida,2019,Diesel,408500,0
+Florida,2019,Unknown Fuel,139200,0
+Georgia,2019,Electric (EV),19000,1
+Georgia,2019,Plug-In Hybrid Electric (PHEV),8400,1
+Georgia,2019,Hybrid Electric (HEV),101800,1
+Georgia,2019,Biodiesel,0,1
+Georgia,2019,Ethanol/Flex (E85),890400,1
+Georgia,2019,Compressed Natural Gas (CNG),22000,1
+Georgia,2019,Propane,0,1
+Georgia,2019,Hydrogen,0,1
+Georgia,2019,Methanol,0,1
+Georgia,2019,Gasoline,7552700,0
+Georgia,2019,Diesel,237500,0
+Georgia,2019,Unknown Fuel,101800,0
+Hawaii,2019,Electric (EV),8800,1
+Hawaii,2019,Plug-In Hybrid Electric (PHEV),2900,1
+Hawaii,2019,Hybrid Electric (HEV),25800,1
+Hawaii,2019,Biodiesel,0,1
+Hawaii,2019,Ethanol/Flex (E85),55600,1
+Hawaii,2019,Compressed Natural Gas (CNG),1000,1
+Hawaii,2019,Propane,0,1
+Hawaii,2019,Hydrogen,0,1
+Hawaii,2019,Methanol,0,1
+Hawaii,2019,Gasoline,970900,0
+Hawaii,2019,Diesel,17900,0
+Hawaii,2019,Unknown Fuel,6800,0
+Idaho,2019,Electric (EV),1600,1
+Idaho,2019,Plug-In Hybrid Electric (PHEV),1500,1
+Idaho,2019,Hybrid Electric (HEV),21900,1
+Idaho,2019,Biodiesel,0,1
+Idaho,2019,Ethanol/Flex (E85),148600,1
+Idaho,2019,Compressed Natural Gas (CNG),10500,1
+Idaho,2019,Propane,0,1
+Idaho,2019,Hydrogen,0,1
+Idaho,2019,Methanol,0,1
+Idaho,2019,Gasoline,1453500,0
+Idaho,2019,Diesel,147200,0
+Idaho,2019,Unknown Fuel,25500,0
+Illinois,2019,Electric (EV),19300,1
+Illinois,2019,Plug-In Hybrid Electric (PHEV),11600,1
+Illinois,2019,Hybrid Electric (HEV),177300,1
+Illinois,2019,Biodiesel,0,1
+Illinois,2019,Ethanol/Flex (E85),1153600,1
+Illinois,2019,Compressed Natural Gas (CNG),13400,1
+Illinois,2019,Propane,0,1
+Illinois,2019,Hydrogen,0,1
+Illinois,2019,Methanol,0,1
+Illinois,2019,Gasoline,8665900,0
+Illinois,2019,Diesel,209000,0
+Illinois,2019,Unknown Fuel,98000,0
+Indiana,2019,Electric (EV),5100,1
+Indiana,2019,Plug-In Hybrid Electric (PHEV),4700,1
+Indiana,2019,Hybrid Electric (HEV),68900,1
+Indiana,2019,Biodiesel,0,1
+Indiana,2019,Ethanol/Flex (E85),745100,1
+Indiana,2019,Compressed Natural Gas (CNG),14500,1
+Indiana,2019,Propane,0,1
+Indiana,2019,Hydrogen,0,1
+Indiana,2019,Methanol,0,1
+Indiana,2019,Gasoline,4887900,0
+Indiana,2019,Diesel,175900,0
+Indiana,2019,Unknown Fuel,70700,0
+Iowa,2019,Electric (EV),1600,1
+Iowa,2019,Plug-In Hybrid Electric (PHEV),2400,1
+Iowa,2019,Hybrid Electric (HEV),33100,1
+Iowa,2019,Biodiesel,0,1
+Iowa,2019,Ethanol/Flex (E85),448900,1
+Iowa,2019,Compressed Natural Gas (CNG),10200,1
+Iowa,2019,Propane,0,1
+Iowa,2019,Hydrogen,0,1
+Iowa,2019,Methanol,0,1
+Iowa,2019,Gasoline,2397900,0
+Iowa,2019,Diesel,120300,0
+Iowa,2019,Unknown Fuel,71000,0
+Kansas,2019,Electric (EV),2300,1
+Kansas,2019,Plug-In Hybrid Electric (PHEV),2100,1
+Kansas,2019,Hybrid Electric (HEV),31700,1
+Kansas,2019,Biodiesel,0,1
+Kansas,2019,Ethanol/Flex (E85),313500,1
+Kansas,2019,Compressed Natural Gas (CNG),11300,1
+Kansas,2019,Propane,0,1
+Kansas,2019,Hydrogen,0,1
+Kansas,2019,Methanol,0,1
+Kansas,2019,Gasoline,2094100,0
+Kansas,2019,Diesel,98800,0
+Kansas,2019,Unknown Fuel,29500,0
+Kentucky,2019,Electric (EV),1900,1
+Kentucky,2019,Plug-In Hybrid Electric (PHEV),1800,1
+Kentucky,2019,Hybrid Electric (HEV),38000,1
+Kentucky,2019,Biodiesel,0,1
+Kentucky,2019,Ethanol/Flex (E85),442000,1
+Kentucky,2019,Compressed Natural Gas (CNG),12000,1
+Kentucky,2019,Propane,0,1
+Kentucky,2019,Hydrogen,0,1
+Kentucky,2019,Methanol,0,1
+Kentucky,2019,Gasoline,3309900,0
+Kentucky,2019,Diesel,129100,0
+Kentucky,2019,Unknown Fuel,38900,0
+Louisiana,2019,Electric (EV),1400,1
+Louisiana,2019,Plug-In Hybrid Electric (PHEV),1000,1
+Louisiana,2019,Hybrid Electric (HEV),19800,1
+Louisiana,2019,Biodiesel,0,1
+Louisiana,2019,Ethanol/Flex (E85),554400,1
+Louisiana,2019,Compressed Natural Gas (CNG),8500,1
+Louisiana,2019,Propane,0,1
+Louisiana,2019,Hydrogen,0,1
+Louisiana,2019,Methanol,0,1
+Louisiana,2019,Gasoline,3030400,0
+Louisiana,2019,Diesel,162300,0
+Louisiana,2019,Unknown Fuel,30800,0
+Maine,2019,Electric (EV),1300,1
+Maine,2019,Plug-In Hybrid Electric (PHEV),2200,1
+Maine,2019,Hybrid Electric (HEV),20600,1
+Maine,2019,Biodiesel,0,1
+Maine,2019,Ethanol/Flex (E85),141300,1
+Maine,2019,Compressed Natural Gas (CNG),1300,1
+Maine,2019,Propane,0,1
+Maine,2019,Hydrogen,0,1
+Maine,2019,Methanol,0,1
+Maine,2019,Gasoline,1002000,0
+Maine,2019,Diesel,32500,0
+Maine,2019,Unknown Fuel,11200,0
+Maryland,2019,Electric (EV),13200,1
+Maryland,2019,Plug-In Hybrid Electric (PHEV),10000,1
+Maryland,2019,Hybrid Electric (HEV),100700,1
+Maryland,2019,Biodiesel,0,1
+Maryland,2019,Ethanol/Flex (E85),400600,1
+Maryland,2019,Compressed Natural Gas (CNG),4400,1
+Maryland,2019,Propane,0,1
+Maryland,2019,Hydrogen,0,1
+Maryland,2019,Methanol,0,1
+Maryland,2019,Gasoline,4068900,0
+Maryland,2019,Diesel,107000,0
+Maryland,2019,Unknown Fuel,39400,0
+Massachusetts,2019,Electric (EV),14100,1
+Massachusetts,2019,Plug-In Hybrid Electric (PHEV),12900,1
+Massachusetts,2019,Hybrid Electric (HEV),112400,1
+Massachusetts,2019,Biodiesel,0,1
+Massachusetts,2019,Ethanol/Flex (E85),400100,1
+Massachusetts,2019,Compressed Natural Gas (CNG),2300,1
+Massachusetts,2019,Propane,0,1
+Massachusetts,2019,Hydrogen,0,1
+Massachusetts,2019,Methanol,0,1
+Massachusetts,2019,Gasoline,4613000,0
+Massachusetts,2019,Diesel,72600,0
+Massachusetts,2019,Unknown Fuel,36800,0
+Michigan,2019,Electric (EV),6600,1
+Michigan,2019,Plug-In Hybrid Electric (PHEV),12400,1
+Michigan,2019,Hybrid Electric (HEV),86500,1
+Michigan,2019,Biodiesel,0,1
+Michigan,2019,Ethanol/Flex (E85),1353800,1
+Michigan,2019,Compressed Natural Gas (CNG),13100,1
+Michigan,2019,Propane,0,1
+Michigan,2019,Hydrogen,0,1
+Michigan,2019,Methanol,0,1
+Michigan,2019,Gasoline,6786400,0
+Michigan,2019,Diesel,224900,0
+Michigan,2019,Unknown Fuel,67800,0
+Minnesota,2019,Electric (EV),7700,1
+Minnesota,2019,Plug-In Hybrid Electric (PHEV),5800,1
+Minnesota,2019,Hybrid Electric (HEV),77400,1
+Minnesota,2019,Biodiesel,0,1
+Minnesota,2019,Ethanol/Flex (E85),704600,1
+Minnesota,2019,Compressed Natural Gas (CNG),10100,1
+Minnesota,2019,Propane,0,1
+Minnesota,2019,Hydrogen,0,1
+Minnesota,2019,Methanol,0,1
+Minnesota,2019,Gasoline,4174400,0
+Minnesota,2019,Diesel,155100,0
+Minnesota,2019,Unknown Fuel,43800,0
+Mississippi,2019,Electric (EV),500,1
+Mississippi,2019,Plug-In Hybrid Electric (PHEV),600,1
+Mississippi,2019,Hybrid Electric (HEV),14400,1
+Mississippi,2019,Biodiesel,0,1
+Mississippi,2019,Ethanol/Flex (E85),366500,1
+Mississippi,2019,Compressed Natural Gas (CNG),5600,1
+Mississippi,2019,Propane,0,1
+Mississippi,2019,Hydrogen,0,1
+Mississippi,2019,Methanol,0,1
+Mississippi,2019,Gasoline,2166800,0
+Mississippi,2019,Diesel,95100,0
+Mississippi,2019,Unknown Fuel,14800,0
+Missouri,2019,Electric (EV),4900,1
+Missouri,2019,Plug-In Hybrid Electric (PHEV),5000,1
+Missouri,2019,Hybrid Electric (HEV),86200,1
+Missouri,2019,Biodiesel,0,1
+Missouri,2019,Ethanol/Flex (E85),764500,1
+Missouri,2019,Compressed Natural Gas (CNG),15900,1
+Missouri,2019,Propane,0,1
+Missouri,2019,Hydrogen,0,1
+Missouri,2019,Methanol,0,1
+Missouri,2019,Gasoline,4591200,0
+Missouri,2019,Diesel,219600,0
+Missouri,2019,Unknown Fuel,55900,0
+Montana,2019,Electric (EV),700,1
+Montana,2019,Plug-In Hybrid Electric (PHEV),500,1
+Montana,2019,Hybrid Electric (HEV),10500,1
+Montana,2019,Biodiesel,0,1
+Montana,2019,Ethanol/Flex (E85),129000,1
+Montana,2019,Compressed Natural Gas (CNG),3900,1
+Montana,2019,Propane,0,1
+Montana,2019,Hydrogen,0,1
+Montana,2019,Methanol,0,1
+Montana,2019,Gasoline,717800,0
+Montana,2019,Diesel,90900,0
+Montana,2019,Unknown Fuel,16800,0
+Nebraska,2019,Electric (EV),1300,1
+Nebraska,2019,Plug-In Hybrid Electric (PHEV),1100,1
+Nebraska,2019,Hybrid Electric (HEV),18200,1
+Nebraska,2019,Biodiesel,0,1
+Nebraska,2019,Ethanol/Flex (E85),256900,1
+Nebraska,2019,Compressed Natural Gas (CNG),7700,1
+Nebraska,2019,Propane,0,1
+Nebraska,2019,Hydrogen,0,1
+Nebraska,2019,Methanol,0,1
+Nebraska,2019,Gasoline,1476500,0
+Nebraska,2019,Diesel,87000,0
+Nebraska,2019,Unknown Fuel,32400,0
+Nevada,2019,Electric (EV),7900,1
+Nevada,2019,Plug-In Hybrid Electric (PHEV),3600,1
+Nevada,2019,Hybrid Electric (HEV),40100,1
+Nevada,2019,Biodiesel,0,1
+Nevada,2019,Ethanol/Flex (E85),181300,1
+Nevada,2019,Compressed Natural Gas (CNG),5700,1
+Nevada,2019,Propane,0,1
+Nevada,2019,Hydrogen,0,1
+Nevada,2019,Methanol,0,1
+Nevada,2019,Gasoline,2037600,0
+Nevada,2019,Diesel,95500,0
+Nevada,2019,Unknown Fuel,32000,0
+New Hampshire,2019,Electric (EV),1900,1
+New Hampshire,2019,Plug-In Hybrid Electric (PHEV),2200,1
+New Hampshire,2019,Hybrid Electric (HEV),21900,1
+New Hampshire,2019,Biodiesel,0,1
+New Hampshire,2019,Ethanol/Flex (E85),133100,1
+New Hampshire,2019,Compressed Natural Gas (CNG),1300,1
+New Hampshire,2019,Propane,0,1
+New Hampshire,2019,Hydrogen,0,1
+New Hampshire,2019,Methanol,0,1
+New Hampshire,2019,Gasoline,1156800,0
+New Hampshire,2019,Diesel,35000,0
+New Hampshire,2019,Unknown Fuel,15700,0
+New Jersey,2019,Electric (EV),20200,1
+New Jersey,2019,Plug-In Hybrid Electric (PHEV),11700,1
+New Jersey,2019,Hybrid Electric (HEV),99900,1
+New Jersey,2019,Biodiesel,0,1
+New Jersey,2019,Ethanol/Flex (E85),561100,1
+New Jersey,2019,Compressed Natural Gas (CNG),3300,1
+New Jersey,2019,Propane,0,1
+New Jersey,2019,Hydrogen,0,1
+New Jersey,2019,Methanol,0,1
+New Jersey,2019,Gasoline,6384100,0
+New Jersey,2019,Diesel,110900,0
+New Jersey,2019,Unknown Fuel,51400,0
+New Mexico,2019,Electric (EV),1900,1
+New Mexico,2019,Plug-In Hybrid Electric (PHEV),1600,1
+New Mexico,2019,Hybrid Electric (HEV),26800,1
+New Mexico,2019,Biodiesel,0,1
+New Mexico,2019,Ethanol/Flex (E85),194100,1
+New Mexico,2019,Compressed Natural Gas (CNG),6400,1
+New Mexico,2019,Propane,0,1
+New Mexico,2019,Hydrogen,0,1
+New Mexico,2019,Methanol,0,1
+New Mexico,2019,Gasoline,1490400,0
+New Mexico,2019,Diesel,104300,0
+New Mexico,2019,Unknown Fuel,31600,0
+New York,2019,Electric (EV),23000,1
+New York,2019,Plug-In Hybrid Electric (PHEV),28000,1
+New York,2019,Hybrid Electric (HEV),182800,1
+New York,2019,Biodiesel,0,1
+New York,2019,Ethanol/Flex (E85),1027800,1
+New York,2019,Compressed Natural Gas (CNG),7000,1
+New York,2019,Propane,0,1
+New York,2019,Hydrogen,0,1
+New York,2019,Methanol,0,1
+New York,2019,Gasoline,9935300,0
+New York,2019,Diesel,186100,0
+New York,2019,Unknown Fuel,107200,0
+North Carolina,2019,Electric (EV),11600,1
+North Carolina,2019,Plug-In Hybrid Electric (PHEV),8100,1
+North Carolina,2019,Hybrid Electric (HEV),126600,1
+North Carolina,2019,Biodiesel,0,1
+North Carolina,2019,Ethanol/Flex (E85),846400,1
+North Carolina,2019,Compressed Natural Gas (CNG),20600,1
+North Carolina,2019,Propane,0,1
+North Carolina,2019,Hydrogen,0,1
+North Carolina,2019,Methanol,0,1
+North Carolina,2019,Gasoline,7311100,0
+North Carolina,2019,Diesel,242600,0
+North Carolina,2019,Unknown Fuel,96300,0
+North Dakota,2019,Electric (EV),200,1
+North Dakota,2019,Plug-In Hybrid Electric (PHEV),200,1
+North Dakota,2019,Hybrid Electric (HEV),4000,1
+North Dakota,2019,Biodiesel,0,1
+North Dakota,2019,Ethanol/Flex (E85),135800,1
+North Dakota,2019,Compressed Natural Gas (CNG),4000,1
+North Dakota,2019,Propane,0,1
+North Dakota,2019,Hydrogen,0,1
+North Dakota,2019,Methanol,0,1
+North Dakota,2019,Gasoline,563900,0
+North Dakota,2019,Diesel,56700,0
+North Dakota,2019,Unknown Fuel,14000,0
+Ohio,2019,Electric (EV),10200,1
+Ohio,2019,Plug-In Hybrid Electric (PHEV),8600,1
+Ohio,2019,Hybrid Electric (HEV),114500,1
+Ohio,2019,Biodiesel,0,1
+Ohio,2019,Ethanol/Flex (E85),1127400,1
+Ohio,2019,Compressed Natural Gas (CNG),15800,1
+Ohio,2019,Propane,0,1
+Ohio,2019,Hydrogen,0,1
+Ohio,2019,Methanol,0,1
+Ohio,2019,Gasoline,8735800,0
+Ohio,2019,Diesel,231500,0
+Ohio,2019,Unknown Fuel,92200,0
+Oklahoma,2019,Electric (EV),3400,1
+Oklahoma,2019,Plug-In Hybrid Electric (PHEV),1600,1
+Oklahoma,2019,Hybrid Electric (HEV),28500,1
+Oklahoma,2019,Biodiesel,0,1
+Oklahoma,2019,Ethanol/Flex (E85),621500,1
+Oklahoma,2019,Compressed Natural Gas (CNG),15700,1
+Oklahoma,2019,Propane,0,1
+Oklahoma,2019,Hydrogen,0,1
+Oklahoma,2019,Methanol,0,1
+Oklahoma,2019,Gasoline,3228200,0
+Oklahoma,2019,Diesel,186900,0
+Oklahoma,2019,Unknown Fuel,62000,0
+Oregon,2019,Electric (EV),18800,1
+Oregon,2019,Plug-In Hybrid Electric (PHEV),10400,1
+Oregon,2019,Hybrid Electric (HEV),102000,1
+Oregon,2019,Biodiesel,0,1
+Oregon,2019,Ethanol/Flex (E85),222400,1
+Oregon,2019,Compressed Natural Gas (CNG),12100,1
+Oregon,2019,Propane,0,1
+Oregon,2019,Hydrogen,0,1
+Oregon,2019,Methanol,0,1
+Oregon,2019,Gasoline,3125800,0
+Oregon,2019,Diesel,243500,0
+Oregon,2019,Unknown Fuel,80100,0
+Pennsylvania,2019,Electric (EV),12000,1
+Pennsylvania,2019,Plug-In Hybrid Electric (PHEV),11200,1
+Pennsylvania,2019,Hybrid Electric (HEV),126300,1
+Pennsylvania,2019,Biodiesel,0,1
+Pennsylvania,2019,Ethanol/Flex (E85),931800,1
+Pennsylvania,2019,Compressed Natural Gas (CNG),10500,1
+Pennsylvania,2019,Propane,0,1
+Pennsylvania,2019,Hydrogen,0,1
+Pennsylvania,2019,Methanol,0,1
+Pennsylvania,2019,Gasoline,8676900,0
+Pennsylvania,2019,Diesel,234000,0
+Pennsylvania,2019,Unknown Fuel,72900,0
+Rhode Island,2019,Electric (EV),1100,1
+Rhode Island,2019,Plug-In Hybrid Electric (PHEV),1300,1
+Rhode Island,2019,Hybrid Electric (HEV),13100,1
+Rhode Island,2019,Biodiesel,0,1
+Rhode Island,2019,Ethanol/Flex (E85),57700,1
+Rhode Island,2019,Compressed Natural Gas (CNG),500,1
+Rhode Island,2019,Propane,0,1
+Rhode Island,2019,Hydrogen,0,1
+Rhode Island,2019,Methanol,0,1
+Rhode Island,2019,Gasoline,792000,0
+Rhode Island,2019,Diesel,13100,0
+Rhode Island,2019,Unknown Fuel,7800,0
+South Carolina,2019,Electric (EV),3000,1
+South Carolina,2019,Plug-In Hybrid Electric (PHEV),2600,1
+South Carolina,2019,Hybrid Electric (HEV),46500,1
+South Carolina,2019,Biodiesel,0,1
+South Carolina,2019,Ethanol/Flex (E85),493800,1
+South Carolina,2019,Compressed Natural Gas (CNG),13000,1
+South Carolina,2019,Propane,0,1
+South Carolina,2019,Hydrogen,0,1
+South Carolina,2019,Methanol,0,1
+South Carolina,2019,Gasoline,3954600,0
+South Carolina,2019,Diesel,119000,0
+South Carolina,2019,Unknown Fuel,59600,0
+South Dakota,2019,Electric (EV),300,1
+South Dakota,2019,Plug-In Hybrid Electric (PHEV),400,1
+South Dakota,2019,Hybrid Electric (HEV),6600,1
+South Dakota,2019,Biodiesel,0,1
+South Dakota,2019,Ethanol/Flex (E85),137000,1
+South Dakota,2019,Compressed Natural Gas (CNG),4500,1
+South Dakota,2019,Propane,0,1
+South Dakota,2019,Hydrogen,0,1
+South Dakota,2019,Methanol,0,1
+South Dakota,2019,Gasoline,683200,0
+South Dakota,2019,Diesel,63200,0
+South Dakota,2019,Unknown Fuel,20000,0
+Tennessee,2019,Electric (EV),5700,1
+Tennessee,2019,Plug-In Hybrid Electric (PHEV),3600,1
+Tennessee,2019,Hybrid Electric (HEV),64300,1
+Tennessee,2019,Biodiesel,0,1
+Tennessee,2019,Ethanol/Flex (E85),611900,1
+Tennessee,2019,Compressed Natural Gas (CNG),17400,1
+Tennessee,2019,Propane,0,1
+Tennessee,2019,Hydrogen,0,1
+Tennessee,2019,Methanol,0,1
+Tennessee,2019,Gasoline,5160900,0
+Tennessee,2019,Diesel,172700,0
+Tennessee,2019,Unknown Fuel,53000,0
+Texas,2019,Electric (EV),38400,1
+Texas,2019,Plug-In Hybrid Electric (PHEV),18100,1
+Texas,2019,Hybrid Electric (HEV),244600,1
+Texas,2019,Biodiesel,0,1
+Texas,2019,Ethanol/Flex (E85),3200700,1
+Texas,2019,Compressed Natural Gas (CNG),47300,1
+Texas,2019,Propane,0,1
+Texas,2019,Hydrogen,100,1
+Texas,2019,Methanol,0,1
+Texas,2019,Gasoline,19293900,0
+Texas,2019,Diesel,1070200,0
+Texas,2019,Unknown Fuel,178000,0
+Utah,2019,Electric (EV),8000,1
+Utah,2019,Plug-In Hybrid Electric (PHEV),4400,1
+Utah,2019,Hybrid Electric (HEV),45300,1
+Utah,2019,Biodiesel,0,1
+Utah,2019,Ethanol/Flex (E85),230100,1
+Utah,2019,Compressed Natural Gas (CNG),9200,1
+Utah,2019,Propane,0,1
+Utah,2019,Hydrogen,0,1
+Utah,2019,Methanol,0,1
+Utah,2019,Gasoline,2291100,0
+Utah,2019,Diesel,183300,0
+Utah,2019,Unknown Fuel,36300,0
+Vermont,2019,Electric (EV),1700,1
+Vermont,2019,Plug-In Hybrid Electric (PHEV),2000,1
+Vermont,2019,Hybrid Electric (HEV),13300,1
+Vermont,2019,Biodiesel,0,1
+Vermont,2019,Ethanol/Flex (E85),59100,1
+Vermont,2019,Compressed Natural Gas (CNG),600,1
+Vermont,2019,Propane,0,1
+Vermont,2019,Hydrogen,0,1
+Vermont,2019,Methanol,0,1
+Vermont,2019,Gasoline,509000,0
+Vermont,2019,Diesel,19400,0
+Vermont,2019,Unknown Fuel,7400,0
+Virginia,2019,Electric (EV),15000,1
+Virginia,2019,Plug-In Hybrid Electric (PHEV),9800,1
+Virginia,2019,Hybrid Electric (HEV),151000,1
+Virginia,2019,Biodiesel,0,1
+Virginia,2019,Ethanol/Flex (E85),603200,1
+Virginia,2019,Compressed Natural Gas (CNG),13600,1
+Virginia,2019,Propane,0,1
+Virginia,2019,Hydrogen,0,1
+Virginia,2019,Methanol,0,1
+Virginia,2019,Gasoline,6750300,0
+Virginia,2019,Diesel,178400,0
+Virginia,2019,Unknown Fuel,52200,0
+Washington,2019,Electric (EV),40400,1
+Washington,2019,Plug-In Hybrid Electric (PHEV),16100,1
+Washington,2019,Hybrid Electric (HEV),193400,1
+Washington,2019,Biodiesel,0,1
+Washington,2019,Ethanol/Flex (E85),408800,1
+Washington,2019,Compressed Natural Gas (CNG),19600,1
+Washington,2019,Propane,0,1
+Washington,2019,Hydrogen,0,1
+Washington,2019,Methanol,0,1
+Washington,2019,Gasoline,5612100,0
+Washington,2019,Diesel,308700,0
+Washington,2019,Unknown Fuel,100300,0
+West Virginia,2019,Electric (EV),400,1
+West Virginia,2019,Plug-In Hybrid Electric (PHEV),600,1
+West Virginia,2019,Hybrid Electric (HEV),10900,1
+West Virginia,2019,Biodiesel,0,1
+West Virginia,2019,Ethanol/Flex (E85),177300,1
+West Virginia,2019,Compressed Natural Gas (CNG),3100,1
+West Virginia,2019,Propane,0,1
+West Virginia,2019,Hydrogen,0,1
+West Virginia,2019,Methanol,0,1
+West Virginia,2019,Gasoline,1234300,0
+West Virginia,2019,Diesel,56300,0
+West Virginia,2019,Unknown Fuel,15400,0
+Wisconsin,2019,Electric (EV),4700,1
+Wisconsin,2019,Plug-In Hybrid Electric (PHEV),5300,1
+Wisconsin,2019,Hybrid Electric (HEV),76200,1
+Wisconsin,2019,Biodiesel,0,1
+Wisconsin,2019,Ethanol/Flex (E85),733700,1
+Wisconsin,2019,Compressed Natural Gas (CNG),10100,1
+Wisconsin,2019,Propane,0,1
+Wisconsin,2019,Hydrogen,0,1
+Wisconsin,2019,Methanol,0,1
+Wisconsin,2019,Gasoline,4519800,0
+Wisconsin,2019,Diesel,168800,0
+Wisconsin,2019,Unknown Fuel,45300,0
+Wyoming,2019,Electric (EV),200,1
+Wyoming,2019,Plug-In Hybrid Electric (PHEV),200,1
+Wyoming,2019,Hybrid Electric (HEV),4200,1
+Wyoming,2019,Biodiesel,0,1
+Wyoming,2019,Ethanol/Flex (E85),75100,1
+Wyoming,2019,Compressed Natural Gas (CNG),3800,1
+Wyoming,2019,Propane,0,1
+Wyoming,2019,Hydrogen,0,1
+Wyoming,2019,Methanol,0,1
+Wyoming,2019,Gasoline,452800,0
+Wyoming,2019,Diesel,75400,0
+Wyoming,2019,Unknown Fuel,19100,0
+Alabama,2020,Electric (EV),2900,1
+Alabama,2020,Plug-In Hybrid Electric (PHEV),2100,1
+Alabama,2020,Hybrid Electric (HEV),36300,1
+Alabama,2020,Biodiesel,0,1
+Alabama,2020,Ethanol/Flex (E85),567600,1
+Alabama,2020,Compressed Natural Gas (CNG),15100,1
+Alabama,2020,Propane,0,1
+Alabama,2020,Hydrogen,0,1
+Alabama,2020,Methanol,0,1
+Alabama,2020,Gasoline,3863500,0
+Alabama,2020,Diesel,154100,0
+Alabama,2020,Unknown Fuel,41600,0
+Alaska,2020,Electric (EV),900,1
+Alaska,2020,Plug-In Hybrid Electric (PHEV),400,1
+Alaska,2020,Hybrid Electric (HEV),6200,1
+Alaska,2020,Biodiesel,0,1
+Alaska,2020,Ethanol/Flex (E85),64000,1
+Alaska,2020,Compressed Natural Gas (CNG),2700,1
+Alaska,2020,Propane,0,1
+Alaska,2020,Hydrogen,0,1
+Alaska,2020,Methanol,0,1
+Alaska,2020,Gasoline,460900,0
+Alaska,2020,Diesel,39600,0
+Alaska,2020,Unknown Fuel,11400,0
+Arizona,2020,Electric (EV),28800,1
+Arizona,2020,Plug-In Hybrid Electric (PHEV),11200,1
+Arizona,2020,Hybrid Electric (HEV),115400,1
+Arizona,2020,Biodiesel,0,1
+Arizona,2020,Ethanol/Flex (E85),584800,1
+Arizona,2020,Compressed Natural Gas (CNG),13800,1
+Arizona,2020,Propane,0,1
+Arizona,2020,Hydrogen,0,1
+Arizona,2020,Methanol,0,1
+Arizona,2020,Gasoline,5202200,0
+Arizona,2020,Diesel,226000,0
+Arizona,2020,Unknown Fuel,103400,0
+Arkansas,2020,Electric (EV),1300,1
+Arkansas,2020,Plug-In Hybrid Electric (PHEV),1100,1
+Arkansas,2020,Hybrid Electric (HEV),22400,1
+Arkansas,2020,Biodiesel,0,1
+Arkansas,2020,Ethanol/Flex (E85),392800,1
+Arkansas,2020,Compressed Natural Gas (CNG),7200,1
+Arkansas,2020,Propane,0,1
+Arkansas,2020,Hydrogen,0,1
+Arkansas,2020,Methanol,0,1
+Arkansas,2020,Gasoline,2093700,0
+Arkansas,2020,Diesel,111100,0
+Arkansas,2020,Unknown Fuel,15700,0
+California,2020,Electric (EV),425300,1
+California,2020,Plug-In Hybrid Electric (PHEV),265500,1
+California,2020,Hybrid Electric (HEV),1228700,1
+California,2020,Biodiesel,0,1
+California,2020,Ethanol/Flex (E85),1745100,1
+California,2020,Compressed Natural Gas (CNG),75300,1
+California,2020,Propane,0,1
+California,2020,Hydrogen,14000,1
+California,2020,Methanol,300,1
+California,2020,Gasoline,29642700,0
+California,2020,Diesel,825900,0
+California,2020,Unknown Fuel,116700,0
+Colorado,2020,Electric (EV),24700,1
+Colorado,2020,Plug-In Hybrid Electric (PHEV),10800,1
+Colorado,2020,Hybrid Electric (HEV),96500,1
+Colorado,2020,Biodiesel,0,1
+Colorado,2020,Ethanol/Flex (E85),447000,1
+Colorado,2020,Compressed Natural Gas (CNG),11400,1
+Colorado,2020,Propane,0,1
+Colorado,2020,Hydrogen,0,1
+Colorado,2020,Methanol,0,1
+Colorado,2020,Gasoline,4263300,0
+Colorado,2020,Diesel,249700,0
+Colorado,2020,Unknown Fuel,89600,0
+Connecticut,2020,Electric (EV),9000,1
+Connecticut,2020,Plug-In Hybrid Electric (PHEV),6200,1
+Connecticut,2020,Hybrid Electric (HEV),49600,1
+Connecticut,2020,Biodiesel,0,1
+Connecticut,2020,Ethanol/Flex (E85),199300,1
+Connecticut,2020,Compressed Natural Gas (CNG),2000,1
+Connecticut,2020,Propane,0,1
+Connecticut,2020,Hydrogen,0,1
+Connecticut,2020,Methanol,0,1
+Connecticut,2020,Gasoline,2577600,0
+Connecticut,2020,Diesel,53000,0
+Connecticut,2020,Unknown Fuel,26100,0
+Delaware,2020,Electric (EV),1900,1
+Delaware,2020,Plug-In Hybrid Electric (PHEV),1500,1
+Delaware,2020,Hybrid Electric (HEV),14800,1
+Delaware,2020,Biodiesel,0,1
+Delaware,2020,Ethanol/Flex (E85),89700,1
+Delaware,2020,Compressed Natural Gas (CNG),1000,1
+Delaware,2020,Propane,0,1
+Delaware,2020,Hydrogen,0,1
+Delaware,2020,Methanol,0,1
+Delaware,2020,Gasoline,780600,0
+Delaware,2020,Diesel,17900,0
+Delaware,2020,Unknown Fuel,6600,0
+District of Columbia,2020,Electric (EV),2400,1
+District of Columbia,2020,Plug-In Hybrid Electric (PHEV),1600,1
+District of Columbia,2020,Hybrid Electric (HEV),14300,1
+District of Columbia,2020,Biodiesel,0,1
+District of Columbia,2020,Ethanol/Flex (E85),21900,1
+District of Columbia,2020,Compressed Natural Gas (CNG),200,1
+District of Columbia,2020,Propane,0,1
+District of Columbia,2020,Hydrogen,0,1
+District of Columbia,2020,Methanol,0,1
+District of Columbia,2020,Gasoline,274400,0
+District of Columbia,2020,Diesel,2300,0
+District of Columbia,2020,Unknown Fuel,1200,0
+Florida,2020,Electric (EV),58200,1
+Florida,2020,Plug-In Hybrid Electric (PHEV),22400,1
+Florida,2020,Hybrid Electric (HEV),248500,1
+Florida,2020,Biodiesel,0,1
+Florida,2020,Ethanol/Flex (E85),1513000,1
+Florida,2020,Compressed Natural Gas (CNG),13100,1
+Florida,2020,Propane,0,1
+Florida,2020,Hydrogen,0,1
+Florida,2020,Methanol,0,1
+Florida,2020,Gasoline,14925500,0
+Florida,2020,Diesel,433700,0
+Florida,2020,Unknown Fuel,127300,0
+Georgia,2020,Electric (EV),23500,1
+Georgia,2020,Plug-In Hybrid Electric (PHEV),9400,1
+Georgia,2020,Hybrid Electric (HEV),109000,1
+Georgia,2020,Biodiesel,0,1
+Georgia,2020,Ethanol/Flex (E85),919400,1
+Georgia,2020,Compressed Natural Gas (CNG),21000,1
+Georgia,2020,Propane,0,1
+Georgia,2020,Hydrogen,0,1
+Georgia,2020,Methanol,0,1
+Georgia,2020,Gasoline,7665100,0
+Georgia,2020,Diesel,252800,0
+Georgia,2020,Unknown Fuel,97600,0
+Hawaii,2020,Electric (EV),10700,1
+Hawaii,2020,Plug-In Hybrid Electric (PHEV),3200,1
+Hawaii,2020,Hybrid Electric (HEV),26400,1
+Hawaii,2020,Biodiesel,0,1
+Hawaii,2020,Ethanol/Flex (E85),52700,1
+Hawaii,2020,Compressed Natural Gas (CNG),900,1
+Hawaii,2020,Propane,0,1
+Hawaii,2020,Hydrogen,100,1
+Hawaii,2020,Methanol,0,1
+Hawaii,2020,Gasoline,948300,0
+Hawaii,2020,Diesel,18000,0
+Hawaii,2020,Unknown Fuel,6000,0
+Idaho,2020,Electric (EV),2300,1
+Idaho,2020,Plug-In Hybrid Electric (PHEV),1700,1
+Idaho,2020,Hybrid Electric (HEV),24900,1
+Idaho,2020,Biodiesel,0,1
+Idaho,2020,Ethanol/Flex (E85),156300,1
+Idaho,2020,Compressed Natural Gas (CNG),9900,1
+Idaho,2020,Propane,0,1
+Idaho,2020,Hydrogen,0,1
+Idaho,2020,Methanol,0,1
+Idaho,2020,Gasoline,1480700,0
+Idaho,2020,Diesel,155700,0
+Idaho,2020,Unknown Fuel,26900,0
+Illinois,2020,Electric (EV),26000,1
+Illinois,2020,Plug-In Hybrid Electric (PHEV),13000,1
+Illinois,2020,Hybrid Electric (HEV),190600,1
+Illinois,2020,Biodiesel,0,1
+Illinois,2020,Ethanol/Flex (E85),1154700,1
+Illinois,2020,Compressed Natural Gas (CNG),12100,1
+Illinois,2020,Propane,0,1
+Illinois,2020,Hydrogen,0,1
+Illinois,2020,Methanol,0,1
+Illinois,2020,Gasoline,8533600,0
+Illinois,2020,Diesel,213600,0
+Illinois,2020,Unknown Fuel,90600,0
+Indiana,2020,Electric (EV),7000,1
+Indiana,2020,Plug-In Hybrid Electric (PHEV),5300,1
+Indiana,2020,Hybrid Electric (HEV),75300,1
+Indiana,2020,Biodiesel,0,1
+Indiana,2020,Ethanol/Flex (E85),774400,1
+Indiana,2020,Compressed Natural Gas (CNG),13400,1
+Indiana,2020,Propane,0,1
+Indiana,2020,Hydrogen,0,1
+Indiana,2020,Methanol,0,1
+Indiana,2020,Gasoline,4916700,0
+Indiana,2020,Diesel,183700,0
+Indiana,2020,Unknown Fuel,70300,0
+Iowa,2020,Electric (EV),2300,1
+Iowa,2020,Plug-In Hybrid Electric (PHEV),2600,1
+Iowa,2020,Hybrid Electric (HEV),36400,1
+Iowa,2020,Biodiesel,0,1
+Iowa,2020,Ethanol/Flex (E85),459900,1
+Iowa,2020,Compressed Natural Gas (CNG),9500,1
+Iowa,2020,Propane,0,1
+Iowa,2020,Hydrogen,0,1
+Iowa,2020,Methanol,0,1
+Iowa,2020,Gasoline,2402200,0
+Iowa,2020,Diesel,125300,0
+Iowa,2020,Unknown Fuel,69100,0
+Kansas,2020,Electric (EV),3100,1
+Kansas,2020,Plug-In Hybrid Electric (PHEV),2400,1
+Kansas,2020,Hybrid Electric (HEV),34000,1
+Kansas,2020,Biodiesel,0,1
+Kansas,2020,Ethanol/Flex (E85),324700,1
+Kansas,2020,Compressed Natural Gas (CNG),10600,1
+Kansas,2020,Propane,0,1
+Kansas,2020,Hydrogen,0,1
+Kansas,2020,Methanol,0,1
+Kansas,2020,Gasoline,2086800,0
+Kansas,2020,Diesel,102900,0
+Kansas,2020,Unknown Fuel,27700,0
+Kentucky,2020,Electric (EV),2600,1
+Kentucky,2020,Plug-In Hybrid Electric (PHEV),2100,1
+Kentucky,2020,Hybrid Electric (HEV),41300,1
+Kentucky,2020,Biodiesel,0,1
+Kentucky,2020,Ethanol/Flex (E85),458800,1
+Kentucky,2020,Compressed Natural Gas (CNG),10900,1
+Kentucky,2020,Propane,0,1
+Kentucky,2020,Hydrogen,0,1
+Kentucky,2020,Methanol,0,1
+Kentucky,2020,Gasoline,3281300,0
+Kentucky,2020,Diesel,133700,0
+Kentucky,2020,Unknown Fuel,36500,0
+Louisiana,2020,Electric (EV),2000,1
+Louisiana,2020,Plug-In Hybrid Electric (PHEV),1200,1
+Louisiana,2020,Hybrid Electric (HEV),21600,1
+Louisiana,2020,Biodiesel,0,1
+Louisiana,2020,Ethanol/Flex (E85),556600,1
+Louisiana,2020,Compressed Natural Gas (CNG),7700,1
+Louisiana,2020,Propane,0,1
+Louisiana,2020,Hydrogen,0,1
+Louisiana,2020,Methanol,0,1
+Louisiana,2020,Gasoline,3039100,0
+Louisiana,2020,Diesel,164900,0
+Louisiana,2020,Unknown Fuel,28000,0
+Maine,2020,Electric (EV),1900,1
+Maine,2020,Plug-In Hybrid Electric (PHEV),2800,1
+Maine,2020,Hybrid Electric (HEV),22400,1
+Maine,2020,Biodiesel,0,1
+Maine,2020,Ethanol/Flex (E85),148500,1
+Maine,2020,Compressed Natural Gas (CNG),1200,1
+Maine,2020,Propane,0,1
+Maine,2020,Hydrogen,0,1
+Maine,2020,Methanol,0,1
+Maine,2020,Gasoline,1001700,0
+Maine,2020,Diesel,34600,0
+Maine,2020,Unknown Fuel,10900,0
+Maryland,2020,Electric (EV),18000,1
+Maryland,2020,Plug-In Hybrid Electric (PHEV),11900,1
+Maryland,2020,Hybrid Electric (HEV),109700,1
+Maryland,2020,Biodiesel,0,1
+Maryland,2020,Ethanol/Flex (E85),406600,1
+Maryland,2020,Compressed Natural Gas (CNG),4100,1
+Maryland,2020,Propane,0,1
+Maryland,2020,Hydrogen,0,1
+Maryland,2020,Methanol,0,1
+Maryland,2020,Gasoline,4136000,0
+Maryland,2020,Diesel,111700,0
+Maryland,2020,Unknown Fuel,37900,0
+Massachusetts,2020,Electric (EV),21000,1
+Massachusetts,2020,Plug-In Hybrid Electric (PHEV),15600,1
+Massachusetts,2020,Hybrid Electric (HEV),122600,1
+Massachusetts,2020,Biodiesel,0,1
+Massachusetts,2020,Ethanol/Flex (E85),418900,1
+Massachusetts,2020,Compressed Natural Gas (CNG),2100,1
+Massachusetts,2020,Propane,0,1
+Massachusetts,2020,Hydrogen,0,1
+Massachusetts,2020,Methanol,0,1
+Massachusetts,2020,Gasoline,4697000,0
+Massachusetts,2020,Diesel,75500,0
+Massachusetts,2020,Unknown Fuel,36800,0
+Michigan,2020,Electric (EV),10600,1
+Michigan,2020,Plug-In Hybrid Electric (PHEV),12500,1
+Michigan,2020,Hybrid Electric (HEV),93400,1
+Michigan,2020,Biodiesel,0,1
+Michigan,2020,Ethanol/Flex (E85),1348900,1
+Michigan,2020,Compressed Natural Gas (CNG),11200,1
+Michigan,2020,Propane,0,1
+Michigan,2020,Hydrogen,0,1
+Michigan,2020,Methanol,0,1
+Michigan,2020,Gasoline,6728600,0
+Michigan,2020,Diesel,217400,0
+Michigan,2020,Unknown Fuel,62100,0
+Minnesota,2020,Electric (EV),10400,1
+Minnesota,2020,Plug-In Hybrid Electric (PHEV),6700,1
+Minnesota,2020,Hybrid Electric (HEV),83800,1
+Minnesota,2020,Biodiesel,0,1
+Minnesota,2020,Ethanol/Flex (E85),722800,1
+Minnesota,2020,Compressed Natural Gas (CNG),9100,1
+Minnesota,2020,Propane,0,1
+Minnesota,2020,Hydrogen,0,1
+Minnesota,2020,Methanol,0,1
+Minnesota,2020,Gasoline,4162400,0
+Minnesota,2020,Diesel,161700,0
+Minnesota,2020,Unknown Fuel,43000,0
+Mississippi,2020,Electric (EV),800,1
+Mississippi,2020,Plug-In Hybrid Electric (PHEV),700,1
+Mississippi,2020,Hybrid Electric (HEV),15800,1
+Mississippi,2020,Biodiesel,0,1
+Mississippi,2020,Ethanol/Flex (E85),381000,1
+Mississippi,2020,Compressed Natural Gas (CNG),5000,1
+Mississippi,2020,Propane,0,1
+Mississippi,2020,Hydrogen,0,1
+Mississippi,2020,Methanol,0,1
+Mississippi,2020,Gasoline,2197800,0
+Mississippi,2020,Diesel,99600,0
+Mississippi,2020,Unknown Fuel,13800,0
+Missouri,2020,Electric (EV),6700,1
+Missouri,2020,Plug-In Hybrid Electric (PHEV),5300,1
+Missouri,2020,Hybrid Electric (HEV),77600,1
+Missouri,2020,Biodiesel,0,1
+Missouri,2020,Ethanol/Flex (E85),744100,1
+Missouri,2020,Compressed Natural Gas (CNG),14000,1
+Missouri,2020,Propane,0,1
+Missouri,2020,Hydrogen,0,1
+Missouri,2020,Methanol,0,1
+Missouri,2020,Gasoline,4442300,0
+Missouri,2020,Diesel,212200,0
+Missouri,2020,Unknown Fuel,52100,0
+Montana,2020,Electric (EV),900,1
+Montana,2020,Plug-In Hybrid Electric (PHEV),600,1
+Montana,2020,Hybrid Electric (HEV),11200,1
+Montana,2020,Biodiesel,0,1
+Montana,2020,Ethanol/Flex (E85),130600,1
+Montana,2020,Compressed Natural Gas (CNG),3600,1
+Montana,2020,Propane,0,1
+Montana,2020,Hydrogen,0,1
+Montana,2020,Methanol,0,1
+Montana,2020,Gasoline,714000,0
+Montana,2020,Diesel,93100,0
+Montana,2020,Unknown Fuel,16400,0
+Nebraska,2020,Electric (EV),1800,1
+Nebraska,2020,Plug-In Hybrid Electric (PHEV),1300,1
+Nebraska,2020,Hybrid Electric (HEV),20200,1
+Nebraska,2020,Biodiesel,0,1
+Nebraska,2020,Ethanol/Flex (E85),262800,1
+Nebraska,2020,Compressed Natural Gas (CNG),7200,1
+Nebraska,2020,Propane,0,1
+Nebraska,2020,Hydrogen,0,1
+Nebraska,2020,Methanol,0,1
+Nebraska,2020,Gasoline,1482500,0
+Nebraska,2020,Diesel,90400,0
+Nebraska,2020,Unknown Fuel,31700,0
+Nevada,2020,Electric (EV),11000,1
+Nevada,2020,Plug-In Hybrid Electric (PHEV),4200,1
+Nevada,2020,Hybrid Electric (HEV),42900,1
+Nevada,2020,Biodiesel,0,1
+Nevada,2020,Ethanol/Flex (E85),183700,1
+Nevada,2020,Compressed Natural Gas (CNG),5100,1
+Nevada,2020,Propane,0,1
+Nevada,2020,Hydrogen,0,1
+Nevada,2020,Methanol,0,1
+Nevada,2020,Gasoline,2036400,0
+Nevada,2020,Diesel,99100,0
+Nevada,2020,Unknown Fuel,28900,0
+New Hampshire,2020,Electric (EV),2700,1
+New Hampshire,2020,Plug-In Hybrid Electric (PHEV),2500,1
+New Hampshire,2020,Hybrid Electric (HEV),23300,1
+New Hampshire,2020,Biodiesel,0,1
+New Hampshire,2020,Ethanol/Flex (E85),135900,1
+New Hampshire,2020,Compressed Natural Gas (CNG),1200,1
+New Hampshire,2020,Propane,0,1
+New Hampshire,2020,Hydrogen,0,1
+New Hampshire,2020,Methanol,0,1
+New Hampshire,2020,Gasoline,1159600,0
+New Hampshire,2020,Diesel,37600,0
+New Hampshire,2020,Unknown Fuel,15800,0
+New Jersey,2020,Electric (EV),30400,1
+New Jersey,2020,Plug-In Hybrid Electric (PHEV),12800,1
+New Jersey,2020,Hybrid Electric (HEV),104600,1
+New Jersey,2020,Biodiesel,0,1
+New Jersey,2020,Ethanol/Flex (E85),548400,1
+New Jersey,2020,Compressed Natural Gas (CNG),2900,1
+New Jersey,2020,Propane,0,1
+New Jersey,2020,Hydrogen,0,1
+New Jersey,2020,Methanol,0,1
+New Jersey,2020,Gasoline,6227300,0
+New Jersey,2020,Diesel,106700,0
+New Jersey,2020,Unknown Fuel,47000,0
+New Mexico,2020,Electric (EV),2600,1
+New Mexico,2020,Plug-In Hybrid Electric (PHEV),1900,1
+New Mexico,2020,Hybrid Electric (HEV),28500,1
+New Mexico,2020,Biodiesel,0,1
+New Mexico,2020,Ethanol/Flex (E85),197900,1
+New Mexico,2020,Compressed Natural Gas (CNG),6000,1
+New Mexico,2020,Propane,0,1
+New Mexico,2020,Hydrogen,0,1
+New Mexico,2020,Methanol,0,1
+New Mexico,2020,Gasoline,1490700,0
+New Mexico,2020,Diesel,108100,0
+New Mexico,2020,Unknown Fuel,30300,0
+New York,2020,Electric (EV),32600,1
+New York,2020,Plug-In Hybrid Electric (PHEV),32600,1
+New York,2020,Hybrid Electric (HEV),192700,1
+New York,2020,Biodiesel,0,1
+New York,2020,Ethanol/Flex (E85),1020500,1
+New York,2020,Compressed Natural Gas (CNG),6200,1
+New York,2020,Propane,0,1
+New York,2020,Hydrogen,0,1
+New York,2020,Methanol,0,1
+New York,2020,Gasoline,9890800,0
+New York,2020,Diesel,189900,0
+New York,2020,Unknown Fuel,102600,0
+North Carolina,2020,Electric (EV),16200,1
+North Carolina,2020,Plug-In Hybrid Electric (PHEV),9300,1
+North Carolina,2020,Hybrid Electric (HEV),133400,1
+North Carolina,2020,Biodiesel,0,1
+North Carolina,2020,Ethanol/Flex (E85),878800,1
+North Carolina,2020,Compressed Natural Gas (CNG),19700,1
+North Carolina,2020,Propane,0,1
+North Carolina,2020,Hydrogen,0,1
+North Carolina,2020,Methanol,0,1
+North Carolina,2020,Gasoline,7376600,0
+North Carolina,2020,Diesel,256300,0
+North Carolina,2020,Unknown Fuel,93400,0
+North Dakota,2020,Electric (EV),200,1
+North Dakota,2020,Plug-In Hybrid Electric (PHEV),300,1
+North Dakota,2020,Hybrid Electric (HEV),4400,1
+North Dakota,2020,Biodiesel,0,1
+North Dakota,2020,Ethanol/Flex (E85),135600,1
+North Dakota,2020,Compressed Natural Gas (CNG),3700,1
+North Dakota,2020,Propane,0,1
+North Dakota,2020,Hydrogen,0,1
+North Dakota,2020,Methanol,0,1
+North Dakota,2020,Gasoline,567200,0
+North Dakota,2020,Diesel,57700,0
+North Dakota,2020,Unknown Fuel,12500,0
+Ohio,2020,Electric (EV),14500,1
+Ohio,2020,Plug-In Hybrid Electric (PHEV),9500,1
+Ohio,2020,Hybrid Electric (HEV),124100,1
+Ohio,2020,Biodiesel,0,1
+Ohio,2020,Ethanol/Flex (E85),1153500,1
+Ohio,2020,Compressed Natural Gas (CNG),14100,1
+Ohio,2020,Propane,0,1
+Ohio,2020,Hydrogen,0,1
+Ohio,2020,Methanol,0,1
+Ohio,2020,Gasoline,8690900,0
+Ohio,2020,Diesel,240900,0
+Ohio,2020,Unknown Fuel,88900,0
+Oklahoma,2020,Electric (EV),3400,1
+Oklahoma,2020,Plug-In Hybrid Electric (PHEV),1800,1
+Oklahoma,2020,Hybrid Electric (HEV),30100,1
+Oklahoma,2020,Biodiesel,0,1
+Oklahoma,2020,Ethanol/Flex (E85),574100,1
+Oklahoma,2020,Compressed Natural Gas (CNG),14800,1
+Oklahoma,2020,Propane,0,1
+Oklahoma,2020,Hydrogen,0,1
+Oklahoma,2020,Methanol,0,1
+Oklahoma,2020,Gasoline,3126100,0
+Oklahoma,2020,Diesel,190800,0
+Oklahoma,2020,Unknown Fuel,60600,0
+Oregon,2020,Electric (EV),22800,1
+Oregon,2020,Plug-In Hybrid Electric (PHEV),11800,1
+Oregon,2020,Hybrid Electric (HEV),106100,1
+Oregon,2020,Biodiesel,0,1
+Oregon,2020,Ethanol/Flex (E85),222000,1
+Oregon,2020,Compressed Natural Gas (CNG),10900,1
+Oregon,2020,Propane,0,1
+Oregon,2020,Hydrogen,0,1
+Oregon,2020,Methanol,0,1
+Oregon,2020,Gasoline,2990200,0
+Oregon,2020,Diesel,246200,0
+Oregon,2020,Unknown Fuel,82600,0
+Pennsylvania,2020,Electric (EV),17500,1
+Pennsylvania,2020,Plug-In Hybrid Electric (PHEV),12800,1
+Pennsylvania,2020,Hybrid Electric (HEV),140800,1
+Pennsylvania,2020,Biodiesel,0,1
+Pennsylvania,2020,Ethanol/Flex (E85),953200,1
+Pennsylvania,2020,Compressed Natural Gas (CNG),9600,1
+Pennsylvania,2020,Propane,0,1
+Pennsylvania,2020,Hydrogen,0,1
+Pennsylvania,2020,Methanol,0,1
+Pennsylvania,2020,Gasoline,8781500,0
+Pennsylvania,2020,Diesel,241000,0
+Pennsylvania,2020,Unknown Fuel,69500,0
+Rhode Island,2020,Electric (EV),1600,1
+Rhode Island,2020,Plug-In Hybrid Electric (PHEV),1600,1
+Rhode Island,2020,Hybrid Electric (HEV),14100,1
+Rhode Island,2020,Biodiesel,0,1
+Rhode Island,2020,Ethanol/Flex (E85),59100,1
+Rhode Island,2020,Compressed Natural Gas (CNG),500,1
+Rhode Island,2020,Propane,0,1
+Rhode Island,2020,Hydrogen,0,1
+Rhode Island,2020,Methanol,0,1
+Rhode Island,2020,Gasoline,785400,0
+Rhode Island,2020,Diesel,13300,0
+Rhode Island,2020,Unknown Fuel,7500,0
+South Carolina,2020,Electric (EV),4400,1
+South Carolina,2020,Plug-In Hybrid Electric (PHEV),3000,1
+South Carolina,2020,Hybrid Electric (HEV),49700,1
+South Carolina,2020,Biodiesel,0,1
+South Carolina,2020,Ethanol/Flex (E85),515600,1
+South Carolina,2020,Compressed Natural Gas (CNG),12200,1
+South Carolina,2020,Propane,0,1
+South Carolina,2020,Hydrogen,0,1
+South Carolina,2020,Methanol,0,1
+South Carolina,2020,Gasoline,4004100,0
+South Carolina,2020,Diesel,127200,0
+South Carolina,2020,Unknown Fuel,56200,0
+South Dakota,2020,Electric (EV),400,1
+South Dakota,2020,Plug-In Hybrid Electric (PHEV),500,1
+South Dakota,2020,Hybrid Electric (HEV),7200,1
+South Dakota,2020,Biodiesel,0,1
+South Dakota,2020,Ethanol/Flex (E85),139400,1
+South Dakota,2020,Compressed Natural Gas (CNG),4100,1
+South Dakota,2020,Propane,0,1
+South Dakota,2020,Hydrogen,0,1
+South Dakota,2020,Methanol,0,1
+South Dakota,2020,Gasoline,688400,0
+South Dakota,2020,Diesel,65500,0
+South Dakota,2020,Unknown Fuel,19500,0
+Tennessee,2020,Electric (EV),7800,1
+Tennessee,2020,Plug-In Hybrid Electric (PHEV),4300,1
+Tennessee,2020,Hybrid Electric (HEV),68700,1
+Tennessee,2020,Biodiesel,0,1
+Tennessee,2020,Ethanol/Flex (E85),638600,1
+Tennessee,2020,Compressed Natural Gas (CNG),16500,1
+Tennessee,2020,Propane,0,1
+Tennessee,2020,Hydrogen,0,1
+Tennessee,2020,Methanol,0,1
+Tennessee,2020,Gasoline,5218400,0
+Tennessee,2020,Diesel,181600,0
+Tennessee,2020,Unknown Fuel,50900,0
+Texas,2020,Electric (EV),52200,1
+Texas,2020,Plug-In Hybrid Electric (PHEV),20400,1
+Texas,2020,Hybrid Electric (HEV),262300,1
+Texas,2020,Biodiesel,0,1
+Texas,2020,Ethanol/Flex (E85),3250000,1
+Texas,2020,Compressed Natural Gas (CNG),43600,1
+Texas,2020,Propane,0,1
+Texas,2020,Hydrogen,100,1
+Texas,2020,Methanol,0,1
+Texas,2020,Gasoline,19609700,0
+Texas,2020,Diesel,1107000,0
+Texas,2020,Unknown Fuel,163600,0
+Utah,2020,Electric (EV),11200,1
+Utah,2020,Plug-In Hybrid Electric (PHEV),5200,1
+Utah,2020,Hybrid Electric (HEV),49800,1
+Utah,2020,Biodiesel,0,1
+Utah,2020,Ethanol/Flex (E85),231700,1
+Utah,2020,Compressed Natural Gas (CNG),8700,1
+Utah,2020,Propane,0,1
+Utah,2020,Hydrogen,0,1
+Utah,2020,Methanol,0,1
+Utah,2020,Gasoline,2346000,0
+Utah,2020,Diesel,191400,0
+Utah,2020,Unknown Fuel,35700,0
+Vermont,2020,Electric (EV),2200,1
+Vermont,2020,Plug-In Hybrid Electric (PHEV),2300,1
+Vermont,2020,Hybrid Electric (HEV),13900,1
+Vermont,2020,Biodiesel,0,1
+Vermont,2020,Ethanol/Flex (E85),58800,1
+Vermont,2020,Compressed Natural Gas (CNG),500,1
+Vermont,2020,Propane,0,1
+Vermont,2020,Hydrogen,0,1
+Vermont,2020,Methanol,0,1
+Vermont,2020,Gasoline,501000,0
+Vermont,2020,Diesel,19700,0
+Vermont,2020,Unknown Fuel,6800,0
+Virginia,2020,Electric (EV),20500,1
+Virginia,2020,Plug-In Hybrid Electric (PHEV),11200,1
+Virginia,2020,Hybrid Electric (HEV),157800,1
+Virginia,2020,Biodiesel,0,1
+Virginia,2020,Ethanol/Flex (E85),618500,1
+Virginia,2020,Compressed Natural Gas (CNG),12200,1
+Virginia,2020,Propane,0,1
+Virginia,2020,Hydrogen,0,1
+Virginia,2020,Methanol,0,1
+Virginia,2020,Gasoline,6646500,0
+Virginia,2020,Diesel,183700,0
+Virginia,2020,Unknown Fuel,46800,0
+Washington,2020,Electric (EV),50500,1
+Washington,2020,Plug-In Hybrid Electric (PHEV),18400,1
+Washington,2020,Hybrid Electric (HEV),211300,1
+Washington,2020,Biodiesel,0,1
+Washington,2020,Ethanol/Flex (E85),424000,1
+Washington,2020,Compressed Natural Gas (CNG),18700,1
+Washington,2020,Propane,0,1
+Washington,2020,Hydrogen,0,1
+Washington,2020,Methanol,0,1
+Washington,2020,Gasoline,5687600,0
+Washington,2020,Diesel,326300,0
+Washington,2020,Unknown Fuel,95300,0
+West Virginia,2020,Electric (EV),600,1
+West Virginia,2020,Plug-In Hybrid Electric (PHEV),700,1
+West Virginia,2020,Hybrid Electric (HEV),11900,1
+West Virginia,2020,Biodiesel,0,1
+West Virginia,2020,Ethanol/Flex (E85),178200,1
+West Virginia,2020,Compressed Natural Gas (CNG),2800,1
+West Virginia,2020,Propane,0,1
+West Virginia,2020,Hydrogen,0,1
+West Virginia,2020,Methanol,0,1
+West Virginia,2020,Gasoline,1216500,0
+West Virginia,2020,Diesel,57800,0
+West Virginia,2020,Unknown Fuel,14200,0
+Wisconsin,2020,Electric (EV),6300,1
+Wisconsin,2020,Plug-In Hybrid Electric (PHEV),5900,1
+Wisconsin,2020,Hybrid Electric (HEV),82500,1
+Wisconsin,2020,Biodiesel,0,1
+Wisconsin,2020,Ethanol/Flex (E85),755700,1
+Wisconsin,2020,Compressed Natural Gas (CNG),8700,1
+Wisconsin,2020,Propane,0,1
+Wisconsin,2020,Hydrogen,0,1
+Wisconsin,2020,Methanol,0,1
+Wisconsin,2020,Gasoline,4494600,0
+Wisconsin,2020,Diesel,175200,0
+Wisconsin,2020,Unknown Fuel,41900,0
+Wyoming,2020,Electric (EV),300,1
+Wyoming,2020,Plug-In Hybrid Electric (PHEV),300,1
+Wyoming,2020,Hybrid Electric (HEV),4700,1
+Wyoming,2020,Biodiesel,0,1
+Wyoming,2020,Ethanol/Flex (E85),77100,1
+Wyoming,2020,Compressed Natural Gas (CNG),3600,1
+Wyoming,2020,Propane,0,1
+Wyoming,2020,Hydrogen,0,1
+Wyoming,2020,Methanol,0,1
+Wyoming,2020,Gasoline,456200,0
+Wyoming,2020,Diesel,77400,0
+Wyoming,2020,Unknown Fuel,18700,0
+Alabama,2021,Electric (EV),4700,1
+Alabama,2021,Plug-In Hybrid Electric (PHEV),3300,1
+Alabama,2021,Hybrid Electric (HEV),42500,1
+Alabama,2021,Biodiesel,40500,1
+Alabama,2021,Ethanol/Flex (E85),449500,1
+Alabama,2021,Compressed Natural Gas (CNG),500,1
+Alabama,2021,Propane,100,1
+Alabama,2021,Hydrogen,0,1
+Alabama,2021,Methanol,0,1
+Alabama,2021,Gasoline,4051000,0
+Alabama,2021,Diesel,123500,0
+Alabama,2021,Unknown Fuel,32000,0
+Alaska,2021,Electric (EV),1300,1
+Alaska,2021,Plug-In Hybrid Electric (PHEV),500,1
+Alaska,2021,Hybrid Electric (HEV),7300,1
+Alaska,2021,Biodiesel,7600,1
+Alaska,2021,Ethanol/Flex (E85),50100,1
+Alaska,2021,Compressed Natural Gas (CNG),100,1
+Alaska,2021,Propane,0,1
+Alaska,2021,Hydrogen,0,1
+Alaska,2021,Methanol,0,1
+Alaska,2021,Gasoline,464200,0
+Alaska,2021,Diesel,31700,0
+Alaska,2021,Unknown Fuel,6300,0
+Arizona,2021,Electric (EV),40700,1
+Arizona,2021,Plug-In Hybrid Electric (PHEV),15500,1
+Arizona,2021,Hybrid Electric (HEV),132200,1
+Arizona,2021,Biodiesel,51000,1
+Arizona,2021,Ethanol/Flex (E85),460400,1
+Arizona,2021,Compressed Natural Gas (CNG),900,1
+Arizona,2021,Propane,900,1
+Arizona,2021,Hydrogen,0,1
+Arizona,2021,Methanol,0,1
+Arizona,2021,Gasoline,5395300,0
+Arizona,2021,Diesel,191800,0
+Arizona,2021,Unknown Fuel,70500,0
+Arkansas,2021,Electric (EV),2400,1
+Arkansas,2021,Plug-In Hybrid Electric (PHEV),1800,1
+Arkansas,2021,Hybrid Electric (HEV),26100,1
+Arkansas,2021,Biodiesel,28700,1
+Arkansas,2021,Ethanol/Flex (E85),290200,1
+Arkansas,2021,Compressed Natural Gas (CNG),300,1
+Arkansas,2021,Propane,0,1
+Arkansas,2021,Hydrogen,0,1
+Arkansas,2021,Methanol,0,1
+Arkansas,2021,Gasoline,2241600,0
+Arkansas,2021,Diesel,88800,0
+Arkansas,2021,Unknown Fuel,11000,0
+California,2021,Electric (EV),563100,1
+California,2021,Plug-In Hybrid Electric (PHEV),315300,1
+California,2021,Hybrid Electric (HEV),1355900,1
+California,2021,Biodiesel,163600,1
+California,2021,Ethanol/Flex (E85),1343200,1
+California,2021,Compressed Natural Gas (CNG),12600,1
+California,2021,Propane,1500,1
+California,2021,Hydrogen,11800,1
+California,2021,Methanol,0,1
+California,2021,Gasoline,30512600,0
+California,2021,Diesel,710500,0
+California,2021,Unknown Fuel,10400,0
+Colorado,2021,Electric (EV),37000,1
+Colorado,2021,Plug-In Hybrid Electric (PHEV),16100,1
+Colorado,2021,Hybrid Electric (HEV),113600,1
+Colorado,2021,Biodiesel,53800,1
+Colorado,2021,Ethanol/Flex (E85),346700,1
+Colorado,2021,Compressed Natural Gas (CNG),600,1
+Colorado,2021,Propane,100,1
+Colorado,2021,Hydrogen,0,1
+Colorado,2021,Methanol,0,1
+Colorado,2021,Gasoline,4456600,0
+Colorado,2021,Diesel,208400,0
+Colorado,2021,Unknown Fuel,53500,0
+Connecticut,2021,Electric (EV),13300,1
+Connecticut,2021,Plug-In Hybrid Electric (PHEV),9200,1
+Connecticut,2021,Hybrid Electric (HEV),55400,1
+Connecticut,2021,Biodiesel,8800,1
+Connecticut,2021,Ethanol/Flex (E85),140700,1
+Connecticut,2021,Compressed Natural Gas (CNG),400,1
+Connecticut,2021,Propane,0,1
+Connecticut,2021,Hydrogen,0,1
+Connecticut,2021,Methanol,0,1
+Connecticut,2021,Gasoline,2578400,0
+Connecticut,2021,Diesel,44300,0
+Connecticut,2021,Unknown Fuel,21500,0
+Delaware,2021,Electric (EV),3000,1
+Delaware,2021,Plug-In Hybrid Electric (PHEV),2000,1
+Delaware,2021,Hybrid Electric (HEV),16700,1
+Delaware,2021,Biodiesel,4100,1
+Delaware,2021,Ethanol/Flex (E85),67400,1
+Delaware,2021,Compressed Natural Gas (CNG),100,1
+Delaware,2021,Propane,0,1
+Delaware,2021,Hydrogen,0,1
+Delaware,2021,Methanol,0,1
+Delaware,2021,Gasoline,796400,0
+Delaware,2021,Diesel,14600,0
+Delaware,2021,Unknown Fuel,5300,0
+District of Columbia,2021,Electric (EV),3700,1
+District of Columbia,2021,Plug-In Hybrid Electric (PHEV),2500,1
+District of Columbia,2021,Hybrid Electric (HEV),16100,1
+District of Columbia,2021,Biodiesel,300,1
+District of Columbia,2021,Ethanol/Flex (E85),17400,1
+District of Columbia,2021,Compressed Natural Gas (CNG),100,1
+District of Columbia,2021,Propane,0,1
+District of Columbia,2021,Hydrogen,0,1
+District of Columbia,2021,Methanol,0,1
+District of Columbia,2021,Gasoline,278900,0
+District of Columbia,2021,Diesel,2100,0
+District of Columbia,2021,Unknown Fuel,600,0
+Florida,2021,Electric (EV),95600,1
+Florida,2021,Plug-In Hybrid Electric (PHEV),32200,1
+Florida,2021,Hybrid Electric (HEV),287000,1
+Florida,2021,Biodiesel,129300,1
+Florida,2021,Ethanol/Flex (E85),1154600,1
+Florida,2021,Compressed Natural Gas (CNG),600,1
+Florida,2021,Propane,100,1
+Florida,2021,Hydrogen,0,1
+Florida,2021,Methanol,0,1
+Florida,2021,Gasoline,15595900,0
+Florida,2021,Diesel,336900,0
+Florida,2021,Unknown Fuel,97400,0
+Georgia,2021,Electric (EV),34000,1
+Georgia,2021,Plug-In Hybrid Electric (PHEV),13600,1
+Georgia,2021,Hybrid Electric (HEV),128200,1
+Georgia,2021,Biodiesel,70200,1
+Georgia,2021,Ethanol/Flex (E85),745200,1
+Georgia,2021,Compressed Natural Gas (CNG),700,1
+Georgia,2021,Propane,300,1
+Georgia,2021,Hydrogen,0,1
+Georgia,2021,Methanol,0,1
+Georgia,2021,Gasoline,8123100,0
+Georgia,2021,Diesel,203200,0
+Georgia,2021,Unknown Fuel,81200,0
+Hawaii,2021,Electric (EV),14200,1
+Hawaii,2021,Plug-In Hybrid Electric (PHEV),4500,1
+Hawaii,2021,Hybrid Electric (HEV),28800,1
+Hawaii,2021,Biodiesel,2800,1
+Hawaii,2021,Ethanol/Flex (E85),42200,1
+Hawaii,2021,Compressed Natural Gas (CNG),100,1
+Hawaii,2021,Propane,0,1
+Hawaii,2021,Hydrogen,0,1
+Hawaii,2021,Methanol,0,1
+Hawaii,2021,Gasoline,968200,0
+Hawaii,2021,Diesel,15700,0
+Hawaii,2021,Unknown Fuel,4300,0
+Idaho,2021,Electric (EV),3500,1
+Idaho,2021,Plug-In Hybrid Electric (PHEV),2500,1
+Idaho,2021,Hybrid Electric (HEV),30400,1
+Idaho,2021,Biodiesel,33400,1
+Idaho,2021,Ethanol/Flex (E85),132500,1
+Idaho,2021,Compressed Natural Gas (CNG),300,1
+Idaho,2021,Propane,100,1
+Idaho,2021,Hydrogen,0,1
+Idaho,2021,Methanol,0,1
+Idaho,2021,Gasoline,1545500,0
+Idaho,2021,Diesel,133500,0
+Idaho,2021,Unknown Fuel,29400,0
+Illinois,2021,Electric (EV),36500,1
+Illinois,2021,Plug-In Hybrid Electric (PHEV),18300,1
+Illinois,2021,Hybrid Electric (HEV),214300,1
+Illinois,2021,Biodiesel,48100,1
+Illinois,2021,Ethanol/Flex (E85),822300,1
+Illinois,2021,Compressed Natural Gas (CNG),800,1
+Illinois,2021,Propane,100,1
+Illinois,2021,Hydrogen,0,1
+Illinois,2021,Methanol,0,1
+Illinois,2021,Gasoline,8657800,0
+Illinois,2021,Diesel,169900,0
+Illinois,2021,Unknown Fuel,59600,0
+Indiana,2021,Electric (EV),10400,1
+Indiana,2021,Plug-In Hybrid Electric (PHEV),7500,1
+Indiana,2021,Hybrid Electric (HEV),88200,1
+Indiana,2021,Biodiesel,41100,1
+Indiana,2021,Ethanol/Flex (E85),587400,1
+Indiana,2021,Compressed Natural Gas (CNG),800,1
+Indiana,2021,Propane,100,1
+Indiana,2021,Hydrogen,0,1
+Indiana,2021,Methanol,0,1
+Indiana,2021,Gasoline,5149000,0
+Indiana,2021,Diesel,151600,0
+Indiana,2021,Unknown Fuel,61000,0
+Iowa,2021,Electric (EV),3700,1
+Iowa,2021,Plug-In Hybrid Electric (PHEV),3600,1
+Iowa,2021,Hybrid Electric (HEV),42500,1
+Iowa,2021,Biodiesel,31100,1
+Iowa,2021,Ethanol/Flex (E85),343600,1
+Iowa,2021,Compressed Natural Gas (CNG),300,1
+Iowa,2021,Propane,0,1
+Iowa,2021,Hydrogen,0,1
+Iowa,2021,Methanol,0,1
+Iowa,2021,Gasoline,2525400,0
+Iowa,2021,Diesel,100900,0
+Iowa,2021,Unknown Fuel,59600,0
+Kansas,2021,Electric (EV),4500,1
+Kansas,2021,Plug-In Hybrid Electric (PHEV),3300,1
+Kansas,2021,Hybrid Electric (HEV),38300,1
+Kansas,2021,Biodiesel,21400,1
+Kansas,2021,Ethanol/Flex (E85),260900,1
+Kansas,2021,Compressed Natural Gas (CNG),400,1
+Kansas,2021,Propane,100,1
+Kansas,2021,Hydrogen,0,1
+Kansas,2021,Methanol,0,1
+Kansas,2021,Gasoline,2158100,0
+Kansas,2021,Diesel,85900,0
+Kansas,2021,Unknown Fuel,19900,0
+Kentucky,2021,Electric (EV),4200,1
+Kentucky,2021,Plug-In Hybrid Electric (PHEV),3100,1
+Kentucky,2021,Hybrid Electric (HEV),48300,1
+Kentucky,2021,Biodiesel,27100,1
+Kentucky,2021,Ethanol/Flex (E85),365800,1
+Kentucky,2021,Compressed Natural Gas (CNG),600,1
+Kentucky,2021,Propane,0,1
+Kentucky,2021,Hydrogen,0,1
+Kentucky,2021,Methanol,0,1
+Kentucky,2021,Gasoline,3422900,0
+Kentucky,2021,Diesel,116200,0
+Kentucky,2021,Unknown Fuel,28300,0
+Louisiana,2021,Electric (EV),3200,1
+Louisiana,2021,Plug-In Hybrid Electric (PHEV),2000,1
+Louisiana,2021,Hybrid Electric (HEV),26000,1
+Louisiana,2021,Biodiesel,54400,1
+Louisiana,2021,Ethanol/Flex (E85),413200,1
+Louisiana,2021,Compressed Natural Gas (CNG),300,1
+Louisiana,2021,Propane,0,1
+Louisiana,2021,Hydrogen,0,1
+Louisiana,2021,Methanol,0,1
+Louisiana,2021,Gasoline,3185200,0
+Louisiana,2021,Diesel,115000,0
+Louisiana,2021,Unknown Fuel,20700,0
+Maine,2021,Electric (EV),3000,1
+Maine,2021,Plug-In Hybrid Electric (PHEV),4200,1
+Maine,2021,Hybrid Electric (HEV),25500,1
+Maine,2021,Biodiesel,9100,1
+Maine,2021,Ethanol/Flex (E85),112200,1
+Maine,2021,Compressed Natural Gas (CNG),100,1
+Maine,2021,Propane,0,1
+Maine,2021,Hydrogen,0,1
+Maine,2021,Methanol,0,1
+Maine,2021,Gasoline,1044300,0
+Maine,2021,Diesel,27400,0
+Maine,2021,Unknown Fuel,8900,0
+Maryland,2021,Electric (EV),25600,1
+Maryland,2021,Plug-In Hybrid Electric (PHEV),17200,1
+Maryland,2021,Hybrid Electric (HEV),130900,1
+Maryland,2021,Biodiesel,27700,1
+Maryland,2021,Ethanol/Flex (E85),347200,1
+Maryland,2021,Compressed Natural Gas (CNG),400,1
+Maryland,2021,Propane,0,1
+Maryland,2021,Hydrogen,0,1
+Maryland,2021,Methanol,0,1
+Maryland,2021,Gasoline,4380600,0
+Maryland,2021,Diesel,89500,0
+Maryland,2021,Unknown Fuel,32100,0
+Massachusetts,2021,Electric (EV),30500,1
+Massachusetts,2021,Plug-In Hybrid Electric (PHEV),22200,1
+Massachusetts,2021,Hybrid Electric (HEV),138800,1
+Massachusetts,2021,Biodiesel,17500,1
+Massachusetts,2021,Ethanol/Flex (E85),306900,1
+Massachusetts,2021,Compressed Natural Gas (CNG),400,1
+Massachusetts,2021,Propane,0,1
+Massachusetts,2021,Hydrogen,0,1
+Massachusetts,2021,Methanol,0,1
+Massachusetts,2021,Gasoline,4816400,0
+Massachusetts,2021,Diesel,59700,0
+Massachusetts,2021,Unknown Fuel,30800,0
+Michigan,2021,Electric (EV),17500,1
+Michigan,2021,Plug-In Hybrid Electric (PHEV),17200,1
+Michigan,2021,Hybrid Electric (HEV),106400,1
+Michigan,2021,Biodiesel,52100,1
+Michigan,2021,Ethanol/Flex (E85),912200,1
+Michigan,2021,Compressed Natural Gas (CNG),500,1
+Michigan,2021,Propane,100,1
+Michigan,2021,Hydrogen,0,1
+Michigan,2021,Methanol,0,1
+Michigan,2021,Gasoline,7067400,0
+Michigan,2021,Diesel,173200,0
+Michigan,2021,Unknown Fuel,51600,0
+Minnesota,2021,Electric (EV),15000,1
+Minnesota,2021,Plug-In Hybrid Electric (PHEV),8900,1
+Minnesota,2021,Hybrid Electric (HEV),95200,1
+Minnesota,2021,Biodiesel,40100,1
+Minnesota,2021,Ethanol/Flex (E85),548700,1
+Minnesota,2021,Compressed Natural Gas (CNG),300,1
+Minnesota,2021,Propane,0,1
+Minnesota,2021,Hydrogen,0,1
+Minnesota,2021,Methanol,0,1
+Minnesota,2021,Gasoline,4342800,0
+Minnesota,2021,Diesel,128700,0
+Minnesota,2021,Unknown Fuel,29800,0
+Mississippi,2021,Electric (EV),1300,1
+Mississippi,2021,Plug-In Hybrid Electric (PHEV),1100,1
+Mississippi,2021,Hybrid Electric (HEV),18700,1
+Mississippi,2021,Biodiesel,27400,1
+Mississippi,2021,Ethanol/Flex (E85),305000,1
+Mississippi,2021,Compressed Natural Gas (CNG),200,1
+Mississippi,2021,Propane,0,1
+Mississippi,2021,Hydrogen,0,1
+Mississippi,2021,Methanol,0,1
+Mississippi,2021,Gasoline,2289900,0
+Mississippi,2021,Diesel,76000,0
+Mississippi,2021,Unknown Fuel,9600,0
+Missouri,2021,Electric (EV),10000,1
+Missouri,2021,Plug-In Hybrid Electric (PHEV),7200,1
+Missouri,2021,Hybrid Electric (HEV),85600,1
+Missouri,2021,Biodiesel,55800,1
+Missouri,2021,Ethanol/Flex (E85),602500,1
+Missouri,2021,Compressed Natural Gas (CNG),1800,1
+Missouri,2021,Propane,100,1
+Missouri,2021,Hydrogen,0,1
+Missouri,2021,Methanol,0,1
+Missouri,2021,Gasoline,4582100,0
+Missouri,2021,Diesel,172100,0
+Missouri,2021,Unknown Fuel,40700,0
+Montana,2021,Electric (EV),1600,1
+Montana,2021,Plug-In Hybrid Electric (PHEV),1100,1
+Montana,2021,Hybrid Electric (HEV),13900,1
+Montana,2021,Biodiesel,27500,1
+Montana,2021,Ethanol/Flex (E85),100500,1
+Montana,2021,Compressed Natural Gas (CNG),100,1
+Montana,2021,Propane,0,1
+Montana,2021,Hydrogen,0,1
+Montana,2021,Methanol,0,1
+Montana,2021,Gasoline,761800,0
+Montana,2021,Diesel,70900,0
+Montana,2021,Unknown Fuel,12200,0
+Nebraska,2021,Electric (EV),2700,1
+Nebraska,2021,Plug-In Hybrid Electric (PHEV),2000,1
+Nebraska,2021,Hybrid Electric (HEV),23700,1
+Nebraska,2021,Biodiesel,21600,1
+Nebraska,2021,Ethanol/Flex (E85),202500,1
+Nebraska,2021,Compressed Natural Gas (CNG),200,1
+Nebraska,2021,Propane,0,1
+Nebraska,2021,Hydrogen,0,1
+Nebraska,2021,Methanol,0,1
+Nebraska,2021,Gasoline,1574900,0
+Nebraska,2021,Diesel,73800,0
+Nebraska,2021,Unknown Fuel,27300,0
+Nevada,2021,Electric (EV),17400,1
+Nevada,2021,Plug-In Hybrid Electric (PHEV),6300,1
+Nevada,2021,Hybrid Electric (HEV),50200,1
+Nevada,2021,Biodiesel,21300,1
+Nevada,2021,Ethanol/Flex (E85),133600,1
+Nevada,2021,Compressed Natural Gas (CNG),300,1
+Nevada,2021,Propane,100,1
+Nevada,2021,Hydrogen,0,1
+Nevada,2021,Methanol,0,1
+Nevada,2021,Gasoline,2140700,0
+Nevada,2021,Diesel,84700,0
+Nevada,2021,Unknown Fuel,22800,0
+New Hampshire,2021,Electric (EV),4000,1
+New Hampshire,2021,Plug-In Hybrid Electric (PHEV),3500,1
+New Hampshire,2021,Hybrid Electric (HEV),27000,1
+New Hampshire,2021,Biodiesel,11300,1
+New Hampshire,2021,Ethanol/Flex (E85),102800,1
+New Hampshire,2021,Compressed Natural Gas (CNG),200,1
+New Hampshire,2021,Propane,0,1
+New Hampshire,2021,Hydrogen,0,1
+New Hampshire,2021,Methanol,0,1
+New Hampshire,2021,Gasoline,1187400,0
+New Hampshire,2021,Diesel,29300,0
+New Hampshire,2021,Unknown Fuel,12700,0
+New Jersey,2021,Electric (EV),47800,1
+New Jersey,2021,Plug-In Hybrid Electric (PHEV),18500,1
+New Jersey,2021,Hybrid Electric (HEV),121500,1
+New Jersey,2021,Biodiesel,23900,1
+New Jersey,2021,Ethanol/Flex (E85),412200,1
+New Jersey,2021,Compressed Natural Gas (CNG),500,1
+New Jersey,2021,Propane,100,1
+New Jersey,2021,Hydrogen,0,1
+New Jersey,2021,Methanol,0,1
+New Jersey,2021,Gasoline,6346100,0
+New Jersey,2021,Diesel,86400,0
+New Jersey,2021,Unknown Fuel,38100,0
+New Mexico,2021,Electric (EV),4200,1
+New Mexico,2021,Plug-In Hybrid Electric (PHEV),2800,1
+New Mexico,2021,Hybrid Electric (HEV),32800,1
+New Mexico,2021,Biodiesel,25200,1
+New Mexico,2021,Ethanol/Flex (E85),156900,1
+New Mexico,2021,Compressed Natural Gas (CNG),200,1
+New Mexico,2021,Propane,100,1
+New Mexico,2021,Hydrogen,0,1
+New Mexico,2021,Methanol,0,1
+New Mexico,2021,Gasoline,1569000,0
+New Mexico,2021,Diesel,87600,0
+New Mexico,2021,Unknown Fuel,24500,0
+New York,2021,Electric (EV),51900,1
+New York,2021,Plug-In Hybrid Electric (PHEV),44600,1
+New York,2021,Hybrid Electric (HEV),221600,1
+New York,2021,Biodiesel,43000,1
+New York,2021,Ethanol/Flex (E85),663700,1
+New York,2021,Compressed Natural Gas (CNG),900,1
+New York,2021,Propane,100,1
+New York,2021,Hydrogen,0,1
+New York,2021,Methanol,0,1
+New York,2021,Gasoline,10116400,0
+New York,2021,Diesel,152400,0
+New York,2021,Unknown Fuel,83200,0
+North Carolina,2021,Electric (EV),25200,1
+North Carolina,2021,Plug-In Hybrid Electric (PHEV),13500,1
+North Carolina,2021,Hybrid Electric (HEV),151600,1
+North Carolina,2021,Biodiesel,61000,1
+North Carolina,2021,Ethanol/Flex (E85),687700,1
+North Carolina,2021,Compressed Natural Gas (CNG),800,1
+North Carolina,2021,Propane,200,1
+North Carolina,2021,Hydrogen,0,1
+North Carolina,2021,Methanol,0,1
+North Carolina,2021,Gasoline,7685800,0
+North Carolina,2021,Diesel,210000,0
+North Carolina,2021,Unknown Fuel,77000,0
+North Dakota,2021,Electric (EV),400,1
+North Dakota,2021,Plug-In Hybrid Electric (PHEV),400,1
+North Dakota,2021,Hybrid Electric (HEV),5400,1
+North Dakota,2021,Biodiesel,16000,1
+North Dakota,2021,Ethanol/Flex (E85),95700,1
+North Dakota,2021,Compressed Natural Gas (CNG),100,1
+North Dakota,2021,Propane,0,1
+North Dakota,2021,Hydrogen,0,1
+North Dakota,2021,Methanol,0,1
+North Dakota,2021,Gasoline,607000,0
+North Dakota,2021,Diesel,42800,0
+North Dakota,2021,Unknown Fuel,9000,0
+Ohio,2021,Electric (EV),21200,1
+Ohio,2021,Plug-In Hybrid Electric (PHEV),13100,1
+Ohio,2021,Hybrid Electric (HEV),143700,1
+Ohio,2021,Biodiesel,54600,1
+Ohio,2021,Ethanol/Flex (E85),875100,1
+Ohio,2021,Compressed Natural Gas (CNG),1200,1
+Ohio,2021,Propane,100,1
+Ohio,2021,Hydrogen,0,1
+Ohio,2021,Methanol,0,1
+Ohio,2021,Gasoline,9019200,0
+Ohio,2021,Diesel,199200,0
+Ohio,2021,Unknown Fuel,68800,0
+Oklahoma,2021,Electric (EV),7100,1
+Oklahoma,2021,Plug-In Hybrid Electric (PHEV),6900,1
+Oklahoma,2021,Hybrid Electric (HEV),38700,1
+Oklahoma,2021,Biodiesel,50700,1
+Oklahoma,2021,Ethanol/Flex (E85),391100,1
+Oklahoma,2021,Compressed Natural Gas (CNG),2400,1
+Oklahoma,2021,Propane,300,1
+Oklahoma,2021,Hydrogen,0,1
+Oklahoma,2021,Methanol,0,1
+Oklahoma,2021,Gasoline,3429700,0
+Oklahoma,2021,Diesel,148500,0
+Oklahoma,2021,Unknown Fuel,48700,0
+Oregon,2021,Electric (EV),30300,1
+Oregon,2021,Plug-In Hybrid Electric (PHEV),16900,1
+Oregon,2021,Hybrid Electric (HEV),123200,1
+Oregon,2021,Biodiesel,43900,1
+Oregon,2021,Ethanol/Flex (E85),193700,1
+Oregon,2021,Compressed Natural Gas (CNG),300,1
+Oregon,2021,Propane,100,1
+Oregon,2021,Hydrogen,0,1
+Oregon,2021,Methanol,0,1
+Oregon,2021,Gasoline,3094700,0
+Oregon,2021,Diesel,217800,0
+Oregon,2021,Unknown Fuel,63900,0
+Pennsylvania,2021,Electric (EV),26800,1
+Pennsylvania,2021,Plug-In Hybrid Electric (PHEV),17800,1
+Pennsylvania,2021,Hybrid Electric (HEV),168200,1
+Pennsylvania,2021,Biodiesel,58600,1
+Pennsylvania,2021,Ethanol/Flex (E85),723000,1
+Pennsylvania,2021,Compressed Natural Gas (CNG),1200,1
+Pennsylvania,2021,Propane,100,1
+Pennsylvania,2021,Hydrogen,0,1
+Pennsylvania,2021,Methanol,0,1
+Pennsylvania,2021,Gasoline,9035500,0
+Pennsylvania,2021,Diesel,195000,0
+Pennsylvania,2021,Unknown Fuel,51000,0
+Rhode Island,2021,Electric (EV),2500,1
+Rhode Island,2021,Plug-In Hybrid Electric (PHEV),2400,1
+Rhode Island,2021,Hybrid Electric (HEV),16300,1
+Rhode Island,2021,Biodiesel,2500,1
+Rhode Island,2021,Ethanol/Flex (E85),44100,1
+Rhode Island,2021,Compressed Natural Gas (CNG),100,1
+Rhode Island,2021,Propane,0,1
+Rhode Island,2021,Hydrogen,0,1
+Rhode Island,2021,Methanol,0,1
+Rhode Island,2021,Gasoline,796100,0
+Rhode Island,2021,Diesel,11300,0
+Rhode Island,2021,Unknown Fuel,6300,0
+South Carolina,2021,Electric (EV),7400,1
+South Carolina,2021,Plug-In Hybrid Electric (PHEV),4700,1
+South Carolina,2021,Hybrid Electric (HEV),57400,1
+South Carolina,2021,Biodiesel,32100,1
+South Carolina,2021,Ethanol/Flex (E85),411800,1
+South Carolina,2021,Compressed Natural Gas (CNG),400,1
+South Carolina,2021,Propane,100,1
+South Carolina,2021,Hydrogen,0,1
+South Carolina,2021,Methanol,0,1
+South Carolina,2021,Gasoline,4200600,0
+South Carolina,2021,Diesel,104900,0
+South Carolina,2021,Unknown Fuel,46000,0
+South Dakota,2021,Electric (EV),700,1
+South Dakota,2021,Plug-In Hybrid Electric (PHEV),700,1
+South Dakota,2021,Hybrid Electric (HEV),8700,1
+South Dakota,2021,Biodiesel,16900,1
+South Dakota,2021,Ethanol/Flex (E85),105000,1
+South Dakota,2021,Compressed Natural Gas (CNG),100,1
+South Dakota,2021,Propane,0,1
+South Dakota,2021,Hydrogen,0,1
+South Dakota,2021,Methanol,0,1
+South Dakota,2021,Gasoline,726200,0
+South Dakota,2021,Diesel,51100,0
+South Dakota,2021,Unknown Fuel,15700,0
+Tennessee,2021,Electric (EV),12200,1
+Tennessee,2021,Plug-In Hybrid Electric (PHEV),6300,1
+Tennessee,2021,Hybrid Electric (HEV),79800,1
+Tennessee,2021,Biodiesel,38400,1
+Tennessee,2021,Ethanol/Flex (E85),511000,1
+Tennessee,2021,Compressed Natural Gas (CNG),500,1
+Tennessee,2021,Propane,100,1
+Tennessee,2021,Hydrogen,0,1
+Tennessee,2021,Methanol,0,1
+Tennessee,2021,Gasoline,5396100,0
+Tennessee,2021,Diesel,150200,0
+Tennessee,2021,Unknown Fuel,39600,0
+Texas,2021,Electric (EV),80900,1
+Texas,2021,Plug-In Hybrid Electric (PHEV),30600,1
+Texas,2021,Hybrid Electric (HEV),304700,1
+Texas,2021,Biodiesel,376300,1
+Texas,2021,Ethanol/Flex (E85),2422300,1
+Texas,2021,Compressed Natural Gas (CNG),2200,1
+Texas,2021,Propane,1600,1
+Texas,2021,Hydrogen,0,1
+Texas,2021,Methanol,0,1
+Texas,2021,Gasoline,20599100,0
+Texas,2021,Diesel,765100,0
+Texas,2021,Unknown Fuel,131100,0
+Utah,2021,Electric (EV),16500,1
+Utah,2021,Plug-In Hybrid Electric (PHEV),7500,1
+Utah,2021,Hybrid Electric (HEV),58500,1
+Utah,2021,Biodiesel,51600,1
+Utah,2021,Ethanol/Flex (E85),190200,1
+Utah,2021,Compressed Natural Gas (CNG),2600,1
+Utah,2021,Propane,700,1
+Utah,2021,Hydrogen,0,1
+Utah,2021,Methanol,0,1
+Utah,2021,Gasoline,2428900,0
+Utah,2021,Diesel,153800,0
+Utah,2021,Unknown Fuel,27400,0
+Vermont,2021,Electric (EV),3400,1
+Vermont,2021,Plug-In Hybrid Electric (PHEV),3200,1
+Vermont,2021,Hybrid Electric (HEV),15800,1
+Vermont,2021,Biodiesel,5600,1
+Vermont,2021,Ethanol/Flex (E85),42000,1
+Vermont,2021,Compressed Natural Gas (CNG),100,1
+Vermont,2021,Propane,0,1
+Vermont,2021,Hydrogen,0,1
+Vermont,2021,Methanol,0,1
+Vermont,2021,Gasoline,511900,0
+Vermont,2021,Diesel,15000,0
+Vermont,2021,Unknown Fuel,5400,0
+Virginia,2021,Electric (EV),30700,1
+Virginia,2021,Plug-In Hybrid Electric (PHEV),15800,1
+Virginia,2021,Hybrid Electric (HEV),176500,1
+Virginia,2021,Biodiesel,35300,1
+Virginia,2021,Ethanol/Flex (E85),506600,1
+Virginia,2021,Compressed Natural Gas (CNG),600,1
+Virginia,2021,Propane,100,1
+Virginia,2021,Hydrogen,0,1
+Virginia,2021,Methanol,0,1
+Virginia,2021,Gasoline,6661000,0
+Virginia,2021,Diesel,154300,0
+Virginia,2021,Unknown Fuel,32700,0
+Washington,2021,Electric (EV),66800,1
+Washington,2021,Plug-In Hybrid Electric (PHEV),24300,1
+Washington,2021,Hybrid Electric (HEV),240000,1
+Washington,2021,Biodiesel,59000,1
+Washington,2021,Ethanol/Flex (E85),359700,1
+Washington,2021,Compressed Natural Gas (CNG),600,1
+Washington,2021,Propane,100,1
+Washington,2021,Hydrogen,0,1
+Washington,2021,Methanol,0,1
+Washington,2021,Gasoline,5792000,0
+Washington,2021,Diesel,283600,0
+Washington,2021,Unknown Fuel,64400,0
+West Virginia,2021,Electric (EV),1000,1
+West Virginia,2021,Plug-In Hybrid Electric (PHEV),1000,1
+West Virginia,2021,Hybrid Electric (HEV),14500,1
+West Virginia,2021,Biodiesel,13900,1
+West Virginia,2021,Ethanol/Flex (E85),129800,1
+West Virginia,2021,Compressed Natural Gas (CNG),200,1
+West Virginia,2021,Propane,0,1
+West Virginia,2021,Hydrogen,0,1
+West Virginia,2021,Methanol,0,1
+West Virginia,2021,Gasoline,1268300,0
+West Virginia,2021,Diesel,46100,0
+West Virginia,2021,Unknown Fuel,10900,0
+Wisconsin,2021,Electric (EV),9300,1
+Wisconsin,2021,Plug-In Hybrid Electric (PHEV),7700,1
+Wisconsin,2021,Hybrid Electric (HEV),93500,1
+Wisconsin,2021,Biodiesel,39800,1
+Wisconsin,2021,Ethanol/Flex (E85),556500,1
+Wisconsin,2021,Compressed Natural Gas (CNG),700,1
+Wisconsin,2021,Propane,100,1
+Wisconsin,2021,Hydrogen,0,1
+Wisconsin,2021,Methanol,0,1
+Wisconsin,2021,Gasoline,4639100,0
+Wisconsin,2021,Diesel,143300,0
+Wisconsin,2021,Unknown Fuel,29900,0
+Wyoming,2021,Electric (EV),500,1
+Wyoming,2021,Plug-In Hybrid Electric (PHEV),400,1
+Wyoming,2021,Hybrid Electric (HEV),5700,1
+Wyoming,2021,Biodiesel,17100,1
+Wyoming,2021,Ethanol/Flex (E85),59400,1
+Wyoming,2021,Compressed Natural Gas (CNG),100,1
+Wyoming,2021,Propane,0,1
+Wyoming,2021,Hydrogen,0,1
+Wyoming,2021,Methanol,0,1
+Wyoming,2021,Gasoline,482400,0
+Wyoming,2021,Diesel,62100,0
+Wyoming,2021,Unknown Fuel,15600,0
+Alabama,2022,Electric (EV),8700,1
+Alabama,2022,Plug-In Hybrid Electric (PHEV),4400,1
+Alabama,2022,Hybrid Electric (HEV),50800,1
+Alabama,2022,Biodiesel,48100,1
+Alabama,2022,Ethanol/Flex (E85),449800,1
+Alabama,2022,Compressed Natural Gas (CNG),100,1
+Alabama,2022,Propane,100,1
+Alabama,2022,Hydrogen,0,1
+Alabama,2022,Methanol,0,1
+Alabama,2022,Gasoline,4077100,0
+Alabama,2022,Diesel,126100,0
+Alabama,2022,Unknown Fuel,30300,0
+Alaska,2022,Electric (EV),2000,1
+Alaska,2022,Plug-In Hybrid Electric (PHEV),700,1
+Alaska,2022,Hybrid Electric (HEV),9000,1
+Alaska,2022,Biodiesel,8700,1
+Alaska,2022,Ethanol/Flex (E85),48600,1
+Alaska,2022,Compressed Natural Gas (CNG),0,1
+Alaska,2022,Propane,0,1
+Alaska,2022,Hydrogen,0,1
+Alaska,2022,Methanol,0,1
+Alaska,2022,Gasoline,457100,0
+Alaska,2022,Diesel,30500,0
+Alaska,2022,Unknown Fuel,5500,0
+Arizona,2022,Electric (EV),65800,1
+Arizona,2022,Plug-In Hybrid Electric (PHEV),20400,1
+Arizona,2022,Hybrid Electric (HEV),150800,1
+Arizona,2022,Biodiesel,61200,1
+Arizona,2022,Ethanol/Flex (E85),446000,1
+Arizona,2022,Compressed Natural Gas (CNG),600,1
+Arizona,2022,Propane,800,1
+Arizona,2022,Hydrogen,0,1
+Arizona,2022,Methanol,0,1
+Arizona,2022,Gasoline,5476100,0
+Arizona,2022,Diesel,198700,0
+Arizona,2022,Unknown Fuel,70100,0
+Arkansas,2022,Electric (EV),5100,1
+Arkansas,2022,Plug-In Hybrid Electric (PHEV),2500,1
+Arkansas,2022,Hybrid Electric (HEV),30600,1
+Arkansas,2022,Biodiesel,33300,1
+Arkansas,2022,Ethanol/Flex (E85),283900,1
+Arkansas,2022,Compressed Natural Gas (CNG),200,1
+Arkansas,2022,Propane,0,1
+Arkansas,2022,Hydrogen,0,1
+Arkansas,2022,Methanol,0,1
+Arkansas,2022,Gasoline,2229500,0
+Arkansas,2022,Diesel,89700,0
+Arkansas,2022,Unknown Fuel,10600,0
+California,2022,Electric (EV),903600,1
+California,2022,Plug-In Hybrid Electric (PHEV),361100,1
+California,2022,Hybrid Electric (HEV),1514000,1
+California,2022,Biodiesel,183900,1
+California,2022,Ethanol/Flex (E85),1338000,1
+California,2022,Compressed Natural Gas (CNG),10300,1
+California,2022,Propane,1500,1
+California,2022,Hydrogen,14900,1
+California,2022,Methanol,0,1
+California,2022,Gasoline,31059000,0
+California,2022,Diesel,725300,0
+California,2022,Unknown Fuel,8200,0
+Colorado,2022,Electric (EV),59900,1
+Colorado,2022,Plug-In Hybrid Electric (PHEV),24000,1
+Colorado,2022,Hybrid Electric (HEV),131800,1
+Colorado,2022,Biodiesel,62100,1
+Colorado,2022,Ethanol/Flex (E85),346400,1
+Colorado,2022,Compressed Natural Gas (CNG),300,1
+Colorado,2022,Propane,100,1
+Colorado,2022,Hydrogen,0,1
+Colorado,2022,Methanol,0,1
+Colorado,2022,Gasoline,4506300,0
+Colorado,2022,Diesel,206800,0
+Colorado,2022,Unknown Fuel,49400,0
+Connecticut,2022,Electric (EV),22000,1
+Connecticut,2022,Plug-In Hybrid Electric (PHEV),13100,1
+Connecticut,2022,Hybrid Electric (HEV),64500,1
+Connecticut,2022,Biodiesel,10100,1
+Connecticut,2022,Ethanol/Flex (E85),139800,1
+Connecticut,2022,Compressed Natural Gas (CNG),200,1
+Connecticut,2022,Propane,0,1
+Connecticut,2022,Hydrogen,0,1
+Connecticut,2022,Methanol,0,1
+Connecticut,2022,Gasoline,2636300,0
+Connecticut,2022,Diesel,44100,0
+Connecticut,2022,Unknown Fuel,21200,0
+Delaware,2022,Electric (EV),5400,1
+Delaware,2022,Plug-In Hybrid Electric (PHEV),2800,1
+Delaware,2022,Hybrid Electric (HEV),19500,1
+Delaware,2022,Biodiesel,4700,1
+Delaware,2022,Ethanol/Flex (E85),66200,1
+Delaware,2022,Compressed Natural Gas (CNG),0,1
+Delaware,2022,Propane,0,1
+Delaware,2022,Hydrogen,0,1
+Delaware,2022,Methanol,0,1
+Delaware,2022,Gasoline,795400,0
+Delaware,2022,Diesel,14500,0
+Delaware,2022,Unknown Fuel,5100,0
+District of Columbia,2022,Electric (EV),5900,1
+District of Columbia,2022,Plug-In Hybrid Electric (PHEV),3200,1
+District of Columbia,2022,Hybrid Electric (HEV),17200,1
+District of Columbia,2022,Biodiesel,400,1
+District of Columbia,2022,Ethanol/Flex (E85),17800,1
+District of Columbia,2022,Compressed Natural Gas (CNG),100,1
+District of Columbia,2022,Propane,0,1
+District of Columbia,2022,Hydrogen,0,1
+District of Columbia,2022,Methanol,0,1
+District of Columbia,2022,Gasoline,272200,0
+District of Columbia,2022,Diesel,2000,0
+District of Columbia,2022,Unknown Fuel,600,0
+Florida,2022,Electric (EV),168000,1
+Florida,2022,Plug-In Hybrid Electric (PHEV),45800,1
+Florida,2022,Hybrid Electric (HEV),338700,1
+Florida,2022,Biodiesel,150900,1
+Florida,2022,Ethanol/Flex (E85),1137200,1
+Florida,2022,Compressed Natural Gas (CNG),400,1
+Florida,2022,Propane,100,1
+Florida,2022,Hydrogen,0,1
+Florida,2022,Methanol,0,1
+Florida,2022,Gasoline,15846500,0
+Florida,2022,Diesel,343500,0
+Florida,2022,Unknown Fuel,97200,0
+Georgia,2022,Electric (EV),60100,1
+Georgia,2022,Plug-In Hybrid Electric (PHEV),18100,1
+Georgia,2022,Hybrid Electric (HEV),147200,1
+Georgia,2022,Biodiesel,82500,1
+Georgia,2022,Ethanol/Flex (E85),745000,1
+Georgia,2022,Compressed Natural Gas (CNG),300,1
+Georgia,2022,Propane,300,1
+Georgia,2022,Hydrogen,0,1
+Georgia,2022,Methanol,0,1
+Georgia,2022,Gasoline,8204500,0
+Georgia,2022,Diesel,205900,0
+Georgia,2022,Unknown Fuel,78500,0
+Hawaii,2022,Electric (EV),19800,1
+Hawaii,2022,Plug-In Hybrid Electric (PHEV),5600,1
+Hawaii,2022,Hybrid Electric (HEV),32600,1
+Hawaii,2022,Biodiesel,3100,1
+Hawaii,2022,Ethanol/Flex (E85),39900,1
+Hawaii,2022,Compressed Natural Gas (CNG),0,1
+Hawaii,2022,Propane,0,1
+Hawaii,2022,Hydrogen,0,1
+Hawaii,2022,Methanol,0,1
+Hawaii,2022,Gasoline,960000,0
+Hawaii,2022,Diesel,15500,0
+Hawaii,2022,Unknown Fuel,4000,0
+Idaho,2022,Electric (EV),5900,1
+Idaho,2022,Plug-In Hybrid Electric (PHEV),3500,1
+Idaho,2022,Hybrid Electric (HEV),36500,1
+Idaho,2022,Biodiesel,40300,1
+Idaho,2022,Ethanol/Flex (E85),133300,1
+Idaho,2022,Compressed Natural Gas (CNG),100,1
+Idaho,2022,Propane,100,1
+Idaho,2022,Hydrogen,0,1
+Idaho,2022,Methanol,0,1
+Idaho,2022,Gasoline,1545500,0
+Idaho,2022,Diesel,136000,0
+Idaho,2022,Unknown Fuel,33000,0
+Illinois,2022,Electric (EV),66900,1
+Illinois,2022,Plug-In Hybrid Electric (PHEV),25700,1
+Illinois,2022,Hybrid Electric (HEV),244100,1
+Illinois,2022,Biodiesel,55400,1
+Illinois,2022,Ethanol/Flex (E85),807900,1
+Illinois,2022,Compressed Natural Gas (CNG),300,1
+Illinois,2022,Propane,0,1
+Illinois,2022,Hydrogen,0,1
+Illinois,2022,Methanol,0,1
+Illinois,2022,Gasoline,8606400,0
+Illinois,2022,Diesel,171300,0
+Illinois,2022,Unknown Fuel,59500,0
+Indiana,2022,Electric (EV),17700,1
+Indiana,2022,Plug-In Hybrid Electric (PHEV),10100,1
+Indiana,2022,Hybrid Electric (HEV),100900,1
+Indiana,2022,Biodiesel,49100,1
+Indiana,2022,Ethanol/Flex (E85),587100,1
+Indiana,2022,Compressed Natural Gas (CNG),300,1
+Indiana,2022,Propane,0,1
+Indiana,2022,Hydrogen,0,1
+Indiana,2022,Methanol,0,1
+Indiana,2022,Gasoline,5116800,0
+Indiana,2022,Diesel,153500,0
+Indiana,2022,Unknown Fuel,58900,0
+Iowa,2022,Electric (EV),6200,1
+Iowa,2022,Plug-In Hybrid Electric (PHEV),4900,1
+Iowa,2022,Hybrid Electric (HEV),48600,1
+Iowa,2022,Biodiesel,37000,1
+Iowa,2022,Ethanol/Flex (E85),338900,1
+Iowa,2022,Compressed Natural Gas (CNG),100,1
+Iowa,2022,Propane,0,1
+Iowa,2022,Hydrogen,0,1
+Iowa,2022,Methanol,0,1
+Iowa,2022,Gasoline,2521300,0
+Iowa,2022,Diesel,103000,0
+Iowa,2022,Unknown Fuel,58200,0
+Kansas,2022,Electric (EV),7600,1
+Kansas,2022,Plug-In Hybrid Electric (PHEV),4300,1
+Kansas,2022,Hybrid Electric (HEV),43500,1
+Kansas,2022,Biodiesel,25000,1
+Kansas,2022,Ethanol/Flex (E85),260100,1
+Kansas,2022,Compressed Natural Gas (CNG),200,1
+Kansas,2022,Propane,100,1
+Kansas,2022,Hydrogen,0,1
+Kansas,2022,Methanol,0,1
+Kansas,2022,Gasoline,2159200,0
+Kansas,2022,Diesel,87000,0
+Kansas,2022,Unknown Fuel,17600,0
+Kentucky,2022,Electric (EV),7600,1
+Kentucky,2022,Plug-In Hybrid Electric (PHEV),4400,1
+Kentucky,2022,Hybrid Electric (HEV),55800,1
+Kentucky,2022,Biodiesel,32300,1
+Kentucky,2022,Ethanol/Flex (E85),363800,1
+Kentucky,2022,Compressed Natural Gas (CNG),300,1
+Kentucky,2022,Propane,0,1
+Kentucky,2022,Hydrogen,0,1
+Kentucky,2022,Methanol,0,1
+Kentucky,2022,Gasoline,3368800,0
+Kentucky,2022,Diesel,115800,0
+Kentucky,2022,Unknown Fuel,25800,0
+Louisiana,2022,Electric (EV),5900,1
+Louisiana,2022,Plug-In Hybrid Electric (PHEV),2900,1
+Louisiana,2022,Hybrid Electric (HEV),31400,1
+Louisiana,2022,Biodiesel,60100,1
+Louisiana,2022,Ethanol/Flex (E85),397500,1
+Louisiana,2022,Compressed Natural Gas (CNG),100,1
+Louisiana,2022,Propane,0,1
+Louisiana,2022,Hydrogen,0,1
+Louisiana,2022,Methanol,0,1
+Louisiana,2022,Gasoline,3159000,0
+Louisiana,2022,Diesel,115400,0
+Louisiana,2022,Unknown Fuel,19900,0
+Maine,2022,Electric (EV),5000,1
+Maine,2022,Plug-In Hybrid Electric (PHEV),5700,1
+Maine,2022,Hybrid Electric (HEV),28900,1
+Maine,2022,Biodiesel,10500,1
+Maine,2022,Ethanol/Flex (E85),109100,1
+Maine,2022,Compressed Natural Gas (CNG),0,1
+Maine,2022,Propane,0,1
+Maine,2022,Hydrogen,0,1
+Maine,2022,Methanol,0,1
+Maine,2022,Gasoline,1028100,0
+Maine,2022,Diesel,26800,0
+Maine,2022,Unknown Fuel,7900,0
+Maryland,2022,Electric (EV),46100,1
+Maryland,2022,Plug-In Hybrid Electric (PHEV),22900,1
+Maryland,2022,Hybrid Electric (HEV),146200,1
+Maryland,2022,Biodiesel,30300,1
+Maryland,2022,Ethanol/Flex (E85),326900,1
+Maryland,2022,Compressed Natural Gas (CNG),300,1
+Maryland,2022,Propane,0,1
+Maryland,2022,Hydrogen,0,1
+Maryland,2022,Methanol,0,1
+Maryland,2022,Gasoline,4373900,0
+Maryland,2022,Diesel,88400,0
+Maryland,2022,Unknown Fuel,31800,0
+Massachusetts,2022,Electric (EV),49400,1
+Massachusetts,2022,Plug-In Hybrid Electric (PHEV),30500,1
+Massachusetts,2022,Hybrid Electric (HEV),158600,1
+Massachusetts,2022,Biodiesel,19500,1
+Massachusetts,2022,Ethanol/Flex (E85),297000,1
+Massachusetts,2022,Compressed Natural Gas (CNG),200,1
+Massachusetts,2022,Propane,0,1
+Massachusetts,2022,Hydrogen,0,1
+Massachusetts,2022,Methanol,0,1
+Massachusetts,2022,Gasoline,4777600,0
+Massachusetts,2022,Diesel,59300,0
+Massachusetts,2022,Unknown Fuel,30200,0
+Michigan,2022,Electric (EV),33100,1
+Michigan,2022,Plug-In Hybrid Electric (PHEV),24300,1
+Michigan,2022,Hybrid Electric (HEV),122800,1
+Michigan,2022,Biodiesel,62800,1
+Michigan,2022,Ethanol/Flex (E85),905700,1
+Michigan,2022,Compressed Natural Gas (CNG),300,1
+Michigan,2022,Propane,100,1
+Michigan,2022,Hydrogen,0,1
+Michigan,2022,Methanol,0,1
+Michigan,2022,Gasoline,7071800,0
+Michigan,2022,Diesel,175400,0
+Michigan,2022,Unknown Fuel,49600,0
+Minnesota,2022,Electric (EV),24300,1
+Minnesota,2022,Plug-In Hybrid Electric (PHEV),11900,1
+Minnesota,2022,Hybrid Electric (HEV),105300,1
+Minnesota,2022,Biodiesel,46900,1
+Minnesota,2022,Ethanol/Flex (E85),531500,1
+Minnesota,2022,Compressed Natural Gas (CNG),100,1
+Minnesota,2022,Propane,0,1
+Minnesota,2022,Hydrogen,0,1
+Minnesota,2022,Methanol,0,1
+Minnesota,2022,Gasoline,4180500,0
+Minnesota,2022,Diesel,127300,0
+Minnesota,2022,Unknown Fuel,25600,0
+Mississippi,2022,Electric (EV),2400,1
+Mississippi,2022,Plug-In Hybrid Electric (PHEV),1600,1
+Mississippi,2022,Hybrid Electric (HEV),22300,1
+Mississippi,2022,Biodiesel,31600,1
+Mississippi,2022,Ethanol/Flex (E85),302000,1
+Mississippi,2022,Compressed Natural Gas (CNG),100,1
+Mississippi,2022,Propane,0,1
+Mississippi,2022,Hydrogen,0,1
+Mississippi,2022,Methanol,0,1
+Mississippi,2022,Gasoline,2275400,0
+Mississippi,2022,Diesel,75400,0
+Mississippi,2022,Unknown Fuel,9100,0
+Missouri,2022,Electric (EV),17900,1
+Missouri,2022,Plug-In Hybrid Electric (PHEV),10400,1
+Missouri,2022,Hybrid Electric (HEV),95100,1
+Missouri,2022,Biodiesel,61300,1
+Missouri,2022,Ethanol/Flex (E85),576700,1
+Missouri,2022,Compressed Natural Gas (CNG),1200,1
+Missouri,2022,Propane,100,1
+Missouri,2022,Hydrogen,0,1
+Missouri,2022,Methanol,0,1
+Missouri,2022,Gasoline,4444600,0
+Missouri,2022,Diesel,176200,0
+Missouri,2022,Unknown Fuel,38900,0
+Montana,2022,Electric (EV),3300,1
+Montana,2022,Plug-In Hybrid Electric (PHEV),1700,1
+Montana,2022,Hybrid Electric (HEV),17100,1
+Montana,2022,Biodiesel,33200,1
+Montana,2022,Ethanol/Flex (E85),98000,1
+Montana,2022,Compressed Natural Gas (CNG),0,1
+Montana,2022,Propane,0,1
+Montana,2022,Hydrogen,0,1
+Montana,2022,Methanol,0,1
+Montana,2022,Gasoline,765400,0
+Montana,2022,Diesel,69900,0
+Montana,2022,Unknown Fuel,11000,0
+Nebraska,2022,Electric (EV),4600,1
+Nebraska,2022,Plug-In Hybrid Electric (PHEV),2900,1
+Nebraska,2022,Hybrid Electric (HEV),27300,1
+Nebraska,2022,Biodiesel,25600,1
+Nebraska,2022,Ethanol/Flex (E85),201800,1
+Nebraska,2022,Compressed Natural Gas (CNG),100,1
+Nebraska,2022,Propane,0,1
+Nebraska,2022,Hydrogen,0,1
+Nebraska,2022,Methanol,0,1
+Nebraska,2022,Gasoline,1576900,0
+Nebraska,2022,Diesel,75100,0
+Nebraska,2022,Unknown Fuel,25900,0
+Nevada,2022,Electric (EV),32900,1
+Nevada,2022,Plug-In Hybrid Electric (PHEV),8800,1
+Nevada,2022,Hybrid Electric (HEV),59100,1
+Nevada,2022,Biodiesel,24700,1
+Nevada,2022,Ethanol/Flex (E85),130700,1
+Nevada,2022,Compressed Natural Gas (CNG),200,1
+Nevada,2022,Propane,100,1
+Nevada,2022,Hydrogen,0,1
+Nevada,2022,Methanol,0,1
+Nevada,2022,Gasoline,2157700,0
+Nevada,2022,Diesel,85200,0
+Nevada,2022,Unknown Fuel,21300,0
+New Hampshire,2022,Electric (EV),7000,1
+New Hampshire,2022,Plug-In Hybrid Electric (PHEV),4800,1
+New Hampshire,2022,Hybrid Electric (HEV),31100,1
+New Hampshire,2022,Biodiesel,12900,1
+New Hampshire,2022,Ethanol/Flex (E85),95400,1
+New Hampshire,2022,Compressed Natural Gas (CNG),100,1
+New Hampshire,2022,Propane,0,1
+New Hampshire,2022,Hydrogen,0,1
+New Hampshire,2022,Methanol,0,1
+New Hampshire,2022,Gasoline,1180700,0
+New Hampshire,2022,Diesel,29400,0
+New Hampshire,2022,Unknown Fuel,12300,0
+New Jersey,2022,Electric (EV),87000,1
+New Jersey,2022,Plug-In Hybrid Electric (PHEV),26800,1
+New Jersey,2022,Hybrid Electric (HEV),142600,1
+New Jersey,2022,Biodiesel,25900,1
+New Jersey,2022,Ethanol/Flex (E85),404200,1
+New Jersey,2022,Compressed Natural Gas (CNG),300,1
+New Jersey,2022,Propane,0,1
+New Jersey,2022,Hydrogen,0,1
+New Jersey,2022,Methanol,0,1
+New Jersey,2022,Gasoline,6339500,0
+New Jersey,2022,Diesel,85500,0
+New Jersey,2022,Unknown Fuel,36900,0
+New Mexico,2022,Electric (EV),7100,1
+New Mexico,2022,Plug-In Hybrid Electric (PHEV),3900,1
+New Mexico,2022,Hybrid Electric (HEV),37600,1
+New Mexico,2022,Biodiesel,28600,1
+New Mexico,2022,Ethanol/Flex (E85),155900,1
+New Mexico,2022,Compressed Natural Gas (CNG),100,1
+New Mexico,2022,Propane,100,1
+New Mexico,2022,Hydrogen,0,1
+New Mexico,2022,Methanol,0,1
+New Mexico,2022,Gasoline,1584500,0
+New Mexico,2022,Diesel,88000,0
+New Mexico,2022,Unknown Fuel,23600,0
+New York,2022,Electric (EV),84700,1
+New York,2022,Plug-In Hybrid Electric (PHEV),59800,1
+New York,2022,Hybrid Electric (HEV),259600,1
+New York,2022,Biodiesel,48400,1
+New York,2022,Ethanol/Flex (E85),633100,1
+New York,2022,Compressed Natural Gas (CNG),400,1
+New York,2022,Propane,100,1
+New York,2022,Hydrogen,0,1
+New York,2022,Methanol,0,1
+New York,2022,Gasoline,9987400,0
+New York,2022,Diesel,152000,0
+New York,2022,Unknown Fuel,80800,0
+North Carolina,2022,Electric (EV),45600,1
+North Carolina,2022,Plug-In Hybrid Electric (PHEV),18800,1
+North Carolina,2022,Hybrid Electric (HEV),175300,1
+North Carolina,2022,Biodiesel,71300,1
+North Carolina,2022,Ethanol/Flex (E85),675300,1
+North Carolina,2022,Compressed Natural Gas (CNG),300,1
+North Carolina,2022,Propane,100,1
+North Carolina,2022,Hydrogen,0,1
+North Carolina,2022,Methanol,0,1
+North Carolina,2022,Gasoline,7700300,0
+North Carolina,2022,Diesel,209600,0
+North Carolina,2022,Unknown Fuel,73700,0
+North Dakota,2022,Electric (EV),600,1
+North Dakota,2022,Plug-In Hybrid Electric (PHEV),600,1
+North Dakota,2022,Hybrid Electric (HEV),6600,1
+North Dakota,2022,Biodiesel,18300,1
+North Dakota,2022,Ethanol/Flex (E85),93500,1
+North Dakota,2022,Compressed Natural Gas (CNG),0,1
+North Dakota,2022,Propane,0,1
+North Dakota,2022,Hydrogen,0,1
+North Dakota,2022,Methanol,0,1
+North Dakota,2022,Gasoline,614300,0
+North Dakota,2022,Diesel,43800,0
+North Dakota,2022,Unknown Fuel,7800,0
+Ohio,2022,Electric (EV),34100,1
+Ohio,2022,Plug-In Hybrid Electric (PHEV),17800,1
+Ohio,2022,Hybrid Electric (HEV),165700,1
+Ohio,2022,Biodiesel,63400,1
+Ohio,2022,Ethanol/Flex (E85),868500,1
+Ohio,2022,Compressed Natural Gas (CNG),700,1
+Ohio,2022,Propane,100,1
+Ohio,2022,Hydrogen,0,1
+Ohio,2022,Methanol,0,1
+Ohio,2022,Gasoline,8868300,0
+Ohio,2022,Diesel,197000,0
+Ohio,2022,Unknown Fuel,62700,0
+Oklahoma,2022,Electric (EV),16300,1
+Oklahoma,2022,Plug-In Hybrid Electric (PHEV),11500,1
+Oklahoma,2022,Hybrid Electric (HEV),47000,1
+Oklahoma,2022,Biodiesel,60200,1
+Oklahoma,2022,Ethanol/Flex (E85),380800,1
+Oklahoma,2022,Compressed Natural Gas (CNG),2000,1
+Oklahoma,2022,Propane,300,1
+Oklahoma,2022,Hydrogen,0,1
+Oklahoma,2022,Methanol,0,1
+Oklahoma,2022,Gasoline,3538100,0
+Oklahoma,2022,Diesel,147500,0
+Oklahoma,2022,Unknown Fuel,46200,0
+Oregon,2022,Electric (EV),47000,1
+Oregon,2022,Plug-In Hybrid Electric (PHEV),22500,1
+Oregon,2022,Hybrid Electric (HEV),138900,1
+Oregon,2022,Biodiesel,50200,1
+Oregon,2022,Ethanol/Flex (E85),186300,1
+Oregon,2022,Compressed Natural Gas (CNG),100,1
+Oregon,2022,Propane,100,1
+Oregon,2022,Hydrogen,0,1
+Oregon,2022,Methanol,0,1
+Oregon,2022,Gasoline,3065400,0
+Oregon,2022,Diesel,216100,0
+Oregon,2022,Unknown Fuel,53200,0
+Pennsylvania,2022,Electric (EV),47400,1
+Pennsylvania,2022,Plug-In Hybrid Electric (PHEV),25400,1
+Pennsylvania,2022,Hybrid Electric (HEV),199600,1
+Pennsylvania,2022,Biodiesel,68100,1
+Pennsylvania,2022,Ethanol/Flex (E85),698500,1
+Pennsylvania,2022,Compressed Natural Gas (CNG),500,1
+Pennsylvania,2022,Propane,100,1
+Pennsylvania,2022,Hydrogen,0,1
+Pennsylvania,2022,Methanol,0,1
+Pennsylvania,2022,Gasoline,8888900,0
+Pennsylvania,2022,Diesel,191700,0
+Pennsylvania,2022,Unknown Fuel,45100,0
+Rhode Island,2022,Electric (EV),4300,1
+Rhode Island,2022,Plug-In Hybrid Electric (PHEV),3400,1
+Rhode Island,2022,Hybrid Electric (HEV),18600,1
+Rhode Island,2022,Biodiesel,2800,1
+Rhode Island,2022,Ethanol/Flex (E85),43100,1
+Rhode Island,2022,Compressed Natural Gas (CNG),0,1
+Rhode Island,2022,Propane,0,1
+Rhode Island,2022,Hydrogen,0,1
+Rhode Island,2022,Methanol,0,1
+Rhode Island,2022,Gasoline,782500,0
+Rhode Island,2022,Diesel,11200,0
+Rhode Island,2022,Unknown Fuel,6100,0
+South Carolina,2022,Electric (EV),13500,1
+South Carolina,2022,Plug-In Hybrid Electric (PHEV),6700,1
+South Carolina,2022,Hybrid Electric (HEV),66800,1
+South Carolina,2022,Biodiesel,38300,1
+South Carolina,2022,Ethanol/Flex (E85),411400,1
+South Carolina,2022,Compressed Natural Gas (CNG),100,1
+South Carolina,2022,Propane,100,1
+South Carolina,2022,Hydrogen,0,1
+South Carolina,2022,Methanol,0,1
+South Carolina,2022,Gasoline,4254700,0
+South Carolina,2022,Diesel,107600,0
+South Carolina,2022,Unknown Fuel,45500,0
+South Dakota,2022,Electric (EV),1200,1
+South Dakota,2022,Plug-In Hybrid Electric (PHEV),1000,1
+South Dakota,2022,Hybrid Electric (HEV),10300,1
+South Dakota,2022,Biodiesel,20000,1
+South Dakota,2022,Ethanol/Flex (E85),105700,1
+South Dakota,2022,Compressed Natural Gas (CNG),0,1
+South Dakota,2022,Propane,0,1
+South Dakota,2022,Hydrogen,0,1
+South Dakota,2022,Methanol,0,1
+South Dakota,2022,Gasoline,739400,0
+South Dakota,2022,Diesel,53000,0
+South Dakota,2022,Unknown Fuel,14500,0
+Tennessee,2022,Electric (EV),22000,1
+Tennessee,2022,Plug-In Hybrid Electric (PHEV),8900,1
+Tennessee,2022,Hybrid Electric (HEV),94000,1
+Tennessee,2022,Biodiesel,45700,1
+Tennessee,2022,Ethanol/Flex (E85),519400,1
+Tennessee,2022,Compressed Natural Gas (CNG),100,1
+Tennessee,2022,Propane,100,1
+Tennessee,2022,Hydrogen,0,1
+Tennessee,2022,Methanol,0,1
+Tennessee,2022,Gasoline,5536100,0
+Tennessee,2022,Diesel,157700,0
+Tennessee,2022,Unknown Fuel,38600,0
+Texas,2022,Electric (EV),149000,1
+Texas,2022,Plug-In Hybrid Electric (PHEV),42800,1
+Texas,2022,Hybrid Electric (HEV),361800,1
+Texas,2022,Biodiesel,420800,1
+Texas,2022,Ethanol/Flex (E85),2398800,1
+Texas,2022,Compressed Natural Gas (CNG),1400,1
+Texas,2022,Propane,1400,1
+Texas,2022,Hydrogen,0,1
+Texas,2022,Methanol,0,1
+Texas,2022,Gasoline,21065800,0
+Texas,2022,Diesel,771000,0
+Texas,2022,Unknown Fuel,133200,0
+Utah,2022,Electric (EV),28000,1
+Utah,2022,Plug-In Hybrid Electric (PHEV),10200,1
+Utah,2022,Hybrid Electric (HEV),69300,1
+Utah,2022,Biodiesel,61500,1
+Utah,2022,Ethanol/Flex (E85),189900,1
+Utah,2022,Compressed Natural Gas (CNG),2300,1
+Utah,2022,Propane,600,1
+Utah,2022,Hydrogen,0,1
+Utah,2022,Methanol,0,1
+Utah,2022,Gasoline,2454700,0
+Utah,2022,Diesel,155000,0
+Utah,2022,Unknown Fuel,26000,0
+Vermont,2022,Electric (EV),5300,1
+Vermont,2022,Plug-In Hybrid Electric (PHEV),4200,1
+Vermont,2022,Hybrid Electric (HEV),17800,1
+Vermont,2022,Biodiesel,6400,1
+Vermont,2022,Ethanol/Flex (E85),40000,1
+Vermont,2022,Compressed Natural Gas (CNG),0,1
+Vermont,2022,Propane,0,1
+Vermont,2022,Hydrogen,0,1
+Vermont,2022,Methanol,0,1
+Vermont,2022,Gasoline,501500,0
+Vermont,2022,Diesel,14700,0
+Vermont,2022,Unknown Fuel,5100,0
+Virginia,2022,Electric (EV),56600,1
+Virginia,2022,Plug-In Hybrid Electric (PHEV),21700,1
+Virginia,2022,Hybrid Electric (HEV),198400,1
+Virginia,2022,Biodiesel,40000,1
+Virginia,2022,Ethanol/Flex (E85),496200,1
+Virginia,2022,Compressed Natural Gas (CNG),300,1
+Virginia,2022,Propane,0,1
+Virginia,2022,Hydrogen,0,1
+Virginia,2022,Methanol,0,1
+Virginia,2022,Gasoline,6643300,0
+Virginia,2022,Diesel,153700,0
+Virginia,2022,Unknown Fuel,31900,0
+Washington,2022,Electric (EV),104100,1
+Washington,2022,Plug-In Hybrid Electric (PHEV),31400,1
+Washington,2022,Hybrid Electric (HEV),270200,1
+Washington,2022,Biodiesel,67500,1
+Washington,2022,Ethanol/Flex (E85),348300,1
+Washington,2022,Compressed Natural Gas (CNG),100,1
+Washington,2022,Propane,100,1
+Washington,2022,Hydrogen,0,1
+Washington,2022,Methanol,0,1
+Washington,2022,Gasoline,5650700,0
+Washington,2022,Diesel,277400,0
+Washington,2022,Unknown Fuel,52700,0
+West Virginia,2022,Electric (EV),1900,1
+West Virginia,2022,Plug-In Hybrid Electric (PHEV),1400,1
+West Virginia,2022,Hybrid Electric (HEV),18300,1
+West Virginia,2022,Biodiesel,15600,1
+West Virginia,2022,Ethanol/Flex (E85),127500,1
+West Virginia,2022,Compressed Natural Gas (CNG),100,1
+West Virginia,2022,Propane,0,1
+West Virginia,2022,Hydrogen,0,1
+West Virginia,2022,Methanol,0,1
+West Virginia,2022,Gasoline,1267500,0
+West Virginia,2022,Diesel,45700,0
+West Virginia,2022,Unknown Fuel,10900,0
+Wisconsin,2022,Electric (EV),15700,1
+Wisconsin,2022,Plug-In Hybrid Electric (PHEV),10000,1
+Wisconsin,2022,Hybrid Electric (HEV),105200,1
+Wisconsin,2022,Biodiesel,46500,1
+Wisconsin,2022,Ethanol/Flex (E85),549700,1
+Wisconsin,2022,Compressed Natural Gas (CNG),300,1
+Wisconsin,2022,Propane,0,1
+Wisconsin,2022,Hydrogen,0,1
+Wisconsin,2022,Methanol,0,1
+Wisconsin,2022,Gasoline,4577400,0
+Wisconsin,2022,Diesel,144500,0
+Wisconsin,2022,Unknown Fuel,26900,0
+Wyoming,2022,Electric (EV),800,1
+Wyoming,2022,Plug-In Hybrid Electric (PHEV),600,1
+Wyoming,2022,Hybrid Electric (HEV),6900,1
+Wyoming,2022,Biodiesel,19100,1
+Wyoming,2022,Ethanol/Flex (E85),58600,1
+Wyoming,2022,Compressed Natural Gas (CNG),0,1
+Wyoming,2022,Propane,0,1
+Wyoming,2022,Hydrogen,0,1
+Wyoming,2022,Methanol,0,1
+Wyoming,2022,Gasoline,483000,0
+Wyoming,2022,Diesel,61200,0
+Wyoming,2022,Unknown Fuel,14200,0
