@@ -1,0 +1,428 @@
+"x"
+"1" "A motor vehicle engine or motor shall hereafter be defined as the principal parts of a motor assembly, which are the cylinder block with the crank shaft, pistons, and connecting rods for the number of cylinders in the block, cam shaft or cam shafts; within or without the lower half of the crank case.
+
+Notes
+Cal. Code Regs. Tit. 13, § 150.01
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Sections 4161, 4163 and 9257, Vehicle Code.
+1. Change without regulatory effect renumbering former section 200.01 to section 150.01 and amending article 3 heading filed 7-19-93 pursuant to title 1, section 100, California Code of Regulations (Register 93, No. 30). 2. Amendment repealing subheading filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36)."
+"2" "Pursuant to Section 4463.5 of the Vehicle Code, facsimile plates shall not be of a size substantially similar to the motor vehicle license plate issued by the department. The facsimile plate shall be:
+
+(1) Smaller than 9 inches in length and 3 inches in width, or
+(2) Larger than 15 inches in length and 9 inches in width.
+Notes
+Cal. Code Regs. Tit. 13, § 150.02
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Section 4463.5, Vehicle Code.
+1. New section filed 3-11-94; operative 4-11-94 (Register 94, No. 11)."
+"3" "(a) Pursuant to Section 471 of the Vehicle Code, any motor vehicle, except a motorcycle, motorized bicycle, or motorized quadricycle, with an open box type bed not exceeding 9 feet in length is by definition a pickup. Examples of this type of motor vehicle include the Ford Explorer Sport Trac, Nissan Frontier and other similarly designed vehicles.
+(b) Pursuant to Section 471 of the Vehicle Code, any motor vehicle, except a motorcycle, motorized bicycle, or motorized quadricycle, that may be configured or reconfigured to provide an open box type bed not exceeding 9 feet in length is by definition a pickup. Examples of this type of motor vehicle include the Chevrolet Avalanche and similarly designed vehicles.
+Notes
+Cal. Code Regs. Tit. 13, § 150.04
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Section 471, Vehicle Code.
+1. New section filed 6-24-2003; operative 7-24-2003 (Register 2003, No. 26). 2. Editorial correction adjusting placement of section (Register 2003, No. 27)."
+"4" "For purposes of notifying the department of the sale or transfer of a vehicle as required in Vehicle Code Section 5900, the description of the vehicle shall consist of either the California license plate number or the vehicle identification number or both numbers.
+
+Notes
+Cal. Code Regs. Tit. 13, § 150.06
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Section 5900, Vehicle Code.
+1. New section filed 12-27-2004; approved by operation of law 12-22-2004; operative 1-21-2005 (Register 2004, No. 53)."
+"5" "Truck tractors as defined in Vehicle Code section 655 that have been initially manufactured, modified by a second stage manufacturer or otherwise altered to include living quarters shall be considered commercial vehicles under Vehicle Code section 260 unless the living quarters permanently prevent the truck tractor from towing or drawing other vehicles.
+
+Notes
+Cal. Code Regs. Tit. 13, § 150.08
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Sections 260 and 655, Vehicle Code; and California Career Schools v. Department of Motor Vehicles(2004) 120 Cal. App. 4th 10, 15 Cal. Rptr. 3d 813.
+1. New section filed 7-11-2007; operative 8-10-2007 (Register 2007, No. 28)."
+"6" "(a) To report multi-county use of a vehicle, the registered owner(s) shall submit a Statement of Multiple County Use of Vehicle Form REG 6004 (REV. 10/2015), which is hereby incorporated by reference.
+(b)The registered owner(s) may provide the following information on Form REG 6004:
+(1) If the owner(s) of the vehicle resides in more than one county for more than 30 days in a calendar year, the address and county for each residential location;
+(2) If the vehicle is used for business purposes in a county other than the county of registration, the county, state, and the number of days per year per county of business use.
+(c) If the registered owner(s) reports either type of multi-county use, the registered owner(s) shall designate the county in which the vehicle is predominantly used during the registration period.
+(d) The department shall rely on the information provided on a REG 6004 when determining the length of time an owner(s) resides in or uses a registered vehicle in a county.
+Notes
+Cal. Code Regs. Tit. 13, § 150.10
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Section 4004.5, Vehicle Code.
+1. New section filed 4-6-2016; operative 7/1/2016 (Register 2016, No. 15)."
+"7" "(a)Pursuant to California Health and Safety Code section43151and Vehicle Code section4750, a new motor vehicle that is not certified by the California Air Resources Board as equipped with a California emission system may be refused California registration. The new motor vehicle shall not be driven or sold to circumvent this law.
+(1)A new motor vehicle shall be defined as a vehicle with less than 7,500 miles on the odometer at the time it is first acquired, purchased, imported, delivered, rented, leased, or received by a California resident or a California established place of business.
+(A) The odometer reading at the location and on the date the vehicle was purchased, imported, delivered, rented, leased, acquired or received by the California resident or an established place of business shall determine compliance with California Health and Safety Code sections 43150 through 43156.
+(2) A new motor vehicle may include, but not be limited to, passenger motor vehicles, motorcycles, off-highway vehicles, and gas and diesel-powered motor vehicles.
+(3) The term \"resident\" as used in Health and Safety Code section 43151 shall be as defined in Vehicle Code section 516.
+(4) California residents that are military personnel on active duty outside of California when the new motor vehicle was purchased, imported, delivered, rented, leased, acquired or received may be considered nonresidents for purposes of this section.
+(b) The department may require additional documentation pursuant to California Vehicle Code section 4751 to substantiate the odometer reading, or the request of a California resident or a California established place of business for an exemption to register a non-California certified vehicle as provided in subdivisions (b) and (c) of Health and Safety Code section 43151; Vehicle Code sections 6701, 27156.2, and 27156.3; and Article 2, Section 1958 of Chapter 1, Division 3, Title 13, California Code of Regulations.
+Notes
+Cal. Code Regs. Tit. 13, § 151.00
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Sections 516, 4750, 6701, 27156.2 and 27156.3, Vehicle Code; and Sections 43150, 43151, 43153, 43154, 43155 and 43156, Health and Safety Code.
+1. New section filed 12-22-2004; operative 1-21-2005 (Register 2004, No. 52)."
+"8" "(a) A motor vehicle owner applying for a California certificate of title without the required supporting evidence of ownership may submit a bond as authorized under Vehicle Code section 4157. The bond shall be executed by an admitted surety insurer on a Motor Vehicle Ownership Surety Bond, form REG 5057 (REV. 12/2004), which is hereby incorporated by reference. The bond shall be subject to chapter 2 (commencing with Section 995.010 ), title 14, of part 2 of the Code of Civil Procedure.
+(b)The penal sum of the bond shall be in the amount of the fair market value of the motor vehicle.
+(1)The fair market value shall be determined by either:
+(A) A written appraisal provided by a California licensed or other state licensed motor vehicle dealer or motor vehicle insurance representative; or
+(B) Identification of the motor vehicle and its price variations based on information provided in a recognized industry motor vehicle valuation and pricing handbook, such as the Kelly Blue Book. The highest and lowest price variations shall be added together and then divided by two; the result is the average price of the vehicle. The average price shall be the fair market value.
+(c) A motor vehicle owner applying for a California certificate of title without the required supporting evidence of ownership may submit a deposit equal to the monetary amount appraised in Section 152.00(b)(1)(A) or calculated in Section 152.00(b)(1)(B) in lieu of the bond as provided in Section 995.710 of the Code of Civil Procedure. The deposit in lieu of a surety bond shall be executed on a Vehicle, Vessel or Off-Highway Vehicle Title Deposit Agreement and Assignment, form REG 5059 (Rev. 1/2010), which is hereby incorporated by reference. The form shall meet the guidelines identified in the Code of Civil Procedure section 995.710. The form shall also identify the deposit method authorized by the Code of Civil Procedure section 995.710 that is chosen by the depositor.
+Notes
+Cal. Code Regs. Tit. 13, § 152.00
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Sections 995.010 and 995.710, Code of Civil Procedure; and Sections 4157 and 4307, Vehicle Code.
+1. New section filed 2-14-2006; operative 3-16-2006 (Register 2006, No. 7).2. Amendment of subsection (c) filed 6-7-2010; operative 7-7-2010 (Register 2010, No. 24).3. Change without regulatory effect amending subsection (c) filed 11/28/2016 pursuant to section 100, title 1, California Code of Regulations (Register 2016, No. 49)."
+"9" "(a) \"Business documents\" means a Lienholder's license or charter by state or federal banking authorities to loan money for the purchase of a vehicle and proof of authority to conduct auto loan business in California.
+(b) \"Designated employee\" means any employee who has been identified by an Electronic Lien and Title Program participant.
+(c) \"Electronic title\" means the electronic data file created by the department and transmitted to a Lienholder via their Service Provider in lieu of a certificate of ownership as described in Vehicle Code section 4451.
+(d) \"Lienholder\" means a legal owner as defined in Vehicle Code section 370.
+(e) \"Title information\" means the contents of certificate of ownership as described in Vehicle Code section 4451.
+(f) \"Service Provider\" means the person or entity designated by a Lienholder to act on its behalf to send, receive, store, and convert electronic titles.
+Notes
+Cal. Code Regs. Tit. 13, § 153.00
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Sections 370, 4450.5 and 4451, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"10" "(a) A Service Provider may act on behalf of Lienholders if the Service Provider has applied for and has been issued a Service Provider's Permit by the department.
+(b) A Service Provider shall not act on behalf of any Lienholder if their Service Provider permit is not currently valid.
+(c) A Service Provider shall not send any customer data to the department prior to successful transmission of a test file that validates connectivity has been established with the department.
+Notes
+Cal. Code Regs. Tit. 13, § 153.02
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"11" "(a)An applicant requesting to act on behalf of any Lienholder shall submit the following to the department:
+(1) A completed and signed Electronic Lien and Title (ELT) Program Service Provider Application form, REG 670 (NEW 1/2019), which is hereby incorporated by reference;
+(2) Proof of registration and \"Active\" status with the California Secretary of State;
+(3) A completed and signed Electronic Lien and Title (ELT) Program Information Security and Disclosure Statement Service Provider/Lienholder Firm form, REG 678 (NEW 1/2019), which is hereby incorporated by reference; and
+(4) For each of their designated employees, a completed and signed Electronic Lien and Title (ELT) Program Information Security and Disclosure Statement Service Provider/Lienholder Employee form, REG 677 (NEW 1/2019), which is hereby incorporated by reference.
+Notes
+Cal. Code Regs. Tit. 13, § 153.04
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Sections 1808.47 and 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"12" "(a) The department shall review the application for a Service Provider's permit and notify the Service Provider within 30 days of receipt of the application whether it contains all of the required information.
+(b) The department shall approve an application and issue an Electronic Lien and Title (ELT) Service Provider Permit, form REG 672 (NEW 1/2019), which is hereby incorporated by reference, after determining that the application is complete.
+Notes
+Cal. Code Regs. Tit. 13, § 153.06
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"13" "(a) Every Service Provider's permit issued under this article shall be valid for a period of five years from midnight of the last day of the month of issuance unless sooner revoked or surrendered. Renewal of the permit for the ensuing term may be obtained by the Service Provider to whom the permit was issued upon application to and approval by the department.
+(b) Any changes to the Service Provider's permit required by the Service Provider during the term of the permit shall be requested by submitting a completed and signed Electronic Lien and Title (ELT) Program Service Provider Application form, REG 670 (NEW 1/2019), to the department.
+(c) A Service Provider who intends to withdraw from participating in the department's Electronic Lien and Title program shall notify the department's Electronic Lien and Title administrator via email at rodeltgrp@dmv.ca.gov at least 30 days prior to the date their permit expires.
+Notes
+Cal. Code Regs. Tit. 13, § 153.08
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"14" "(a) The Service Provider whose permit is nearing expiration shall initiate and complete the renewal process.
+(b)A renewal applicant shall submit, at least 30 days prior to the permit's expiration date, the following to the department:
+(1) A completed and signed Electronic Lien and Title (ELT) Program Service Provider Application, form REG 670 (NEW 1/2019);
+(2) A completed and signed Electronic Lien and Title (ELT) Program Information Security and Disclosure Statement Service Provider/Lienholder Firm form, REG 678 (NEW 1/2019); and
+(3) For each of their designated employees, a completed and signed Electronic Lien and Title (ELT) Program Information Security and Disclosure Statement Service Provider/Lienholder Employee form, REG 677 (NEW 1/2019).
+(c) Failure to apply for permit renewal at least 30 days prior to the permit's expiration date will cause an interruption in the Service Provider's ability to conduct data transmissions from the time the permit expires until the renewal application has been reviewed and approved by the department.
+Notes
+Cal. Code Regs. Tit. 13, § 153.10
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Sections 1808.47 and 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"15" "(a)The department may refuse to approve an application for a Service Provider's permit, or for the renewal of a Service Provider's permit under the following circumstances:
+(1) For an incomplete application;
+(2) For a violation of section 153.02, 153.04, 153.08, 153.10, or 153.18 of Article 3.0; and/or
+(3) For any act or omission of the Service provider or one of its agents, employees, contractors or designees which the department determines constitutes fraud.
+Notes
+Cal. Code Regs. Tit. 13, § 153.12
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"16" "(a)The department shall suspend a Service Provider's permit:
+(1) For violating one of the following sections: 153.02, 153.04, 153.08, 153.10, or 153.18 of Article 3.0;
+(2) For any act or omission of the Service Provider or one of its agents, employees, contractors or designees which the department determines constitutes fraud; or
+(3) Not having \"Active\" status with the California Secretary of State.
+(b)The department shall revoke a Service Provider's permit:
+(1) For violating more than one of the following sections: 153.02, 153.04, 153.08, 153.10, and 153.18 of Article 3.0;
+(2) For any act or omission of the Service Provider or one of its agents, employees, contractors or designees which the department determines constitutes an intent to commit fraud; or
+(3) For failing to obtain \"Active\" status with the California Secretary of State within 30 days after receiving notification from the department of this defect.
+Notes
+Cal. Code Regs. Tit. 13, § 153.14
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"17" "(a) Upon the department's refusal to approve an application to issue or renew a Service Provider's permit or upon the suspension or revocation of a Service Provider's permit, the Service Provider shall be entitled to demand, in writing, a hearing before the director or his or her representative within 60 days after receipt of the notice.
+(b) The hearing shall be conducted pursuant to the provisions of Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.
+Notes
+Cal. Code Regs. Tit. 13, § 153.16
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"18" "(a) Upon the suspension of a Service Provider's permit by the department, the Service Provider shall cease all transmissions of data until the department has verified that the Service Provider has taken appropriate action to correct the issues that caused the suspension and the department has lifted the suspension.
+Notes
+Cal. Code Regs. Tit. 13, § 153.18
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"19" "(a) As required by Vehicle Code section 4450.5(a) and section 153.22 below, Lienholder's title information shall be kept in electronic format via the department's Electronic Lien and Title program.
+(b) A Lienholder shall not file title information with the department electronically without having applied for a permit to participate in the department's Electronic Lien and Title program and been issued a Lienholder's permit by the department.
+Notes
+Cal. Code Regs. Tit. 13, § 153.20
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Sections 4450.5, 4451 and 4453, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"20" "(a)A Lienholder shall submit the following to the department:
+(1) A completed and signed Electronic Lien and Title (ELT) Program Lienholder Application form, REG 671 (NEW 1/2019), which is hereby incorporated by reference;
+(2) A copy of their business documents;
+(3) A completed and signed Electronic Lien and Title (ELT) Program Information Security and Disclosure Statement Service Provider/Lienholder Firm form, REG 678 (NEW 1/2019); and
+(4) For each of their designated employees, a completed and signed Electronic Lien and Title (ELT) Program Information Security and Disclosure Statement Service Provider/Lienholder Employee form, REG 677 (NEW 1/2019).
+Notes
+Cal. Code Regs. Tit. 13, § 153.22
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Sections 1808.47 and 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"21" "(a) The department shall review the application for a Lienholder's permit, and notify the lienholder and their identified Service Provider within 30 days of receipt of the application, whether it contains all of the required information.
+(b) The department shall approve an application and issue an Electronic Lien and Title (ELT) Lienholder Permit, form REG 672 F (NEW 1/2019), which is hereby incorporated by reference, after determining that the application is complete.
+Notes
+Cal. Code Regs. Tit. 13, § 153.24
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"22" "(a) Every Lienholder permit issued under this article shall be non-expiring and remain valid until the Lienholder requests to withdraw from the program for one of the reasons listed in section 153.28 below.
+(b) Any changes to the Lienholder's permit required by the Lienholder during the term of the permit shall be requested by submitting an Electronic Lien and Title (ELT) Program Change Request form, REG 673 (NEW 1/2019), which is hereby incorporated by reference, to the department.
+Notes
+Cal. Code Regs. Tit. 13, § 153.26
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Section 4450.5, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"23" "(a)A Lienholder may withdraw from the Electronic Lien and Title program for either of the following reasons:
+(1) The Lienholder has been acquired by or merged with a permitted Lienholder that is assuming all of the acquired or merging Lienholder's liens. In this situation, either the acquired or merging Lienholder or the acquiring or surviving Lienholder may submit the request form specified in subdivision (b) below; or
+(2) Closure of business.
+(b) A Lienholder requesting to withdraw from the department's Electronic Lien and Title program shall submit an Electronic Lien and Title (ELT) Program Withdrawal Request form, REG 674 (NEW 1/2019), which is hereby incorporated by reference, to the department.
+(c) A Lienholder requesting to withdraw from the program shall request the conversion of their titles held in electronic format to paper Certificates of Ownership pursuant to Vehicle Code section 4451 within 30 days after receiving departmental approval to withdraw.
+Notes
+Cal. Code Regs. Tit. 13, § 153.28
+Note: Authority cited: Sections 1651 and 4450.5, Vehicle Code. Reference: Sections 4450.5 and 4451, Vehicle Code.
+1. New section filed 6-10-2020; operative 10/1/2020 (Register 2020, No. 24). Filing deadline specified in Government Code section 11349.3(a) extended 60 calendar days pursuant to Executive Order N-40-20 and an additional 60 calendar days pursuant to Executive Order N-66-20.2. Editorial correction of History 1 (Register 2020, No. 43)."
+"24" "(a)The department shall issue a set of two (2) weight decals to each vehicle weighing 10,001 pounds or more in accordance with subdivision (f) of Vehicle Code section9400.1. Except for school buses, as defined in Vehicle Code Section545(see subsection (a)(1) below for the requirements that apply only to school buses), one (1) weight decal shall be affixed to each door on the right and left sides of the vehicle, or, if the vehicle has sliding doors, immediately in front of or behind each door. The decals may be affixed to plaques that are permanently attached to or adjacent to the right and left door of the vehicle. Both decals shall be visible from fifty feet.
+(1) School Buses, as defined in Vehicle Code Section 545, shall have one weight decal affixed on each side of the vehicle, or upon plaques which are permanently affixed to the vehicle, twelve (12) inches from the rear portion of the rear wheel well opening. Both decals shall be visible from fifty feet.
+(b) The department shall charge a three dollar ($3) fee for each set of weight decals, including substitute and duplicate weight decals.
+Notes
+Cal. Code Regs. Tit. 13, § 154.00
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Section 9400.1, Vehicle Code.
+1. New section filed 12-15-2004; operative 1-14-2005 (Register 2004, No. 51). 2. Amendment of subsection (a), new subsection (a)(1) and amendment of Note filed 7-28-2006; operative 8-27-2006 (Register 2006, No. 30)."
+"25" "As used in this article, the following definitions shall apply:
+
+(a) An unrecovered total loss vehicle is a stolen vehicle that is not recovered within 60 days of the date the theft of the vehicle is reported to the police.
+(b) A constructive total loss vehicle is a vehicle meeting the conditions set forth in section 544 of the Vehicle Code defining a total loss salvage vehicle.
+(c) A nonrepairable vehicle is a vehicle meeting the conditions set forth in section 431 of the Vehicle Code.
+Notes
+Cal. Code Regs. Tit. 13, § 155.00
+Note: Authority cited: Section 10902, Revenue and Taxation Code; and Section 1651, Vehicle Code. Reference: Sections 431, 11515 and 11515.2, Vehicle Code; and Section 10902, Revenue and Taxation Code.
+1. Change without regulatory effect renumbering former section 205.00 to section 155.00 filed 7-19-93 pursuant to title 1, section 100, California Code of Regulations (Register 93, No. 30).2. Amendment of subsections (a) and (b), new subsection (c) and amendment of Note filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36).3. Editorial correction of subsection (a) (Register 2015, No. 28)."
+"26" "(a)Prior to the submission of a vehicle license fee refund request for an unrecovered total loss vehicle, the following conditions shall be satisfied:
+(1) The vehicle shall be registered in the name of the owner of the salvage value of the total loss vehicle in accordance with section 5902 of the Vehicle Code.
+(2) Sixty (60) days shall have elapsed from the date the theft of the vehicle was reported to the police.
+(b) Prior to, or at the same time as, the vehicle license fee refund request is submitted for a constructive total loss or nonrepairable vehicle, the requirements of section 11515 or 11515.2 of the Vehicle Code shall be satisfied.
+Notes
+Cal. Code Regs. Tit. 13, § 155.02
+Note: Authority cited: Section 10902, Revenue and Taxation Code; and Section 1651, Vehicle Code. Reference: Sections 9868, 11515, 11515.2 and 42231, Vehicle Code; and Section 10902, Revenue and Taxation Code.
+1. Change without regulatory effect renumbering former section 205.02 to section 155.02 filed 7-19-93 pursuant to title 1, section 100, California Code of Regulations (Register 93, No. 30). 2. Amendment of subsection (b) and Note filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36)."
+"27" "(a)The application for the refund of the remaining portion of the vehicle license fee for an unrecovered total loss vehicle shall be submitted to the department on an Application for Vehicle License Fee Refund, Part A, Unrecovered Total Loss Vehicle, form REG 65 (Rev. 4/2007), and shall contain the following information:
+(1) The vehicle license plate number, vehicle identification number, year model, and vehicle make of the unrecovered total loss vehicle.
+(2) The month, day and year of the vehicle theft.
+(3)The month, day and year of the vehicle theft report and the name and location of the police where the theft was reported.
+(A) A copy of the police vehicle theft report shall be submitted to the department with the application for a refund for an unrecovered total loss vehicle when a Department of Justice stolen vehicle update is not included in the vehicle report of the department.
+(4) A certification signed by the applicant under penalty of perjury under the laws of the State of California that the information entered by the applicant is true and correct.
+(5) The true full name(s) and address of the registered owner(s) of record at the time the vehicle was stolen.
+(6) The signature of the applicant and the date signed.
+(b)The application for the refund of the remaining portion of the vehicle license fee for a constructive total loss or nonrepairable vehicle shall be submitted to the department on an Application for Vehicle License Fee Refund, Part B, Constructive Total Loss or Nonrepairable Vehicle, form REG 65, and shall contain the following information:
+(1) The vehicle license plate number, vehicle identification number, year model, and vehicle make of the constructive total loss or nonrepairable vehicle.
+(2) The month, day and year the constructive total loss or nonrepairable vehicle was wrecked, destroyed or damaged by a single event.
+(3) The true full name(s) and the address of the registered owner(s) of record at the time the vehicle was wrecked, destroyed or damaged.
+(4)A certification signed under penalty of perjury under the laws of the State of California by the registered owner(s) of record named in subdivision (3) that he and/or she was not cited or convicted of one or more violations pursuant to section 23152 or section23153of the Vehicle Code which relates to driving under the influence of alcohol or drugs, or pursuant to section23103of the Vehicle Code as specified in section23103.5of the Vehicle Code which involves a substitute (plea) for an original citation of driving under the influence on connection with the loss of the vehicle described in the application.
+(A) If the registered owner of record named in subdivision (3) was cited under any of these code sections, acceptable proof of the dismissal of the citation or a finding of not guilty shall be submitted to the department with the application.
+(B) Acceptable proof shall be defined as a court abstract form (DL106R), a magnetic tape court abstract, a letter from a court on court letterhead, a departmental phone slip signed or initialed by the department employee who initiated the telephone call, or departmental microfilm or microfiche documentation.
+(5) A declaration signed by the registered owner(s) of record named in subdivision (3) under penalty of perjury under the laws of the State of California that all the information entered on the application by the owner(s) is true and correct.
+(6) The signature(s) and the date signed by the registered owner(s) of record named in subdivision (3).
+(7) The true full name and address of the applicant who is the owner of the salvage value of the vehicle.
+(8) A certification signed by the applicant under penalty of perjury under the laws of the State of California that the information entered by the applicant is true and correct.
+(9) The signature of the applicant and the date signed.
+(c) The application for a refund for the remaining portion of the vehicle license fee for a total loss vehicle shall be received by the department within three (3) years after the date the vehicle license fees were paid.
+Notes
+Cal. Code Regs. Tit. 13, § 155.04
+Note: Authority cited: Section 10902, Revenue and Taxation Code; and Section 1651, Vehicle Code. Reference: Sections 9868, 11515 and 11515.2, Vehicle Code; and Section 10902, Revenue and Taxation Code.
+1. Change without regulatory effect renumbering former section 205.04 to section 155.04 filed 7-19-93 pursuant to title 1, section 100, California Code of Regulations (Register 93, No. 30). 2. Editorial correction of subsection (b)(7) (Register 95, No. 43). 3. Editorial correction reinstating inadvertently omitted section (Register 2003, No. 27).4. Amendment of section and Note filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36).5. Change without regulatory effect amending subsections (a) and (b) filed 11/28/2016 pursuant to section 100, title 1, California Code of Regulations (Register 2016, No. 49).6. Editorial correction of section heading (Register 2017, No. 11)."
+"28" "(a)In addition to the requirements specified in Sections11515and11515.1(a)of the Vehicle Code to obtain a salvage certificate for a total loss vehicle, an Application for Salvage Certificate or Nonrepairable Vehicle Certificate, form REG 488C (REV. 8/2008) shall be submitted to the department and shall contain the following information entered in Section 1 on the form:
+(1) The vehicle description, including the vehicle license plate number, make, year, vehicle identification number, the state of last known vehicle registration, and the date registration expires.
+(2) The insurance claim number, if available.
+(3)The cost/value of the vehicle as determined either by the insurance company's payoff or the purchase price from the previous owner.
+(A) The cost/value shall not be required when the application is for a duplicate salvage certificate.
+(4) The date the vehicle was wrecked or destroyed, when applicable.
+(5) The date the vehicle was stolen, when applicable.
+(6) The date the vehicle was recovered, if stolen.
+(7)The applicant or authorized agent shall sign and date the form in Section 1 to certify that the described vehicle is a total loss salvage, that a properly endorsed certificate of ownership document or documents is attached, and to request the department issue a salvage certificate.
+(A)If the properly endorsed certificate of ownership or other appropriate evidence of ownership document(s) cannot be secured, the following applies:
+(i) Vehicles valued under five thousand dollars ($5,000) shall require a Statement of Facts, form REG 256 (REV. 1/2007) with Section G completed to explain why the title cannot be obtained and Section H signed and dated to certify or declare under penalty of perjury that the described vehicle identified in Section G is a total loss salvage and to request that the department issue a salvage certificate.
+(ii) Vehicles valued at five thousand dollars ($5,000) and above shall require a surety bond pursuant to Section 4157 of the Vehicle Code. A surety bond is also required when settlement is made to the legal owner of a vehicle without the release of the registered owner unless repossession documentation is attached.
+(iii) EXCEPTION: Following a total loss settlement, an insurance company, an occupational licensee of the department authorized by an insurance company or a salvage pool authorized by an insurance company, that has completed the requirements of Section 11515 of the Vehicle Code and completed the Unobtainable Title Certification for Issuance of a Salvage or Nonrepairable Certificate, form REG 492 (REV 2/2009), which is hereby incorporated by reference, shall submit the REG 492 form, along with the REG 488C form to request that the department issue a salvage certificate without a certificate of ownership or other appropriate evidence of ownership document(s).
+(8) The name of the insurance company or applicant.
+(9) The California Driver License or Identification Card number, if the applicant is an individual and not a business or an agent.
+(10)The street address which shall include, but not be limited to, the following: the street number and name, city, state and zip code.
+(A) The street address of the insurance company or applicant depending on who is completing the REG 488C form.
+(11) If applicable, the authorized agent's printed name and occupational license number when the agent is licensed by the department.
+(b)The License Plate Disposition Certification, Section 3 on the REG 488C form, shall be completed with Section 1 that requests a salvage certificate and shall contain the following:
+(1)An indication by the applicant or an authorized agent that the license plates assigned to the vehicle are being surrendered, have been lost, have been destroyed by an occupational licensee, or are special plates retained by the owner.
+(A) When the license plates are surrendered, the applicant shall indicate the number of plates surrendered.
+(B) When the license plates were destroyed by an occupational licensee, the occupational license number shall be indicated.
+(c) A statement signed and dated by the applicant or authorized agent that certifies or declares under penalty of perjury under the laws of the State of California that the information provided on the application is true and correct.
+Notes
+Cal. Code Regs. Tit. 13, § 155.05
+Note: Authority cited: Section 10902, Revenue and Taxation Code; and Section 1651, Vehicle Code. Reference: Sections 2015.5, Code of Civil Procedure; Sections 9868, 11515 and 11515.1, Vehicle Code; and Section 10902, Revenue and Taxation Code.
+1. New section filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36). 2. Amendment of section heading, section and Note filed 12-15-2009; operative 1-14-2010 (Register 2009, No. 51)."
+"29" "Notes
+Cal. Code Regs. Tit. 13, § 155.06
+Note: Authority cited: Section 10902, Revenue and Taxation Code. Reference: Section 10902, Revenue and Taxation Code.
+1. Change without regulatory effect renumbering former section 205.06 to section 155.06 filed 7-19-93 pursuant to title 1, section 100, California Code of Regulations (Register 93, No. 30). 2. Repealer filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36)."
+"30" "(a)In addition to the requirements specified in Sections11515,11515.1(b)and11515.2of the Vehicle Code to obtain a nonrepairable vehicle certificate for a vehicle, an Application for Salvage Certificate or Nonrepairable Vehicle Certificate, form REG 488C (REV. 8/2008) shall be submitted to the department and shall contain the following information entered in Section 2 on the form:
+(1) The vehicle description, including the vehicle license plate number, make, year, vehicle identification number, the state of last known vehicle registration, and the date registration expires.
+(2) The insurance claim number, if available.
+(3)The cost/value of the vehicle as determined either by the insurance company's payoff or the purchase price from the previous owner.
+(A) The cost/value shall not be required when the application is for a duplicate nonrepairable vehicle certificate.
+(4) The date the vehicle was wrecked or destroyed, when applicable.
+(5) The date the vehicle was stolen, when applicable.
+(6) The date the vehicle was recovered, if stolen.
+(7) An indication of whether the nonrepairable condition pursuant to Vehicle Code section 431 was due to a surgical strip, a burned hulk or declared nonrepairable by the owner.
+(8)The applicant or authorized agent shall sign and date the form in Section 2 to certify that the described vehicle is a nonrepairable vehicle, that a properly endorsed certificate of ownership document or document(s) is attached, and to request the department issue a nonrepairable vehicle certificate.
+(A)If the properly endorsed certificate of ownership document or documents cannot be secured, the following applies:
+(i) Vehicles valued under five thousand dollars $5,000 shall require a Statement of Facts, form REG 256 (REV. 1/2007) with Section G completed to explain why the title cannot be obtained and Section H signed and dated to certify or declare under penalty of perjury that the described vehicle identified in Section G is a nonrepairable vehicle and request the department issue a nonrepairable vehicle certificate.
+(ii) Vehicles valued at five thousand dollars $5,000 and above shall require a surety bond pursuant to Section 4157 of the Vehicle Code. A surety bond is also required when settlement is made to the legal owner of a vehicle without the release of the registered owner unless repossession documentation is attached.
+(iii) EXCEPTION: Following a total loss settlement, an insurance company, an occupational licensee of the department authorized by an insurance company or a salvage pool authorized by an insurance company, that has completed the requirements of Section 11515.2 of the Vehicle Code and completed the Unobtainable Title Certification for Issuance of a Salvage or Nonrepairable Certificate, Form REG 492 (Rev. 2/2009), which is hereby incorporated by reference, shall submit the REG 492 form, along with the REG 488C form to request that the department issue a nonrepairable vehicle certificate without a certificate of ownership or other appropriate evidence of ownership document(s).
+(9) The name of the insurance company or applicant.
+(10) The California Driver License or Identification Card number, if the applicant is an individual and not a business or an authorized agent.
+(11)The street address which shall include, but not be limited to, the following: the street number and name, city, state and zip code.
+(A) The street address of the insurance company or applicant depending on who is completing the REG 488C form.
+(12) If applicable, the authorized agent's printed name and occupational license number when the agent is licensed by the department.
+(b)The License Plate Disposition Certification, Section 3 on the REG 488C form shall be completed with Section 2 that requests a nonrepairable vehicle certificate and shall contain the following:
+(1)An indication by the applicant or an authorized agent that the license plates assigned to the vehicle are being surrendered, have been lost, have been destroyed by an occupational licensee, or are special plates retained by the owner.
+(A) When the license plates are surrendered, the applicant shall indicate the number of plates surrendered.
+(B) When the license plates were destroyed by an occupational licensee, the occupational license number of the occupational licensee shall be indicated.
+(c) A statement signed and dated by the applicant or authorized agent that certifies or declares under penalty of perjury under the laws of the State of California that the information provided on the application is true and correct.
+Notes
+Cal. Code Regs. Tit. 13, § 155.07
+Note: Authority cited: Section 1651, Vehicle Code; and Section 10902, Revenue and Taxation Code. Reference: Section 2015.5, Code of Civil Procedure; Sections 9868, 11515, 11515.1 and 11515.2, Vehicle Code; Section 10902, Revenue and Taxation Code.
+1. New section filed 12-15-2009; operative 1-14-2010 (Register 2009, No. 51)."
+"31" "(a)The amount of the vehicle license fee refunded for an unrecovered or constructive total loss or nonrepairable vehicle shall be based on one-twelfth of the annual vehicle license fee for each full month that remains until the vehicle registration expires.
+(1) The number of full months remaining shall be calculated from the date of loss of the vehicle through the registration expiration date. A portion of each full month that remains until registration expires shall not be considered a full month when calculating the number of remaining months.
+(b) An administrative fee pursuant to Vehicle Code section 11515.2(d) shall be deducted from the refund amount.
+Notes
+Cal. Code Regs. Tit. 13, § 155.08
+Note: Authority cited: Section 10902, Revenue and Taxation Code; and Section 1651, Vehicle Code. Reference: Sections 9868 and 11515.2, Vehicle Code; and Section 10902, Revenue and Taxation Code.
+1. Change without regulatory effect renumbering former section 205.08 to section 155.08 filed 7-19-93 pursuant to title 1, section 100, California Code of Regulations (Register 93, No. 30). 2. Amendment of section and Note filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36)."
+"32" "(a)When a refund is received for an unrecovered total loss vehicle which is subsequently recovered in the same registration year for which the refund was received, the current owner shall return the amount of the vehicle license fee refunded per section 155.08(a) of these regulations.
+(1) When the repayment is not received by the department prior to the subsequent renewal of the registration, the renewal fees will include the amount of the vehicle license fee refunded per section 155.08(a) of these regulations.
+(b) When a refund is received for a constructive total loss vehicle which is subsequently repaired and registered in the same registration year for which the refund was received, the registration fees shall include the amount of the vehicle license fee refunded per section 155.08(a) of these regulations.
+Notes
+Cal. Code Regs. Tit. 13, § 155.10
+Note: Authority cited: Section 10902, Revenue and Taxation Code; and Section 1651, Vehicle Code. Reference: Sections 9868, 11515 and 11515.2, Vehicle code; and Section 10902, Revenue and Taxation Code.
+1. Change without regulatory effect renumbering former section 205.10 to section 155.10 filed 7-19-93 pursuant to title 1, section 100, California Code of Regulations (Register 93, No. 30). 2. Amendment of section and Note filed 9-2-2004; operative 10-2-2004 (Register 2004, No. 36)."
+"33" "(a)Only vehicles that meet both the Federal Inherently Low Emission Vehicle (ILEV) standards [as defined in Part 88 (commencing with Section 88.311-93 ) of Title 40 of the Code of Federal Regulations] and the California Ultra-Low Emission Vehicle (ULEV) or Super Ultra-Low Emission Vehicle (SULEV) standards, [as defined in Title 13, Section 1960.1, of the California Code of Regulations], as listed on the Air Resources Board (ARB)'s Internet website at www.arb.ca.gov/msprog/carpool/carpool.htm, are eligible for Clean Air Vehicle Decals in accordance with subsection (g)(1), and must be powered by one of the following:
+(1) Electric;
+(2) Liquefied Petroleum Gas [LPG];
+(3) Compressed Natural Gas [CNG];
+(4) Hydrogen Fuel Cell.
+(b)Vehicles that meet California's Enhanced Advanced Technology Partial Zero Emission Vehicle (Enhanced AT PZEV) or Transitional Zero-Emission Vehicle (TZEV), or plug-in hybrid (PHEV) standards or hybrid vehicles including hydrogen internal combustion engine (hydrogen ICE) vehicles, as listed on the ARB's Internet website at www.arb.ca.gov/msprog/carpool/carpool.htm, are eligible for Clean Air Vehicle Decals in accordance with subsection (g)(2), and must be powered by:
+(1) Plug-in Hybrid.
+(c)If the applicant's vehicle(s) does not appear on the ARB's list of eligible vehicles, the department may refer the applicant to the ARB for assistance. A certification from the ARB verifying the vehicle meets the emission standards as set forth in subdivision (a) and (b) will be required by the department before decals may be issued.
+(1) Vehicles converted by means of \"aftermarket\" kits to 100% electric power to meet the decal qualification shall be referred to ARB's toll free telephone number to obtain an ARB certification before decals may be issued.
+(d)Applicants for Clean Air Vehicle Decals shall complete the appropriate form as follows:
+(1) Registered vehicle owners shall complete an Application for Clean Air Vehicle Decals, Form REG 1000 (Rev. 6/2015), which is hereby incorporated by reference.
+(2)Vehicle dealers who are requesting several stickers for vehicles prior to vehicle sale shall complete a New Vehicle Dealer Application for Clean Air Vehicle Decals, Form REG 1000 D (Rev. 3/2017), which is hereby incorporated by reference.
+(A) Registered vehicle owners who purchased a new vehicle through a dealer for which a Clean Air Vehicle Decal has already been issued are not required to complete a Form REG 1000.
+(3)Registered owners who have a fleet of like vehicles may submit one application for the entire fleet using a Form REG 1000.
+(A)A list shall be attached to the application, which identifies each vehicle by:
+1. Vehicle Identification Number;
+2. License Plate Number;
+3. Make;
+4. Model and year.
+(B) \"Like\" vehicles are those vehicles that are powered by the same energy source.
+(e)If the application is incomplete or deficient, the department shall notify an applicant, in writing, within 30 days of receipt of the application.
+(1)An application is considered deficient when the applicable requirements of these regulations are not fulfilled.
+(A) When an application is determined to be deficient, the department shall identify the specific requirement(s) needed to complete the application.
+(2)An application is considered complete when the applicable requirements of these regulations have been fulfilled.
+(A) When an application is determined to be complete, a set of decals shall be issued.
+(f)A $22.00 application fee for each set of Clean Air Vehicle Decals requested and the completed application(s) as set forth in subdivision (d), along with a list as set forth in subdivision (d)(3)(A), if applicable, shall be mailed to:
+
+SPECIAL PROCESSING UNIT	
+DEPARTMENT OF MOTOR VEHICLES	
+P.O. BOX 932345	
+MAIL STATION D238	
+SACRAMENTO, CA 94232-3450	
+
+or delivered to any department field office. Documents and fees will be sent to the Special Processing Unit at the department's Headquarters for processing.
+
+(g)Number, color, and placement of the Clean Air Vehicle Decals shall be as follows:
+(1) For vehicles meeting ULEV, SULEV, or ZEV standards, as described in paragraph (a), the decals shall be of white material, issued to each vehicle in sets of three. The two larger decals shall be affixed on each vehicle's rear quarter panels, one on each side of the vehicle, behind the wheel wells, with the State Seal in the up position. The smaller decal in the set shall be affixed to the right side of the vehicle's rear bumper, with the State Seal in the up position.
+(2) For vehicles meeting Enhanced AT PZEV or TZEV standards, as described in paragraph (b), the decals shall be of green material, issued to each vehicle in sets of four. The two larger decals shall be affixed on each vehicle's rear quarter panels, one on each side of the vehicle, behind the wheel wells, with the State Seal in the up position. The two smaller decals in the set shall be affixed to the right sides of the vehicle's front and rear bumpers, with the State Seal in the up position.
+Notes
+Cal. Code Regs. Tit. 13, § 156.00
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Sections 5205.5 and 21655.9, Vehicle Code.
+1. New section filed 2-19-2002; operative 3-21-2002 (Register 2002, No. 8).2. Amendment of subsections (a) and (b), new subsections (c)-(c)(1), subsection relettering and amendment of newly designated subsection (d)(1)(D) filed 7-7-2004; operative 8-6-2004 (Register 2004, No. 28).3. Amendment of section heading and section filed 3-24-2006; operative 4-23-2006 (Register 2006, No. 12).4. Change without regulatory effect amending subsection (a) and Form REG 1000 (incorporated by reference) filed 7-25-2007 pursuant to section 100, title 1, California Code of Regulations (Register 2007, No. 30).5. Change without regulatory effect amending subsection (g)(2) filed 10-23-2007 pursuant to section 100, title 1, California Code of Regulations (Register 2007, No. 43).6. Change without regulatory effect amending subsections (a) and (b) and repealing subsections (b)(4) and (g)(2) filed 7-1-2011 pursuant to section 100, title 1, California Code of Regulations (Register 2011, No. 26).7. Amendment of section heading and subsections (a)-(b), new subsections (b)(4)-(5), amendment of subsections (c)-(c)(1), (e)(2)(A), (f), (g) and (g)(1) and new subsection (g)(2) filed 9-25-2012; operative 10-25-2012 (Register 2012, No. 39).8. Amendment of section and Forms REG 1000 and REG 1000 D (incorporated by reference) filed 9-24-2014; operative 1/1/2015 (Register 2014, No. 39).9. Amendment of subsections (d)(1)-(2) and (f) filed 5-9-2016; operative 7/1/2016 (Register 2016, No. 20).10. Change without regulatory effect amending Form REG 1000 (incorporated by reference) and amending subsection (d)(2) filed 6-12-2017 pursuant to section 100, title 1, California Code of Regulations (Register 2017, No. 24)."
+"34" "(a) Clean Air Vehicle Decals shall remain with the qualifying vehicle for which they were originally issued, regardless of changes in ownership.
+(b)A new Clean Air Vehicle certification document (i.e., \"Clean Air Certificate,\" issued with each set of Clean Air Vehicle Decals) shall be made available for subsequent (i.e., transfer) purchasers of qualifying vehicles to which Clean Air Vehicle Decals have been issued. The department shall issue a new Certificate which shall retain the vehicle description while providing the new ownership information.
+(1) A new owner of a vehicle that was issued a decal through the dealer prior to sale is not required to obtain a new certification.
+(c) Clean Air Vehicle Decals shall be made available for issuance in complete sets as replacements for Clean Air Vehicle Decals that are damaged, destroyed, stolen, or not received, provided that such replacement decals are issued to the same vehicle to which Clean Air Vehicle Decals were originally issued.
+(d) Applicants for replacement Clean Air Vehicle Decals or a replacement Clean Air Certificate shall complete an Application for Clean Air Vehicle Decals, Form REG 1000 (Rev. 6/2015), which is hereby incorporated by reference and made available to the public at all field offices and on the department's internet website at www.dmv.ca.gov. The applicant shall sign the application under penalty of perjury under the laws of the State of California.
+(e)An acceptable Application for Clean Air Vehicle Decals, Form REG 1000, herein after referred to as \"application,\" requesting replacement decals shall contain a check mark in the box labeled \"Replacement decal\" and a check mark in one of the boxes indicating the reason a replacement is needed.
+(1) An acceptable application requesting replacement Clean Air Vehicle Decals that are declared \"stolen\" shall include a copy of the police report that was created by the responding law enforcement agency to which the stolen decals were reported.
+(2) An acceptable application requesting replacement Clean Air Vehicle Decals which have been declared \"lost\", \"not received\", \"damaged\", or \"destroyed\" shall complete the vehicle information portion and Section E - Statement of Facts portion of the Form REG 1000, which is hereby incorporated by reference and available to the public at all field offices and on the department's internet website at www.dmv.ca.gov. The applicant shall provide an explanation as to how the decals were lost, not received, damaged or destroyed.
+(3) An acceptable application requesting a new Clean Air Certificate only, due to the applicant acquiring a qualified vehicle through transfer, shall contain the word \"transfer\" or other words to indicate a transfer has taken place, in the space provided under the box marked \"Other.\"
+(f) Any and all remaining Clean Air Vehicle Decals previously assigned to a vehicle shall be removed and surrendered to the department, either at a department field office or by mail to the address identified in subsection (g) of this section, before replacement decals are affixed to the vehicle.
+(g)A $22.00 fee for each replacement set of Clean Air Vehicle Decals and the completed application shall be mailed to:
+
+SPECIAL PROCESSING UNIT	
+DEPARTMENT OF MOTOR VEHICLES	
+P.O. BOX 932345	
+MAIL STATION D238	
+SACRAMENTO, CA 94232-3450	
+
+or delivered to any department field office. There is no fee for an applicant requesting a Clean Air Certificate only.
+
+(1) The $22.00 fee will not be required of an applicant who indicates on the application that the original decals were never received.
+Notes
+Cal. Code Regs. Tit. 13, § 156.01
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Sections 5205.5 and 21655.9, Vehicle Code.
+1. New section filed 6-16-2008; operative 7-16-2008 (Register 2008, No. 25).2. Change without regulatory effect amending subsections (d) and (e)(2) filed 7-1-2011 pursuant to section 100, title 1, California Code of Regulations (Register 2011, No. 26).3. Amendment of section heading and section filed 9-25-2012; operative 10-25-2012 (Register 2012, No. 39).4. New subsection (b)(1) and amendment of subsections (c)-(e), (e)(2) and (g) filed 9-24-2014; operative 1/1/2015 (Register 2014, No. 39).5. Amendment of subsections (d) and (g)-(g)(1) filed 5-9-2016; operative 7/1/2016 (Register 2016, No. 20)."
+"35" "(a)A firefighting vehicle is defined as any vehicle that contains firefighting apparatus and equipment which is designed and intended primarily for firefighting. The following privately owned vehicles, when operated upon a highway only in responding to, and returning from, emergency fire calls, qualify as firefighting vehicles and are exempt from registration:
+(1) Fire trucks equipped with hose and ladders.
+(2) Fire engines.
+(3) Other vehicles permanently equipped with firefighting apparatus and equipment.
+(4) A tank truck operated solely in conjunction with a fire truck, fire engine or other self propelled firefighting apparatus.
+(b) Privately owned vehicles or a combination of vehicles, which are not designed primarily for firefighting, including hazardous materials response vehicles, dedicated rescue vehicles, command post communications vehicles, passenger vehicles, buses, mobile kitchens, mobile sanitation facilities, and heavy equipment transport vehicles, do not qualify as firefighting vehicles as defined under subdivision (a) of this section.
+Notes
+Cal. Code Regs. Tit. 13, § 157.00
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Section 8589.10(c), Government Code; and Section 4015, Vehicle Code.
+1. New section filed 4-17-2003; operative 5-17-2003 (Register 2003, No. 16)."
+"36" "(a) After determining the cost price to the purchaser, the department shall classify or reclassify every vehicle, other than a trailer or semi-trailer described in subdivision (a) of Section 5014.1 of the Vehicle Code, in its proper class according to the classification plan set forth in this section.
+(b) For the purpose of this section, a classification plan is established consisting of the following classes: a class from zero dollars ($0) to and including forty-nine and ninety-nine cents ($49.99); a class from fifty dollars ($50) to and including one hundred ninety-nine dollars and ninety-nine cents ($199.99); and thereafter a series of classes successively set up in brackets having a spread of two hundred dollars ($200), consisting of a number of classes that will permit classification of all vehicles.
+(c) The market value of a vehicle, other than a trailer or semi-trailer as described in subdivision (a) of Section 5014.1 of the Vehicle Code, for each registration year, starting with the year the vehicle was first sold to a consumer as a new vehicle, or the year the vehicle was first purchased or assembled by the person applying for original registration in this state, or the year the vehicle was sold to the current registered owner as a used vehicle, shall be as follows: for the first year, 100 percent of a sum equal to the middle point between the extremes of its class as established in subdivision (b); for the second year, 90 percent of that sum; for the third year, 80 percent of that sum; for the fourth year, 70 percent of that sum, for the fifth year, 60 percent of that sum; for the sixth year, 50 percent of that sum; for the seventh year, 40 percent of that sum; for the eighth year, 30 percent of that sum; for the ninth year, 25 percent of that sum; and for the 10th year, 20 percent of that sum; and for the 11th year and each succeeding year, 15 percent of that sum; provided, however, that the minimum tax shall be the sum of one dollar ($1). Notwithstanding this subdivision, the market value of a trailer coach first sold on and after January 1, 1966, which is required to be moved under permit as authorized in Section 35790 of the Vehicle Code, shall be determined by the schedule in Section 10753.3 of the Revenue and Taxation Code.
+Notes
+Cal. Code Regs. Tit. 13, § 157.02
+1. Change without regulatory effect renumbering former section 159.00 to new section 157.02 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29).
+Note: Authority cited: Section 1651, Vehicle Code; and Section 10752, Revenue and Taxation Code. Reference: Section 5014.1, Vehicle Code; and Sections 10751, 10752, 10752.1, 10753 and 10754, Revenue and Taxation Code.
+1. Change without regulatory effect renumbering former section 159.00 to new section 157.02 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29)."
+"37" "(a)Applicants for a Window Decal shall complete Sections D and H of a Miscellaneous Statements of Fact (REG 256, REV. 2/2004), which is available at all field offices and on the Internet atwww.dmv.ca.gov, as follows:
+(1) The disabled person plate, disabled veteran plate, or disabled person placard number.
+(2) The license number, vehicle make, and vehicle identification number of the vehicle to which the decal will be affixed.
+(3) The name and address where the decal is to be mailed.
+(4) A signature certifying under penalty of perjury under the laws of the State of California that the information provided is true and correct.
+(5) The date the form was signed.
+(6) Daytime phone number.
+(b)A decal bearing a vehicle's license plate number will be issued, at no charge, to vehicles equipped with a wheelchair lift or wheelchair carrier, which obstructs the view of the vehicle's rear license plate. To qualify for the decal, theapplicantmust have been issued one of the following:
+(1) A disabled person license plate under Vehicle Code Section 5007;
+(2) A disabled veteran license plate under Vehicle Code Section 5007;
+(3) A disabled person permanent placard under Vehicle Code Section 22511.55.
+(c)A completed Miscellaneous Statements of Fact form shall be mailed to:
+
+SPECIAL PROCESSING UNIT -- MS D238
+
+DEPARTMENT OF MOTOR VEHICLES
+
+P.O. BOX 932345
+
+SACRAMENTO, CA 94232-3450
+
+Or delivered to any field office.
+
+Notes
+Cal. Code Regs. Tit. 13, § 157.04
+1. Change without regulatory effect renumbering former section 159.10 to new section 157.04 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29).
+Note: Authority cited: Sections 1651 and 5201, Vehicle Code. Reference: Sections 1652 and 5201, Vehicle Code.
+1. Change without regulatory effect renumbering former section 159.10 to new section 157.04 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29)."
+"38" "Notes
+Cal. Code Regs. Tit. 13, § 158.00
+Note: Authority cited: Section 1651, Vehicle Code. Reference: Sections 22511 and 22511.1, Vehicle Code.
+1. New section filed 10-10-2003; operative 11-9-2003 (Register 2003, No. 41). 2. Change without regulatory effect repealing section filed 2-13-2012 pursuant to section 100, title 1, California Code of Regulations (Register 2012, No. 7)."
+"39" "Notes
+Cal. Code Regs. Tit. 13, § 159.00
+1. New section filed 3-1-2004 as an emergency; operative 3-1-2004 (Register 2004, No. 10). A Certificate of Compliance must be transmitted to OAL by 6-29-2004 or emergency language will be repealed by operation of law on the following day.2. Certificate of Compliance as to 3-1-2004 order transmitted to OAL 6-16-2004 and filed 7-21-2004 (Register 2004, No. 30).3. Change without regulatory effect renumbering former section 159.00 to new section 157.02 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29).
+1. New section filed 3-1-2004 as an emergency; operative 3-1-2004 (Register 2004, No. 10). A Certificate of Compliance must be transmitted to OAL by 6-29-2004 or emergency language will be repealed by operation of law on the following day.2. Certificate of Compliance as to 3-1-2004 order transmitted to OAL 6-16-2004 and filed 7-21-2004 (Register 2004, No. 30).3. Change without regulatory effect renumbering former section 159.00 to new section 157.02 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29)."
+"40" "Notes
+Cal. Code Regs. Tit. 13, § 159.10
+1. New section filed 5-3-2005; operative 6-2-2005 (Register 2005, No. 18).2. Change without regulatory effect renumbering former section 159.10 to new section 157.04 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29).
+Note: Authority cited: Sections 1651 and 5201, Vehicle Code. Reference: Sections 1652 and 5201, Vehicle Code.
+1. New section filed 5-3-2005; operative 6-2-2005 (Register 2005, No. 18).2. Change without regulatory effect renumbering former section 159.10 to new section 157.04 filed 7-20-2023 pursuant to section 100, title 1, California Code of Regulations (Register 2023, No. 29)."
